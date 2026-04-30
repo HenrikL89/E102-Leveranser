@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <title>IFC Metadata Status</title>
+    <!-- CSS for tabell og styling -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #f0f2f5; }
+        .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #2f5597; border-bottom: 2px solid #2f5597; padding-bottom: 10px; }
+        .status-siste { background-color: #c6efce !important; font-weight: bold; color: #006100; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏗️ IFC Metadata Leveransekontroll</h1>
+        <table id="ifcTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Status</th>
+                    <th>Modell Navn</th>
+                    <th>MMI</th>
+                    <th>Revisjon</th>
+                    <th>Dato</th>
+                    <th>Restrisiko</th>
+                    <th>Merknad</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+    <!-- Scripting -->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+    <script>
+        // 1. Last inn CSV-filen
+        Papa.parse("data.csv", {
+            download: true,
+            header: true,
+            complete: function(results) {
+                // 2. Lag tabellen
+                $('#ifcTable').DataTable({
+                    data: results.data,
+                    columns: [
+                        { data: "Status" },
+                        { data: "Modell Navn" },
+                        { data: "MMI" },
+                        { data: "Revisjon" },
+                        { data: "Revisjonsdato" },
+                        { data: "Restrisiko kvalitet" },
+                        { data: "Revisjonsmerknad" }
+                    ],
+                    // 3. Fargelegg rader som er "SISTE"
+                    createdRow: function(row, data, dataIndex) {
+                        if (data["Status"] && data["Status"].includes("SISTE")) {
+                            $(row).addClass('status-siste');
+                        }
+                    },
+                    language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
+                    pageLength: 25
+                });
+            }
+        });
+    </script>
+</body>
+</html>
