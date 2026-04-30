@@ -3,34 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>IFC Metadata Dashboard</title>
-    <!-- CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
     <style>
         body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f7f9; }
         .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { color: #2f5597; }
+        h1 { color: #2f5597; margin-bottom: 5px; }
         
-        /* Stil for Hovedgruppen (den blå linjen) */
+        /* Den blå gruppe-linjen */
         tr.dtrg-group {
             background-color: #2f5597 !important;
             color: white !important;
             cursor: pointer;
-            font-weight: bold;
+            font-size: 1.05em;
         }
         tr.dtrg-group:hover { background-color: #1a3a6d !important; }
+
+        /* Fremheving av siste leveranse (første rad i gruppa) */
+        .latest-rev { background-color: #e6ffed !important; font-weight: bold; color: #006100; }
         
-        /* Stil for "Siste" revisjon (den grønne linjen) */
-        .latest-rev { background-color: #e6ffed !important; font-weight: 600; }
-        
-        /* Skjul detaljer som standard */
-        .collapsed-row { display: none; }
+        .metadata-info { font-weight: normal; opacity: 0.9; font-size: 0.9em; margin-left: 20px; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🏗️ IFC Metadata Oversikt</h1>
-        <p><i>Klikk på en modell for å se revisjonshistorikk.</i></p>
+        <p><i>Klikk på en blå rad for å se historikk.</i></p>
         <table id="ifcTable" class="display" style="width:100%">
             <thead>
                 <tr>
@@ -45,7 +43,6 @@
         </table>
     </div>
 
-    <!-- JS biblioteker -->
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
@@ -56,10 +53,10 @@
             download: true,
             header: true,
             complete: function(results) {
-                var table = $('#ifcTable').DataTable({
+                $('#ifcTable').DataTable({
                     data: results.data,
                     columns: [
-                        { data: "Modell Navn", visible: false }, // Skjules fordi den brukes som gruppe-header
+                        { data: "Modell Navn", visible: false },
                         { data: "MMI" },
                         { data: "Revisjon" },
                         { data: "Revisjonsdato" },
@@ -70,18 +67,23 @@
                     rowGroup: {
                         dataSrc: "Modell Navn",
                         startRender: function (rows, group) {
-                            // Finn info om den nyeste revisjonen i gruppen for å vise i headeren
-                            var latestRev = rows.data()[0]["Revisjon"];
-                            var latestDate = rows.data()[0]["Revisjonsdato"];
-                            return $('<tr/>')
-                                .append('<td colspan="5">' + group + ' &nbsp;&nbsp; <span style="font-weight:normal; opacity:0.8;">(Siste: ' + latestRev + ' / ' + latestDate + ')</span></td>');
+                            // Henter data fra den øverste raden i gruppen (nyeste pga Python-sortering)
+                            var newestData = rows.data()[0];
+                            var date = newestData["Revisjonsdato"];
+                            var mmi = newestData["MMI"];
+                            
+                            return $('<tr/>').append(
+                                '<td colspan="5"> 📁 ' + group + 
+                                '<span class="metadata-info">' +
+                                '<b>Siste dato:</b> ' + date + ' | <b>MMI:</b> ' + mmi + 
+                                '</span></td>'
+                            );
                         }
                     },
-                    pageLength: -1, // Vis alle
-                    dom: 'ft', // Kun søk og tabell
+                    pageLength: -1,
+                    dom: 'ft',
                     language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
                     
-                    // Logikk for å markere den øverste (nyeste) raden i hver gruppe som grønn
                     drawCallback: function (settings) {
                         var api = this.api();
                         var rows = api.rows({ page: 'current' }).nodes();
@@ -89,21 +91,20 @@
 
                         api.column(0, { page: 'current' }).data().each(function (group, i) {
                             if (lastGroup !== group) {
-                                $(rows).eq(i).addClass('latest-rev'); // Første rad i hver gruppe er nyest
+                                $(rows).eq(i).addClass('latest-rev'); // Grønn farge på nyeste rad
                                 lastGroup = group;
                             }
                         });
                     }
                 });
 
-                // --- LOGIKK FOR NEDTREKK (COLLAPSE) ---
+                // Klikk-funksjon for å rulle ut/inn
                 $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
-                    var rows = $(this).nextUntil('tr.dtrg-group');
-                    rows.toggle(); // Viser/skjuler rader
+                    $(this).nextUntil('tr.dtrg-group').toggle();
                 });
 
-                // Start med alle rader skjult
-                setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 100);
+                // Skjul historikk ved oppstart
+                setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 200);
             }
         });
     </script>
