@@ -1,116 +1,60 @@
-<!DOCTYPE html>
-<html lang="no">
-<head>
-    <meta charset="UTF-8">
-    <title>IFC Metadata Dashboard</title>
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
-    <style>
-        body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f7f9; }
-        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { color: #2f5597; }
-        
-        /* Blå gruppestil */
-        tr.dtrg-group {
-            background-color: #2f5597 !important;
-            color: white !important;
-            cursor: pointer;
-        }
-        tr.dtrg-group:hover { background-color: #1a3a6d !important; }
+Papa.parse("data.csv", {
+    download: true,
+    header: true,
+    skipEmptyLines: true, // HOPPER OVER TOMME LINJER
+    complete: function(results) {
+        var table = $('#ifcTable').DataTable({
+            data: results.data,
+            columns: [
+                { data: "Modell Navn", visible: false, defaultContent: "" },
+                { data: "MMI", defaultContent: "-" },
+                { data: "Revisjon", defaultContent: "-" },
+                { data: "Revisjonsdato", defaultContent: "-" },
+                { data: "Restrisiko kvalitet", defaultContent: "-" },
+                { data: "Revisjonsmerknad", defaultContent: "-" }
+            ],
+            order: [[0, 'asc']],
+            rowGroup: {
+                dataSrc: "Modell Navn",
+                startRender: function (rows, group) {
+                    var latest = rows.data()[0];
+                    // Sikkerhetssjekk hvis 'latest' er udefinert
+                    var d = (latest && latest.Revisjonsdato) ? latest.Revisjonsdato : "Ukjent";
+                    var m = (latest && latest.MMI) ? latest.MMI : "-";
+                    
+                    return $('<tr/>').append(
+                        '<td colspan="5">' +
+                        '<span class="icon">📁</span>' + group + 
+                        '<span class="header-info">' +
+                        '<b>Siste Dato:</b> ' + d + ' | ' +
+                        '<b>Siste MMI:</b> ' + m + ' | ' +
+                        '<i>(' + rows.count() + ' revisjoner)</i>' +
+                        '</span>' +
+                        '</td>'
+                    );
+                }
+            },
+            pageLength: -1,
+            dom: 'ft',
+            language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
+            drawCallback: function (settings) {
+                var api = this.api();
+                var rows = api.rows({ page: 'current' }).nodes();
+                var lastGroup = null;
 
-        /* Utheving av den nyeste revisjonen inne i gruppa */
-        .row-latest { background-color: #e6ffed !important; font-weight: bold; }
-        
-        .header-info { float: right; font-weight: normal; font-size: 0.9em; opacity: 0.9; padding-right: 10px; }
-        .icon { margin-right: 10px; }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🏗️ IFC Metadata Oversikt</h1>
-        <p>Klikk på en modell for å se full historikk (alle revisjoner).</p>
-        <table id="ifcTable" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th>Modell Navn</th>
-                    <th>MMI</th>
-                    <th>Revisjon</th>
-                    <th>Dato</th>
-                    <th>Restrisiko</th>
-                    <th>Merknad</th>
-                </tr>
-            </thead>
-        </table>
-    </div>
-
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-
-    <script>
-        Papa.parse("data.csv", {
-            download: true,
-            header: true,
-            complete: function(results) {
-                var table = $('#ifcTable').DataTable({
-                    data: results.data,
-                    columns: [
-                        { data: "Modell Navn", visible: false },
-                        { data: "MMI" },
-                        { data: "Revisjon" },
-                        { data: "Revisjonsdato" },
-                        { data: "Restrisiko kvalitet" },
-                        { data: "Revisjonsmerknad" }
-                    ],
-                    order: [[0, 'asc']], // Sorterer på modellnavn
-                    rowGroup: {
-                        dataSrc: "Modell Navn",
-                        startRender: function (rows, group) {
-                            // VIKTIG: rows.data() inneholder ALLE rader i gruppa.
-                            // Siden Python sorterte dem, er rows.data()[0] den nyeste.
-                            var latest = rows.data()[0];
-                            var count = rows.count(); // Antall revisjoner totalt
-                            
-                            return $('<tr/>').append(
-                                '<td colspan="5">' +
-                                '<span class="icon">📁</span>' + group + 
-                                '<span class="header-info">' +
-                                '<b>Siste Dato:</b> ' + latest.Revisjonsdato + ' | ' +
-                                '<b>Siste MMI:</b> ' + latest.MMI + ' | ' +
-                                '<i>(' + count + ' revisjoner totalt)</i>' +
-                                '</span>' +
-                                '</td>'
-                            );
-                        }
-                    },
-                    pageLength: -1,
-                    dom: 'ft',
-                    language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
-                    drawCallback: function (settings) {
-                        var api = this.api();
-                        var rows = api.rows({ page: 'current' }).nodes();
-                        var lastGroup = null;
-
-                        // Fargelegg kun den første raden i hver gruppe (den nyeste)
-                        api.column(0, { page: 'current' }).data().each(function (group, i) {
-                            if (lastGroup !== group) {
-                                $(rows).eq(i).addClass('row-latest');
-                                lastGroup = group;
-                            }
-                        });
+                api.column(0, { page: 'current' }).data().each(function (group, i) {
+                    if (lastGroup !== group) {
+                        $(rows).eq(i).addClass('row-latest');
+                        lastGroup = group;
                     }
                 });
-
-                // Toggling av historikk
-                $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
-                    $(this).nextUntil('tr.dtrg-group').toggle();
-                });
-
-                // Skjul historikken ved start slik at det er ryddig
-                setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 200);
             }
         });
-    </script>
-</body>
-</html>
+
+        $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
+            $(this).nextUntil('tr.dtrg-group').toggle();
+        });
+
+        setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 200);
+    }
+});
