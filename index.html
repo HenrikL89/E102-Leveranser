@@ -2,46 +2,135 @@
 <html lang="no">
 <head>
     <meta charset="UTF-8">
-    <title>IFC Metadata Dashboard</title>
-    <!-- CSS -->
+    <title>IFC Metadata Dashboard | Norconsult</title>
+    <!-- CSS biblioteker -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
+    
     <style>
-        body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f7f9; }
-        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { color: #2f5597; }
-        
-        /* Blå gruppestil */
-        tr.dtrg-group {
-            background-color: #2f5597 !important;
-            color: white !important;
-            cursor: pointer;
+        /* Norconsult Profilfarger */
+        :root {
+            --norconsult-blue: #0047bb;
+            --norconsult-blue-dark: #00358c;
+            --norconsult-light-grey: #f2f2f2;
+            --norconsult-white: #ffffff;
+            --norconsult-latest-bg: #eef4ff; /* Lys blå for fremheving */
+            --norconsult-latest-text: #0047bb;
         }
-        tr.dtrg-group:hover { background-color: #1a3a6d !important; }
 
-        /* Utheving av den nyeste revisjonen inne i gruppa */
-        .row-latest { background-color: #e6ffed !important; font-weight: bold; }
-        
-        .header-info { float: right; font-weight: normal; font-size: 0.9em; opacity: 0.9; padding-right: 10px; }
-        .icon { margin-right: 10px; }
+        body { 
+            font-family: 'Segoe UI', Arial, sans-serif; 
+            padding: 0; 
+            margin: 0; 
+            background-color: var(--norconsult-light-grey); 
+        }
+
+        /* Header med Logo */
+        .header-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: var(--norconsult-white);
+            padding: 15px 40px;
+            border-bottom: 4px solid var(--norconsult-blue);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .header-bar h1 {
+            color: var(--norconsult-blue);
+            margin: 0;
+            font-size: 24px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .norconsult-logo {
+            height: 50px;
+        }
+
+        /* Container for tabellen */
+        .main-container {
+            padding: 30px 40px;
+        }
+
+        .content-card {
+            background: var(--norconsult-white);
+            padding: 25px;
+            border-radius: 4px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        /* DataTables Profilering */
+        table.dataTable thead th {
+            background-color: #f8f9fa;
+            color: #333;
+            border-bottom: 2px solid var(--norconsult-blue) !important;
+            padding: 12px;
+        }
+
+        /* Blå Gruppe-header */
+        tr.dtrg-group {
+            background-color: var(--norconsult-blue) !important;
+            color: var(--norconsult-white) !important;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        tr.dtrg-group:hover {
+            background-color: var(--norconsult-blue-dark) !important;
+        }
+
+        /* Fremheving av nyeste rad */
+        .row-latest {
+            background-color: var(--norconsult-latest-bg) !important;
+            font-weight: 600;
+            color: var(--norconsult-latest-text);
+        }
+
+        .header-info {
+            float: right;
+            font-weight: 400;
+            font-size: 0.85em;
+            opacity: 0.9;
+        }
+
+        .icon { margin-right: 12px; }
+
+        p.hint {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>🏗️ IFC Metadata Oversikt</h1>
-        <p>Klikk på en blå rad for å se historikk (alle revisjoner).</p>
-        <table id="ifcTable" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th>Modell Navn</th>
-                    <th>MMI</th>
-                    <th>Revisjon</th>
-                    <th>Dato</th>
-                    <th>Restrisiko</th>
-                    <th>Merknad</th>
-                </tr>
-            </thead>
-        </table>
+
+    <!-- Norconsult Header -->
+    <header class="header-bar">
+        <h1>IFC Metadata Dashboard</h1>
+        <img src="https://companieslogo.com/img/orig/NORCO.OL_BIG-2216a709.png?t=1721396473" 
+             alt="Norconsult Logo" 
+             class="norconsult-logo">
+    </header>
+
+    <div class="main-container">
+        <div class="content-card">
+            <p class="hint">Klikk på en modellrad for å se revisjonshistorikk. Den nyeste leveransen er fremhevet i lyseblått.</p>
+            
+            <table id="ifcTable" class="display" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Modell Navn</th>
+                        <th>MMI</th>
+                        <th>Revisjon</th>
+                        <th>Dato</th>
+                        <th>Restrisiko kvalitet</th>
+                        <th>Revisjonsmerknad</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
     </div>
 
     <!-- JS biblioteker -->
@@ -74,13 +163,12 @@
                             var d = (latest && latest.Revisjonsdato) ? latest.Revisjonsdato : "Ukjent";
                             var m = (latest && latest.MMI) ? latest.MMI : "-";
                             
-                            // HER VAR FEILEN - Nå endret til $('<tr/>')
                             return $('<tr/>').append(
                                 '<td colspan="5">' +
                                 '<span class="icon">📁</span>' + group + 
                                 '<span class="header-info">' +
-                                '<b>Siste Dato:</b> ' + d + ' | ' +
-                                '<b>Siste MMI:</b> ' + m + ' | ' +
+                                '<b>SISTE DATO:</b> ' + d + ' | ' +
+                                '<b>SISTE MMI:</b> ' + m + ' | ' +
                                 '<i>(' + rows.count() + ' revisjoner)</i>' +
                                 '</span>' +
                                 '</td>'
@@ -89,7 +177,10 @@
                     },
                     pageLength: -1,
                     dom: 'ft',
-                    language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
+                    language: { 
+                        url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json',
+                        search: "SØK I MODELLER:" 
+                    },
                     drawCallback: function (settings) {
                         var api = this.api();
                         var rows = api.rows({ page: 'current' }).nodes();
@@ -104,15 +195,15 @@
                     }
                 });
 
-                // Toggling av historikk ved klikk på blå linje
+                // Toggling av historikk
                 $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
                     $(this).nextUntil('tr.dtrg-group').toggle();
                 });
 
-                // Skjul historikken ved start
+                // Start med alle rader skjult for en ryddig oversikt
                 setTimeout(() => { 
                     $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); 
-                }, 200);
+                }, 300);
             }
         });
     </script>
