@@ -8,27 +8,27 @@
     <style>
         body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f7f9; }
         .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        h1 { color: #2f5597; margin-bottom: 5px; }
+        h1 { color: #2f5597; }
         
-        /* Den blå gruppe-linjen */
+        /* Blå gruppestil */
         tr.dtrg-group {
             background-color: #2f5597 !important;
             color: white !important;
             cursor: pointer;
-            font-size: 1.05em;
         }
         tr.dtrg-group:hover { background-color: #1a3a6d !important; }
 
-        /* Fremheving av siste leveranse (første rad i gruppa) */
-        .latest-rev { background-color: #e6ffed !important; font-weight: bold; color: #006100; }
+        /* Utheving av den nyeste revisjonen inne i gruppa */
+        .row-latest { background-color: #e6ffed !important; font-weight: bold; }
         
-        .metadata-info { font-weight: normal; opacity: 0.9; font-size: 0.9em; margin-left: 20px; }
+        .header-info { float: right; font-weight: normal; font-size: 0.9em; opacity: 0.9; padding-right: 10px; }
+        .icon { margin-right: 10px; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>🏗️ IFC Metadata Oversikt</h1>
-        <p><i>Klikk på en blå rad for å se historikk.</i></p>
+        <p>Klikk på en modell for å se full historikk (alle revisjoner).</p>
         <table id="ifcTable" class="display" style="width:100%">
             <thead>
                 <tr>
@@ -53,7 +53,7 @@
             download: true,
             header: true,
             complete: function(results) {
-                $('#ifcTable').DataTable({
+                var table = $('#ifcTable').DataTable({
                     data: results.data,
                     columns: [
                         { data: "Modell Navn", visible: false },
@@ -63,47 +63,51 @@
                         { data: "Restrisiko kvalitet" },
                         { data: "Revisjonsmerknad" }
                     ],
-                    order: [[0, 'asc']],
+                    order: [[0, 'asc']], // Sorterer på modellnavn
                     rowGroup: {
                         dataSrc: "Modell Navn",
                         startRender: function (rows, group) {
-                            // Henter data fra den øverste raden i gruppen (nyeste pga Python-sortering)
-                            var newestData = rows.data()[0];
-                            var date = newestData["Revisjonsdato"];
-                            var mmi = newestData["MMI"];
+                            // VIKTIG: rows.data() inneholder ALLE rader i gruppa.
+                            // Siden Python sorterte dem, er rows.data()[0] den nyeste.
+                            var latest = rows.data()[0];
+                            var count = rows.count(); // Antall revisjoner totalt
                             
                             return $('<tr/>').append(
-                                '<td colspan="5"> 📁 ' + group + 
-                                '<span class="metadata-info">' +
-                                '<b>Siste dato:</b> ' + date + ' | <b>MMI:</b> ' + mmi + 
-                                '</span></td>'
+                                '<td colspan="5">' +
+                                '<span class="icon">📁</span>' + group + 
+                                '<span class="header-info">' +
+                                '<b>Siste Dato:</b> ' + latest.Revisjonsdato + ' | ' +
+                                '<b>Siste MMI:</b> ' + latest.MMI + ' | ' +
+                                '<i>(' + count + ' revisjoner totalt)</i>' +
+                                '</span>' +
+                                '</td>'
                             );
                         }
                     },
                     pageLength: -1,
                     dom: 'ft',
                     language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
-                    
                     drawCallback: function (settings) {
                         var api = this.api();
                         var rows = api.rows({ page: 'current' }).nodes();
                         var lastGroup = null;
 
+                        // Fargelegg kun den første raden i hver gruppe (den nyeste)
                         api.column(0, { page: 'current' }).data().each(function (group, i) {
                             if (lastGroup !== group) {
-                                $(rows).eq(i).addClass('latest-rev'); // Grønn farge på nyeste rad
+                                $(rows).eq(i).addClass('row-latest');
                                 lastGroup = group;
                             }
                         });
                     }
                 });
 
-                // Klikk-funksjon for å rulle ut/inn
+                // Toggling av historikk
                 $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
                     $(this).nextUntil('tr.dtrg-group').toggle();
                 });
 
-                // Skjul historikk ved oppstart
+                // Skjul historikken ved start slik at det er ryddig
                 setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 200);
             }
         });
