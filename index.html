@@ -2,23 +2,38 @@
 <html lang="no">
 <head>
     <meta charset="UTF-8">
-    <title>IFC Metadata Status</title>
-    <!-- CSS for tabell og styling -->
+    <title>IFC Metadata Dashboard</title>
+    <!-- CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #f0f2f5; }
-        .container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        h1 { color: #2f5597; border-bottom: 2px solid #2f5597; padding-bottom: 10px; }
-        .status-siste { background-color: #c6efce !important; font-weight: bold; color: #006100; }
+        body { font-family: 'Segoe UI', sans-serif; padding: 20px; background: #f4f7f9; }
+        .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #2f5597; }
+        
+        /* Stil for Hovedgruppen (den blå linjen) */
+        tr.dtrg-group {
+            background-color: #2f5597 !important;
+            color: white !important;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        tr.dtrg-group:hover { background-color: #1a3a6d !important; }
+        
+        /* Stil for "Siste" revisjon (den grønne linjen) */
+        .latest-rev { background-color: #e6ffed !important; font-weight: 600; }
+        
+        /* Skjul detaljer som standard */
+        .collapsed-row { display: none; }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🏗️ IFC Metadata Leveransekontroll</h1>
+        <h1>🏗️ IFC Metadata Oversikt</h1>
+        <p><i>Klikk på en modell for å se revisjonshistorikk.</i></p>
         <table id="ifcTable" class="display" style="width:100%">
             <thead>
                 <tr>
-                    <th>Status</th>
                     <th>Modell Navn</th>
                     <th>MMI</th>
                     <th>Revisjon</th>
@@ -30,38 +45,65 @@
         </table>
     </div>
 
-    <!-- Scripting -->
+    <!-- JS biblioteker -->
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
     <script>
-        // 1. Last inn CSV-filen
         Papa.parse("data.csv", {
             download: true,
             header: true,
             complete: function(results) {
-                // 2. Lag tabellen
-                $('#ifcTable').DataTable({
+                var table = $('#ifcTable').DataTable({
                     data: results.data,
                     columns: [
-                        { data: "Status" },
-                        { data: "Modell Navn" },
+                        { data: "Modell Navn", visible: false }, // Skjules fordi den brukes som gruppe-header
                         { data: "MMI" },
                         { data: "Revisjon" },
                         { data: "Revisjonsdato" },
                         { data: "Restrisiko kvalitet" },
                         { data: "Revisjonsmerknad" }
                     ],
-                    // 3. Fargelegg rader som er "SISTE"
-                    createdRow: function(row, data, dataIndex) {
-                        if (data["Status"] && data["Status"].includes("SISTE")) {
-                            $(row).addClass('status-siste');
+                    order: [[0, 'asc']],
+                    rowGroup: {
+                        dataSrc: "Modell Navn",
+                        startRender: function (rows, group) {
+                            // Finn info om den nyeste revisjonen i gruppen for å vise i headeren
+                            var latestRev = rows.data()[0]["Revisjon"];
+                            var latestDate = rows.data()[0]["Revisjonsdato"];
+                            return $('<tr/>')
+                                .append('<td colspan="5">' + group + ' &nbsp;&nbsp; <span style="font-weight:normal; opacity:0.8;">(Siste: ' + latestRev + ' / ' + latestDate + ')</span></td>');
                         }
                     },
+                    pageLength: -1, // Vis alle
+                    dom: 'ft', // Kun søk og tabell
                     language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json' },
-                    pageLength: 25
+                    
+                    // Logikk for å markere den øverste (nyeste) raden i hver gruppe som grønn
+                    drawCallback: function (settings) {
+                        var api = this.api();
+                        var rows = api.rows({ page: 'current' }).nodes();
+                        var lastGroup = null;
+
+                        api.column(0, { page: 'current' }).data().each(function (group, i) {
+                            if (lastGroup !== group) {
+                                $(rows).eq(i).addClass('latest-rev'); // Første rad i hver gruppe er nyest
+                                lastGroup = group;
+                            }
+                        });
+                    }
                 });
+
+                // --- LOGIKK FOR NEDTREKK (COLLAPSE) ---
+                $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
+                    var rows = $(this).nextUntil('tr.dtrg-group');
+                    rows.toggle(); // Viser/skjuler rader
+                });
+
+                // Start med alle rader skjult
+                setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 100);
             }
         });
     </script>
