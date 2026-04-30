@@ -1,4 +1,21 @@
-﻿Modell Navn,Revisjon,Revisjonsdato,MMI,Restrisiko kvalitet,Revisjonsmerknad
-FBX_fm_kabler.ifc,B01,2025-01-17,100,,Konsept
-FBX_fm_veg_32500.ifc,H03,2026-04-17,400,Forbehold om teknisk godkjenning for ombygging av eksisterende myrbru K266.,Tilpasset skulder 2.1 ved ca. profil 280 til rampesplitt FBX_fm_veg_32600
-VLG_fm_landskap_J438_Trapp.ifc,H05,2025-11-13,400,None,Kantstein justert etter nytt sluk
+﻿Modell Navn,Revisjonsmerknad,Revisjonsdato,Revisjon,MMI,Restrisiko kvalitet
+FBX_fm_kabler.ifc,Justert føringsvei til BOM og skilt ,2026-04-21,H08,350,-
+FBX_fm_kabler.ifc,Høgdejustert etter veg,2026-02-05,H07,400,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2026-02-05,H07,375,-
+FBX_fm_kabler.ifc,Høgdejustert,2026-02-05,H07,400,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2026-02-05,C07,300,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2026-02-05,C07,350,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2026-02-05,H07,400,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2025-11-12,H06,400,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2025-11-12,H06,350,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2025-06-25,H05,400,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2025-06-25,H05,350,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2025-03-06,B01,200,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2025-03-05,H03,400,-
+FBX_fm_kabler.ifc,Konsept,2025-01-17,B01,100,-
+FBX_fm_kabler.ifc,Arbeidsgrunnlag,2025-01-17,H02,400,-
+FBX_fm_kabler.ifc,Underlag for detaljering,2025-01-17,B01,200,-
+FBX_fm_veg_32500.ifc,Tilpasset skulder 2.1 ved ca. profil 280 til rampesplitt FBX_fm_veg_32600,2026-04-17,H03,400,Forbehold om teknisk godkjenning for ombygging av eksisterende myrbru K266.
+VLG_fm_landskap_J438_Trapp.ifc,Heving til MMI500,2026-03-26,Z06,500,None
+VLG_fm_landskap_J438_Trapp.ifc,Kantstein justert etter nytt sluk,2025-11-13,H05,400,None
+VLG_fm_landskap_J438_Trapp.ifc,None,2025-11-13,H05,400,None
