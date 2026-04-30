@@ -2,20 +2,20 @@
 <html lang="no">
 <head>
     <meta charset="UTF-8">
-    <title>IFC Metadata Dashboard | Norconsult</title>
+    <title>IFC Metadata Dashboard | Skanska & Norconsult</title>
     <!-- CSS biblioteker -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
     
     <style>
-        /* Norconsult Profilfarger */
+        /* Profilfarger */
         :root {
             --norconsult-blue: #0047bb;
             --norconsult-blue-dark: #00358c;
             --norconsult-light-grey: #f2f2f2;
             --norconsult-white: #ffffff;
-            --norconsult-latest-bg: #eef4ff; /* Lys blå for fremheving */
-            --norconsult-latest-text: #0047bb;
+            --latest-bg: #eef4ff;
+            --latest-text: #0047bb;
         }
 
         body { 
@@ -25,13 +25,13 @@
             background-color: var(--norconsult-light-grey); 
         }
 
-        /* Header med Logo */
+        /* Header med Logoer */
         .header-bar {
             display: flex;
             justify-content: space-between;
             align-items: center;
             background-color: var(--norconsult-white);
-            padding: 15px 40px;
+            padding: 10px 40px;
             border-bottom: 4px solid var(--norconsult-blue);
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
@@ -39,14 +39,21 @@
         .header-bar h1 {
             color: var(--norconsult-blue);
             margin: 0;
-            font-size: 24px;
+            font-size: 22px;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 1px;
         }
 
-        .norconsult-logo {
-            height: 50px;
+        .logo-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+        }
+
+        .partner-logo {
+            height: 45px;
+            width: auto;
+            object-fit: contain;
         }
 
         /* Container for tabellen */
@@ -61,63 +68,69 @@
             box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
 
-        /* DataTables Profilering */
-        table.dataTable thead th {
-            background-color: #f8f9fa;
-            color: #333;
-            border-bottom: 2px solid var(--norconsult-blue) !important;
-            padding: 12px;
-        }
-
         /* Blå Gruppe-header */
         tr.dtrg-group {
             background-color: var(--norconsult-blue) !important;
             color: var(--norconsult-white) !important;
             cursor: pointer;
-            transition: background-color 0.2s;
         }
 
         tr.dtrg-group:hover {
             background-color: var(--norconsult-blue-dark) !important;
         }
 
+        /* IFC Ikon i tabellen */
+        .ifc-icon-small {
+            height: 20px;
+            width: auto;
+            vertical-align: middle;
+            margin-right: 10px;
+            border-radius: 2px;
+            background: white;
+            padding: 1px;
+        }
+
         /* Fremheving av nyeste rad */
         .row-latest {
-            background-color: var(--norconsult-latest-bg) !important;
+            background-color: var(--latest-bg) !important;
             font-weight: 600;
-            color: var(--norconsult-latest-text);
+            color: var(--latest-text);
         }
 
         .header-info {
             float: right;
             font-weight: 400;
             font-size: 0.85em;
-            opacity: 0.9;
+            opacity: 0.95;
+            margin-top: 2px;
         }
 
-        .icon { margin-right: 12px; }
-
-        p.hint {
-            color: #666;
-            font-size: 0.9em;
-            margin-bottom: 20px;
+        /* Søkefelt styling */
+        .dataTables_filter input {
+            border: 1px solid #ccc;
+            padding: 6px;
+            border-radius: 4px;
+            margin-left: 10px;
         }
     </style>
 </head>
 <body>
 
-    <!-- Norconsult Header -->
+    <!-- Header med Skanska og Norconsult Logoer -->
     <header class="header-bar">
         <h1>IFC Metadata Dashboard</h1>
-        <img src="https://companieslogo.com/img/orig/NORCO.OL_BIG-2216a709.png?t=1721396473" 
-             alt="Norconsult Logo" 
-             class="norconsult-logo">
+        <div class="logo-wrapper">
+            <img src="https://download.logo.wine/logo/Skanska/Skanska-Logo.wine.png" 
+                 alt="Skanska Logo" 
+                 class="partner-logo">
+            <img src="https://companieslogo.com/img/orig/NORCO.OL_BIG-2216a709.png?t=1721396473" 
+                 alt="Norconsult Logo" 
+                 class="partner-logo">
+        </div>
     </header>
 
     <div class="main-container">
         <div class="content-card">
-            <p class="hint">Klikk på en modellrad for å se revisjonshistorikk. Den nyeste leveransen er fremhevet i lyseblått.</p>
-            
             <table id="ifcTable" class="display" style="width:100%">
                 <thead>
                     <tr>
@@ -165,7 +178,8 @@
                             
                             return $('<tr/>').append(
                                 '<td colspan="5">' +
-                                '<span class="icon">📁</span>' + group + 
+                                '<img src="https://p7.hiclipart.com/preview/1009/635/820/industry-foundation-classes-building-information-modeling-buildingsmart-navisworks-bim.jpg" class="ifc-icon-small">' + 
+                                group + 
                                 '<span class="header-info">' +
                                 '<b>SISTE DATO:</b> ' + d + ' | ' +
                                 '<b>SISTE MMI:</b> ' + m + ' | ' +
@@ -195,12 +209,12 @@
                     }
                 });
 
-                // Toggling av historikk
+                // Toggle-funksjon
                 $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
                     $(this).nextUntil('tr.dtrg-group').toggle();
                 });
 
-                // Start med alle rader skjult for en ryddig oversikt
+                // Start kollapset
                 setTimeout(() => { 
                     $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); 
                 }, 300);
