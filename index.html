@@ -2,7 +2,7 @@
 <html lang="no">
 <head>
     <meta charset="UTF-8">
-    <title>IFC Metadata Dashboard | Skanska & Norconsult</title>
+    <title>Leveranser - E102 Fornebukrysset - Strand</title>
     <!-- CSS biblioteker -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
@@ -25,7 +25,7 @@
             background-color: var(--norconsult-light-grey); 
         }
 
-        /* Header med Logoer */
+        /* Header med Logoer og Prosjektnavn */
         .header-bar {
             display: flex;
             justify-content: space-between;
@@ -39,19 +39,21 @@
         .header-bar h1 {
             color: var(--norconsult-blue);
             margin: 0;
-            font-size: 22px;
+            font-size: 20px;
             font-weight: 700;
             text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         .logo-wrapper {
             display: flex;
             align-items: center;
-            gap: 25px;
+            gap: 20px;
         }
 
+        /* Sikrer at logoene er like store */
         .partner-logo {
-            height: 45px;
+            height: 50px; /* Fast høyde for begge logoer */
             width: auto;
             object-fit: contain;
         }
@@ -81,13 +83,14 @@
 
         /* IFC Ikon i tabellen */
         .ifc-icon-small {
-            height: 20px;
+            height: 22px;
             width: auto;
             vertical-align: middle;
-            margin-right: 10px;
-            border-radius: 2px;
+            margin-right: 12px;
+            border-radius: 3px;
             background: white;
             padding: 1px;
+            box-shadow: 0 0 2px rgba(0,0,0,0.2);
         }
 
         /* Fremheving av nyeste rad */
@@ -102,23 +105,27 @@
             font-weight: 400;
             font-size: 0.85em;
             opacity: 0.95;
-            margin-top: 2px;
+            margin-top: 3px;
         }
 
         /* Søkefelt styling */
+        .dataTables_filter {
+            margin-bottom: 20px;
+        }
         .dataTables_filter input {
             border: 1px solid #ccc;
-            padding: 6px;
+            padding: 8px 12px;
             border-radius: 4px;
             margin-left: 10px;
+            width: 250px;
         }
     </style>
 </head>
 <body>
 
-    <!-- Header med Skanska og Norconsult Logoer -->
+    <!-- Header med Navn og Logoer -->
     <header class="header-bar">
-        <h1>IFC Metadata Dashboard</h1>
+        <h1>Leveranser - E102 Fornebukrysset - Strand</h1>
         <div class="logo-wrapper">
             <img src="https://download.logo.wine/logo/Skanska/Skanska-Logo.wine.png" 
                  alt="Skanska Logo" 
@@ -179,7 +186,7 @@
                             return $('<tr/>').append(
                                 '<td colspan="5">' +
                                 '<img src="https://p7.hiclipart.com/preview/1009/635/820/industry-foundation-classes-building-information-modeling-buildingsmart-navisworks-bim.jpg" class="ifc-icon-small">' + 
-                                group + 
+                                '<b>' + group + '</b>' + 
                                 '<span class="header-info">' +
                                 '<b>SISTE DATO:</b> ' + d + ' | ' +
                                 '<b>SISTE MMI:</b> ' + m + ' | ' +
@@ -209,12 +216,12 @@
                     }
                 });
 
-                // Toggle-funksjon
+                // Toggle-funksjon ved klikk på blå rad
                 $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
                     $(this).nextUntil('tr.dtrg-group').toggle();
                 });
 
-                // Start kollapset
+                // Starter med alle grupper lukket
                 setTimeout(() => { 
                     $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); 
                 }, 300);
