@@ -1,45 +1,4 @@
 ﻿Modell Navn,Revisjonsmerknad,MMI,Revisjon,Restrisiko kvalitet,Revisjonsdato
-311_form_asskn.ifc,Til teknisk godkjenning,350,C01,-,2024-03-21
-311_form_asskn.ifc,Til teknisk godkjenning,350,C01,-,2024-03-08
-3D Armering AsSKn Copy 1.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-06
-3D Armering AsSKn.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-06
-3D Armering AsSKn.ifc,Til teknisk godkjenning,350,C02,Mangler godkjenning hos Vegdirektoratet,2024-12-06
-3D Armering AsSKn.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-11-08
-3D_Armering_Arbeid_AlexOl.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-3D_Form_Etappe_1-3.ifc,Tilpasning mot ramper i vest. Justering av veggtykkelse i vest. Utvidet bunnplate ved fuger på del på berg og tilpasset fugebånd. Flere mindre endringer/suppleringer i modell.,350,C03,-,2023-11-28
-3D_Form_Etappe_1-3.ifc,Lagt inn skråpeler i lengre omfang. Lagt inn flate som viser utstrekning av lette masser.,350,C04,-,2023-10-31
-3D_Form_Etappe_1-3.ifc,Oppdatert form til ny utbredelse av peler. Flyttet plassering av skiltnisjer. Oppdatert nødkiosker. Flere mindre endringer/suppleringer i modell.,350,C02,-,2023-10-31
-3D_Form_Etappe_1-3.ifc,Oppdatert anvisninger peler på metadataobjekt. Oppdatert hvordan peler er vist i modell og info på peler.,350,C03,-,2023-10-05
-3D_Form_Etappe_1-3.ifc,Til teknisk godkjenning,350,C02,-,2023-09-14
-3D_Form_Etappe_1-3.ifc,Til teknisk godkjenning,350,C01,-,2023-09-01
-3D_Form_Etappe_1-3.ifc,Under revisjon,350,C04,-,2023-XX-XX
-3D_arm_OVplater.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
-3D_etappe 04+05.ifc,Til teknisk godkjenning,350,C01,-,2024-02-01
-3D_etappe 04+05.ifc,Til teknisk godkjenning,350,C01,-,2023-XX-XX
-3D_etappeende+brem.ifc,Til teknisk godkjenning,350,C01,-,2023-XX-XX
-3D_form_etappe01-03.ifc,Oppdatert form til ny utbredelse av peler. Flyttet plassering av skiltnisjer. Oppdatert nødkiosker. Flere mindre endringer/suppleringer i modell.,350,C02,-,2023-10-31
-3D_form_etappe01-03.ifc,Lagt inn skråpeler i lengre omfang. Lagt inn flate som viser utstrekning av lette masser.,350,C04,-,2023-10-31
-3D_form_etappe01-03.ifc,Oppdatert anvisninger peler på metadataobjekt. Oppdatert hvordan peler er vist i modell og info på peler.,350,C03,-,2023-10-05
-3D_form_etappe01-03.ifc,Til teknisk godkjenning,350,C02,-,2023-09-14
-3D_form_etappe01-03.ifc,Til teknisk godkjenning,350,C01,-,2023-09-01
-4N_Utsendt.ifc,"Fjernet prefiks K432 på byggeetapper.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-25
-5N_H03.ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-24
-5N_H03.ifc,Utvidet utstrekningen av skjærarmering i takplaten,350,C02,Mangler godkjenning hos Vegdirektoratet,2024-11-19
-5N_H03.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-5N_H03.ifc,REVISJONSTEKST FYLLES UT FØR UTSENDELSE,400,H03,IR,2026-mm-dd
-Armering_FK_Revit.ifc,Modellert inn armering i knevegger,375,H02,-,2024-08-21
 DNS-DSS_fm_veg_30700.ifc,For utførelse på anlegg. Fjernet HOLD profil 629-908. Lagt til anvisning 6 og 7 med tilhørende tegningslinker. Revidert materiale på forsterkningslaget over skumglass. Justert tekst i anvisning 2.,400,H03,TS-revisjon er ikke gjennomført. Vegen går gjennom K441. Denne har ikke vært gjennom KoG.,2026-03-26
 DNS-DSS_fm_veg_30700.ifc,For utførelse på anlegg. MMI375 til 400 og HOLD,"400,HOLD",H02,MMI400 gjelder fra rundkjøring Stabekklokket og frem til profil 629. Resten frem til rundkjøring Strand settes på HOLD. TS-revisjon er ikke gjennomført. ,2025-12-15
 DNS-DSS_fm_veg_30700.ifc,For utførelse på anlegg. MMI375 og HOLD,"375,HOLD",H01,MMI375 gjelder fra rundkjøring Stabekklokket og frem til profil 629. Resten frem til rundkjøring Strand settes på HOLD. TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-10-28
@@ -1807,16 +1766,6 @@ DSS_no_fm_hyg_injeksjonsskjerm.ifc,Produksjonsunderlag,400,-,-,-
 DSS_no_fm_hyg_injeksjonsskjerm_H02.ifc,Produksjonsunderlag,400,-,-,-
 DSS_no_fm_injeksjonsskjerm.ifc,Produksjonsunderlag,400,-,-,-
 DSS_øst_fm_vegbommer_E18.ifc,Produksjonsunderlag,300,H01,Skiltplan er ikke godkjent hos SVV,2025-08-27
-E102-K320 test sammenføyd.ifc,Endret tykkelse magerbetong på delen på løsmasser. Fiberduk lagt inn i modell. Avretting justert for senkede kummer. Stikningsdata er lagt til. Anvisninger avretting på metadataobjekt er oppdatert.,350,C06,-,2024-01-15
-E18VK_E101_fm_F99_J404-9001_Støttemur-langs-Philip-Pedersensvei-form_SB.ifc,-,500,30-06-2023,-,-
-EK_DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,200,H02,-,2026-04-22
-EK_DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,400,H01,-,2026-04-15
-EK_Stabekklokket-Arm-Etappe-1.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-EK_Stabekklokket-Arm-Etappe-1.ifc,Til teknisk godkjenning,350,C01,-,2023-11-06
-EK_Stabekklokket-Arm-Etappe-1.ifc,Under revisjon,350,C02,-,2023-XX-XX
-EK_Stabekklokket-Arm-Etappe-2-3.ifc,Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-Etappe 02.ifc,Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-Etappe 03.ifc,Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
 FBX-DNS_fm_merking_E18_f01.4.ifc,Produksjonsunderlag,375,H01,Skiltplan er ikke godkjent hos skiltmyndighet,2025-10-22
 FBX-DNS_fm_merking_f02.ifc,Busslomme nordgående retning er justert,400,H04,Skiltplan er ikke godkjent hos skiltmyndighet,2026-01-09
 FBX-DNS_fm_merking_f02.ifc,"Justert linjetype vest for K320, avkjøring mot Fornebu, lagt på 10 m mellomrom mellom kollektivfelt og avkjøring mot Ring3",400,H03,Skiltplan er ikke godkjent hos skiltmyndighet,2025-11-26
@@ -2890,65 +2839,6 @@ FEL_no_fm_ing-geo_grave-og-sprengningsplan_H03.ifc,Produksjonsgrunnlag,200,-,-,-
 FEL_no_fm_ing-geo_grave-og-sprengningsplan_H05.ifc,Produksjonsgrunnlag,400,-,-,-
 FEL_no_fm_ing-geo_grave-og-sprengningsplan_H05.ifc,Produksjonsgrunnlag,100,-,-,-
 FEL_no_fm_ing-geo_grave-og-sprengningsplan_H05.ifc,Produksjonsgrunnlag,200,-,-,-
-FK_DNS_fm_skilt_E18.ifc,-,HOLD,-,Skiltplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,-
-FK_DNS_fm_vegbommer_E18.ifc,-,300,-,-,-
-FK_FBX_fm_skilt_del_1.ifc,-,HOLD,-,Sklitplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,-
-FK_FBX_fm_vegbommer_E18.ifc,-,200,-,-,-
-FK_FBX_fm_vegbommer_E18.ifc,-,300,-,-,-
-Form_K320.ifc,MMI400 på takplate etappe 1-3 vestgående løp. MMI400 på bunnplate og vegger etappe 4-9.  Innarbeidet injeksjonsslanger i alle etapper. Modellert inn innfesting til skilt i tak. Innarbeidet grube i nødstasjoner.,400,H07,-,2024-04-26
-Form_K320.ifc,MMI400 på takplate etappe 1-3 vestgående løp. MMI400 på bunnplate og vegger etappe 4-9.  Innarbeidet injeksjonsslanger i alle etapper. Modellert inn innfesting til skilt i tak. Innarbeidet grube i nødstasjoner.,350,H07,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 10 og utover. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",2024-04-26
-Form_K320.ifc,MMI400 på vegger etappe 1 i første fase. Endret innstøpningsgods kabelstiger til M20. Tilpasset synlig forskaling til membran/terreng.,350,H06,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 4 og videre. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",2024-04-10
-Form_K320.ifc,MMI400 på vegger etappe 1 i første fase. Endret innstøpningsgods kabelstiger til M20. Tilpasset synlig forskaling til membran/terreng.,400,H06,-,2024-04-10
-Form_K320.ifc,Alle objekter har fått H-revisjon. Endret utforming på skiltnisjer. Trekkerør er tilpasset prosjektert grunnlag fra elektro. Lagt inn utsparinger for koblingsboks rømningslys. Lagt inn støpeskjøt sentrisk på portalbrem i øst. Redusert antall rømningsdører. Overgangsplater ved etappe 9-11 revidert. Overgangsplater med skiltnisjer utgår.,350,H05,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 4 og videre. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",2024-03-08
-Form_K320.ifc,Under revisjon,350,H08,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 10 og utover. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",2024-03-08
-Form_K320.ifc,Arbeidsgrunnlag etappe 1-3. Flyttet VA ut av bunnplate og endret føring av innstøpt fugebånd. Justert overgangsplater i vest.,350,H04,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 4 og videre. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",2024-01-25
-Form_K320.ifc,Arbeidsgrunnlag etappe 1-3. Flyttet VA ut av bunnplate og endret føring av innstøpt fugebånd. Justert overgangsplater i vest.,400,H04,-,2024-01-25
-Form_K320.ifc,Under revisjon,350,H08,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer godkjenning av armeringsmodell etappe 10 og utover. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l. Avventer utsprengt berg for å se hvor overgangen mellom løsmasser og berg blir.",-
-Før FK.ifc,Arbeidsgrunnlag for del som utføres i fase 0.1. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-02-13
-Før FK.ifc,Under utarbeidelse,400,H05,IR,2025-03-XX
-Før FK.ifc,Under utarbeidelse,HOLD,H05,Avventer detaljprosjektering ventilasjosntårn.,2025-03-XX
-Før retting.ifc,Endret armeringsføring for del som utføres i fase 0.1. Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-08-15
-Før retting.ifc,Endret armeringsføring for del som utføres i fase 0.1. Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,HOLD,H04,Avventer detaljprosjektering ventilasjosntårn.,2025-08-15
-GSP H18 DSS_kladd_EK-JoBern.ifc,Produksjonsunderlag. Benyttes som laveste gravenivå ved påtreff av leire/løsmasser.,300,H16,-,2024-08-20
-GSP H18 DSS_kladd_EK-JoBern.ifc,Produksjonsunderlag. Liten visuell endring i bergskjæringshøyder og graveskråninger pga. oppdatert bergmodell.,450,H14,-,2024-05-30
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,100,H18,"Elektrogrøfter detaljeres videre, mindre endringer forventes.",2024-09-26
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,300,H18,-,2024-09-26
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,200,H18,Uttak ved AA30 må ta spesielt hensyn til eksisterende bygg for å unngå undergraving.,2024-09-26
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,400,H17,-,2024-09-04
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,300,H17,-,2024-09-04
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H15.ifc for liste over endringer.,200,H15,K313 Oksenøy gangbru må detaljeres videre.,2024-07-01
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H15.ifc for liste over endringer.,HOLD,H15,"Utdatert grave- og sprengningsplan, revidert modell kommer i revisjon H19.",2024-07-01
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H10.ifc for liste over endringer.,100,H10,"Ikke tilpasset for rev. H14 av GSP, som endret bergskjæringer langs hele E102 pga. bruk av oppdatert bergmodell. Oppdateres i H18.",2024-03-06
-GSP H18 FBX_kladd_EK-JoBern.ifc,Produksjonsunderlag. Opprettet grave- og sprengningsmodell for DSS del 4 MMI 100. ,100,H09,Strandlokk ikke detaljert. ,2024-01-29
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,500,H18,-,2024-09-26
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,100,H18,Prosjektering under eksisterende E18 detaljeres videre.,2024-09-26
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,400,H18,- ,2024-09-26
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,300,H18,-,2024-09-26
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,200,H18,Uttak ved AA30 må ta spesielt hensyn til eksisterende bygg for å unngå undergraving.,2024-09-26
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,400,H17,-,2024-09-04
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,300,H17,-,2024-09-04
-GSP H18 RFK.ifc,Produksjonsunderlag. Benyttes som laveste gravenivå ved påtreff av leire/løsmasser.,300,H16,-,2024-08-20
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H15.ifc for liste over endringer.,HOLD,H15,"Utdatert grave- og sprengningsplan, revidert modell kommer i revisjon H19.",2024-07-01
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H15.ifc for liste over endringer.,200,H15,K313 Oksenøy gangbru må detaljeres videre.,2024-07-01
-GSP H18 RFK.ifc,Produksjonsunderlag. Liten visuell endring i bergskjæringshøyder og graveskråninger pga. oppdatert bergmodell.,500,H14,-,2024-05-30
-GSP H18 RFK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H10.ifc for liste over endringer.,100,H10,"Ikke tilpasset for rev. H14 av GSP, som endret bergskjæringer langs hele E102 pga. bruk av oppdatert bergmodell. Oppdateres i H18.",2024-03-06
-GSP H18 RFK.ifc,Produksjonsunderlag. Opprettet grave- og sprengningsmodell for DSS del 4 MMI 100. ,100,H09,Strandlokk ikke detaljert. ,2024-01-29
-GSP_H20_til FK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H20.ifc for liste over endringer.,200,H20,-,2024-12-11
-GSP_H20_til FK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,400,H17,-,2024-09-04
-GSP_H20_til FK.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,300,H17,For uttak av VA-grøfter: benytt VA-modeller.,2024-09-04
-GSP_H20_til FK.ifc,Produksjonsunderlag. Opprettet grave- og sprengningsmodell for DSS del 4 MMI 100. ,100,H09,Strandlokk ikke detaljert. ,2024-01-29
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H20.ifc for liste over endringer.,300,H20,-,2024-12-13
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H20.ifc for liste over endringer.,100,H20,-,2024-12-13
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H20.ifc for liste over endringer.,400,H20,-,2024-12-13
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H20.ifc for liste over endringer.,200,H20,-,2024-12-13
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,200,H18,Videre detaljering av uttak for bunnplate til K441 vingemur pågår.,2024-09-26
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,300,H18,Endelig planum revideres senere,2024-09-26
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,500,H18,-,2024-09-26
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H18.ifc for liste over endringer.,400,H18,- ,2024-09-26
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,300,H17,For uttak av VA-grøfter: benytt VA-modeller.,2024-09-04
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Se vedlegg RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H17.ifc for liste over endringer.,400,H17,-,2024-09-04
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Liten visuell endring i bergskjæringshøyder og graveskråninger pga. oppdatert bergmodell.,500,H14,-,2024-05-30
-GSP_H20_til FK_3.ifc,Produksjonsunderlag. Opprettet grave- og sprengningsmodell for DSS del 4 MMI 100. ,100,H09,Strandlokk ikke detaljert. ,2024-01-29
 GTS_fm_belysning_tunnel_Ledelys.ifc,Arbeidsgrunnlag,375,H01,IA,2025-05-15
 GTS_fm_belysning_tunnel_Ledelys.ifc,-,300,C01,-,2024-12-12
 GTS_fm_dren-kummer.ifc,Hevet MMI etter 6 ukers innsyn,400,H05,,2026-04-20
@@ -3667,9 +3557,6 @@ GTS_fm_veg_61000.ifc,For utførelse på anlegg. MMI 400,400,H02,Trinn 2 av sikke
 GTS_fm_veg_61000.ifc,For utførelse på anlegg.,375,H01,Avventer 6 ukers innsyn.,2025-05-16
 GTS_fm_veg_61000_overflate.ifc,For utførelse på anlegg. MMI 400,400,H02,Trinn 2 av sikkerhetsgodkjenningen er ikke gjennomført.,2025-11-11
 GTS_fm_veg_61000_overflate.ifc,For utførelse på anlegg.,375,H01,Avventer 6 ukers innsyn.,2025-05-16
-H01 versjon_HTØ_fm_tunnel_J582-HPS01-Arm.ifc,Produksjonsunderlag,400,H01,-,2025-04-25
-H01 versjon_HTØ_fm_tunnel_J582-HPS01-Arm.ifc,Produksjonsunderlag,HOLD,H01,-,2025-04-25
-H03_Form.ifc,Arbeidsgrunnlag,400,H03,-,2024-02-07
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Ledelysstriper tilpasset dører og utsparinger,400,H04,-,2025-12-05
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Arbeidsgrunnlag,400,H03,-,2025-01-27
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Tverrfaglig kontrollert løsning til innsyn hos BH,375,H02,-,2024-11-15
@@ -4498,85 +4385,6 @@ HTØ_fm_ventilasjon_Impulsventilator-Vestgående.ifc,Oppdatert boltedimensjon,40
 HTØ_fm_ventilasjon_Impulsventilator-Vestgående.ifc,Lagt til egenskaper. Oppdatert bolteplassering etter KON.,400,H02,-,2026-04-27
 HTØ_fm_ventilasjon_Impulsventilator-Østgående.ifc,Oppdatert boltedimensjon,400,H03,-,2026-04-30
 HTØ_fm_ventilasjon_Impulsventilator-Østgående.ifc,Lagt til egenskaper. Oppdatert innfesting og avstiving av vifter.,400,H02,-,2026-04-27
-J230 Teknisk bygg_RIB - EK HedVes.ifc,Til gjennomsyn SVV,375,C01,-,2024-06-07
-J230 Teknisk bygg_RIB - EK HedVes.ifc,Til gjennomsyn SVV,HOLD,C01,-,2024-06-07
-J230 Teknisk bygg_RIB - EK HedVes.ifc,Til gjennomsyn SVV,375,C01,-,2024-06-06
-J230 Teknisk bygg_RIB - til FK MarAks.ifc,Til gjennomsyn SVV,375,C01,-,2024-06-07
-J230 Teknisk bygg_RIB - til FK MarAks.ifc,Til gjennomsyn SVV,HOLD,C01,Armering av knevegger kommer når hylseplassering for prefab-vegger er avklart,2024-06-07
-J230 Teknisk bygg_RIB - til FK MarAks.ifc,Til gjennomsyn SVV,375,C01,-,2024-06-06
-J230 Teknisk bygg_RIB.ifc,Produksjonsunderlag,400,H02,-,2024-08-19
-J230 Teknisk bygg_RIB.ifc,Størrelser på utsparinger i bakre knevegg er justert. Ny ventilasjonsrist ved batterirom. Justert fugeblikk. Gjennomsyn hos SVV gjennomført.,HOLD,H02,MMI på knevegger settes til HOLD inntil hylseplassering for prefab-vegger er avklart,2024-08-19
-J230 Teknisk bygg_RIB.ifc,Til gjennomsyn SVV,375,C01,-,2024-06-06
-J230 Teknisk bygg_RIB.ifc,Til gjennomsyn SVV,HOLD,C01,-,2024-06-06
-J230 Teknisk bygg_RIB.ifc,Til gjennomsyn SVV,-,C01,-,2024-06-06
-J230 Teknisk bygg_RIB.ifc,-,300,-,-,-
-J240 Teknisk bygg_RIB.ifc,Modellert inn PE-folie og utsparinger for sluk.,400,H05,-,2024-03-04
-J240 Teknisk bygg_RIB.ifc,Modellert inn PE-folie og utsparinger for sluk.,375,H05,Avventes inntil gjennomføringer med RIE er låst,2024-03-04
-J240 Teknisk bygg_RIB.ifc,"Endret til MMI375 på selve bygget utenom bunnplate, for godkjenning SVV",375,H04,-,2024-02-26
-J240 Teknisk bygg_RIB.ifc,"Endret til MMI375 på selve bygget utenom bunnplate, for godkjenning SVV",400,H04,Til gjennomsyn SVV. Avventer MMI400 på støttemurer til endelig terreng er låst. Oppfylling over bunnplaten avventes til gjennomføringene til RIE er låst.,2024-02-26
-J240 Teknisk bygg_RIB.ifc,Endret størrelse og plassering på utsparinger,300,H02,Avventer MMI400 på støttemurer til endelig terreng er låst,2024-02-14
-J240 Teknisk bygg_RIB.ifc,Endret størrelse og plassering på utsparinger,400,H02,-,2024-02-14
-J240 Teknisk bygg_RIB_Armering_EK HedVes.ifc,For utførelse på byggeplass,400,H01,-,2023-01-19
-J240 Teknisk bygg_RIB_Armering_EK HedVes.ifc,For utførelse på byggeplass,400,H01,-,2023-01-05
-J240 Teknisk bygg_RIB_Armering_FK MarAks.ifc,For utførelse på byggeplass,400,H01,-,2023-01-19
-J240 Teknisk bygg_RIB_Armering_FK MarAks.ifc,For utførelse på byggeplass,400,H01,-,2023-01-05
-K311_Arm_Hor_E7_E12.ifc,Til teknisk godkjenning,350,C01,-,2024-03-15
-K311_Arm_Hor_E7_E12_ny.ifc,Til teknisk godkjenning,350,C01,-,2024-03-15
-K320_Stabekklokket armering mur J230.ifc,Rettet opp i jern med feil plassering. Innarbeidet armering til mur under teknisk bygg.,HOLD,H03,"Avventer MMI400 på østgående løp siden det er lenge til dette løpet utføres og ikke alt er ferdig prosjektert. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l.",-
-K370 Rensebasseng Vestre Lenke_.ifc,Til teknisk godkjenning.,350,C01,-,2024-10-16
-K422 Armering kum.ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-12
-K422 Form og armering kummer ny.ifc,Langsgående VA-støp utgår. Dordiameter oppstikkende ø20 endret. Endret på veksling UK tverrarmering etappe 1.,350,C02,-,2024-01-15
-K422 Form og armering kummer ny.ifc,Til teknisk godkjenning.,350,C01,-,2024-01-15
-K422 Form og armering kummer ny.ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-15
-K422 Form og armering kummer.ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-15
-K422 Form og armering kummer.ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-12
-K422 Strand trau.ifc,Justert plassering av jern i vegg slik at disse omfares med oppstikkende armering.,400,H10,IR,2025-01-10
-K422_Armering nødstasjon.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
-K422_Armering terskel.ifc,Til teknisk godkjenning.,350,C01,-,2024-01-12
-K422_Armering terskel.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
-K422_Armering terskel_old.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
-K422_Armering_VA-understøp.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
-K422_Armering_vegger_e1-e3.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
-K422_Armering_vegger_e1-e3_20231207.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
-K423_0123.ifc,Bergbolter og utsparing i støttemurer. Innvendig påstøp. Midlertidig sikringsvegg.,400,H06,IR,2026-01-23
-K423_0123.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,400,H05,IR,2025-08-15
-K423_0123.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,HOLD,H05,Avventer detaljprosjektering ventilasjosntårn.,2025-08-15
-K423_0123.ifc,Arbeidsgrunnlag for del som utføres i fase 0.1. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-02-13
-K423_H05_Form.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,400,H05,IR,2025-08-15
-K423_H05_Form.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,HOLD,H05,Avventer detaljprosjektering ventilasjosntårn.,2025-08-15
-K423_H05_Form.ifc,Arbeidsgrunnlag for del som utføres i fase 0.1. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-02-13
-K460_Arm_C01.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K460_Armering_C02.ifc,Revidert etter kommentarer i kontrollrunde 1,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-06-10
-K460_Armering_C02.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K460_Armering_H06_RFK.ifc,Endret tverrarmering i hvelv.,400,H06,IR,2025-07-04
-K460_Armering_H06_RFK.ifc,Arbeidsgrunnlag.,400,H05,IR,2025-06-20
-K460_Armering_H06_Versjon_Fra_Trimble.ifc,Endret tverrarmering i hvelv.,400,H06,IR,2025-07-04
-K460_Armering_H06_Versjon_Fra_Trimble.ifc,Arbeidsgrunnlag.,400,H05,IR,2025-06-20
-K460_Armering_Kopisegment_v0.ifc,Armering tilpasset etter ønske fra Skanska,350,C03,Mangler godkjenning hos Vegdirektoratet.,2025-06-12
-K460_Armering_Kopisegment_v1.ifc,Armering tilpasset etter ønske fra Skanska,350,C03,Mangler godkjenning hos Vegdirektoratet.,2025-06-12
-K460_Betong.ifc,Til teknisk godkjenning,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K460_Betong.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2024-03-27
-K460_Betong_Kopisegment.ifc,Til teknisk godkjenning,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K460_Form_Betong.ifc,Til teknisk godkjenning,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K460_Form_Betong.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2024-03-27
-K461_Armering_C01.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-07-04
-K461_Betong.ifc,SF kum flyttet utenfor K461. Til teknisk godkjenning.,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-K461_Betong.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-03-27
-OLD_FBX_fm_kon_K265_Lysaker-Vest-VIII-sykkelbru-UB-Arm.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-11-08
-OV&Konsoll_EK.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-OV&Konsoll_EK_FK.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-OV&Konsoll_EK_FK_utgått.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-OV&Konsoll_EK_utgått.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-OV&Konsoll_siste.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-Ov-plate.ifc,Justert forankringsjern. Oppdatert mengder,400,H04,IR,2026-02-06
-Ov-plate.ifc,Justert forankringsjern. Oppdatert mengder,400,H05,IR,2026-02-06
-RFK_DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,200,H02,-,2026-04-23
-RFK_DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,200,H01,-,2026-04-15
-"Rev. D, 3D-modell K420 flate vegg vestg..ifc",Lagt inn tettemidler i langsgÃ¥ende stÃ¸peskjÃ¸t i bunnplate etappe 7. MMI400 pÃ¥ resten av bunnplate og vegger i etappe 7. Endret rekkefÃ¸lge pÃ¥ stÃ¸peetapper i vegger etappe 7. Flyttet infopil for injeksjonskopper som var i konflikt med brannelementer. Modellert innfesting til brannelementer i etappe 7. Mindre justeringer i utsparing bunnplate for fugebÃ¥nd mellom etappe 6 og 7. Revidert grensesnitt mot K410. Satt anvisning pÃ¥ boltemal som er i konflikt med innfesting til vifter. Oppdatert anvisning for innfesting kabelstiger og ventilatorer. Andre mindre endringer pÃ¥ anvisninger. Fjernet betongelementer for brannbesyttelse. Revidert trekkerÃ¸r til fartsgrenseskilt og lagt inn ekstra trekkerÃ¸r i krage.,400,H08,IR,2025-11-07
-RevMerknad_FEL_fm_ing-geo_grave-og-sprengningsplan_H24_vedlegg.ifc,Gjennomgått innsynsperiode. ,400,H04,-,2025-10-15
-Skjærarmering.ifc,Tilpasninger justering form portal og konsoller. Omstøp sandfang utgår. Innarbeidet skjøtejernskassetter. Fjernet tredje lag i vegg.,350,C02,-,2023-12-04
-Til FK_DSS_fm_kon_K422_Strand-Trau.ifc,Til teknisk godkjenning,350,C01,-,2023-10-13
-Til FK_DSS_fm_kon_K422_Strand-Trau.ifc,Til teknisk godkjenning,300,C01,-,2023-10-13
 VLG_fm_belysning.ifc,Under Prosjektering/Arbeidsgrunnlag ,100,B01,-,ÅÅÅÅ-MM-DD
 VLG_fm_belysning_John-strandruds-vei.ifc,Under Prosjektering/Arbeidsgrunnlag ,100,B01,I/A,ÅÅÅÅ-MM-DD
 VLG_fm_belysning_john-strandruds-vei.ifc,Arbeidsgrunnlag,400,H04,-,2025-06-23
@@ -4751,35 +4559,4 @@ VLG_fm_veg_31200_f02.ifc,Produksjonsunderlag,375,H01,-,05.09.2024
 VLG_fm_veg_31200_f02.ifc,"Endret til 6 cm øvre bærelag, og 4 cm bindlag. NB: Slitelag legges ikke.",375,H02,-,2024.09.16
 VLG_fm_veg_31200_pr.260-337.ifc,Oppdatert til MMI400,400,H03,"Krysset VLxOksenøyveien er ikke detaljprosjektert, tilpasninger vil komme",2024-11-12
 VLG_fm_veg_31200_pr.260-337.ifc,"Endret navn til VLG_fm_veg_31200_pr.260-337, fjernet nedre bærelag",375,H02,"Krysset VLxOksenøyveien er ikke detaljprosjektert, tilpasninger vil komme",2024-09-05
-X2_FBX_fm_kon_K292_Provisorisk-støttemur-mot-Arcanum-Arm.ifc,Arbeidsgrunnlag til innsyn,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-02-12
-X_FBX_fm_kon_K292_Provisorisk-støttemur-mot-Arcanum-Arm.ifc,Arbeidsgrunnlag til innsyn,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-01-31
-X_FBX_fm_kon_K292_Provisorisk-støttemur-mot-Arcanum.ifc,Arbeidsgrunnlag til innsyn,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-01-31
-c02 bøyle og jern i bøy.ifc,Revidert etter kommentarer i kontrollrunde 1,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-06-10
-c02 uten jern i bøy.ifc,Til teknisk godkjenning,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-06-10
-c02 uten jern i bøy.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
 dns_fm_skilt_hv_f01.ifc,"Tilpasset skilt til ny rekkverksplassering, fjernet halvportal og plassert skilt på ekist. portal",350,H02,Skanska avgjør innfestingsmetode for skilt som står ved skjerm - skilt festes på skjerm eller fundament bak skjerm.,2023-11-30
-fargetFBX_fm_kon_K292_Provisorisk-støttemur-mot-Arcanum-Arm.ifc,Arbeidsgrunnlag til innsyn,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-02-12
-for hjorne K423.ifc,Endret armeringsføring for del som utføres i fase 0.1. Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-08-15
-for hjorne K423.ifc,Endret armeringsføring for del som utføres i fase 0.1. Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,HOLD,H04,Avventer detaljprosjektering ventilasjosntårn.,2025-08-15
-m fiber K423.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,400,H05,IR,2025-08-15
-m fiber K423.ifc,Arbeidsgrunnlag for del som utføres i fase 1.2. MMI HOLD på resten av ventilasjonssjakt.,HOLD,H05,Avventer detaljprosjektering ventilasjosntårn.,2025-08-15
-m fiber K423.ifc,Arbeidsgrunnlag for del som utføres i fase 0.1. MMI HOLD på resten av ventilasjonssjakt.,400,H04,IR,2025-02-13
-merged.ifc,Revidert etter kommentarer i kontrollrunde 1,350,C02,Mangler godkjenning hos Vegdirektoratet.,2025-06-10
-merged.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-ufargetFBX_fm_kon_K292_Provisorisk-støttemur-mot-Arcanum-Arm.ifc,Arbeidsgrunnlag til innsyn,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-02-12
-ver01_GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget.ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-ver01_GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget.ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-ver01_GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget.ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
