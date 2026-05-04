@@ -3,231 +3,120 @@
 <head>
     <meta charset="UTF-8">
     <title>Leveranser - E102 Fornebukrysset - Strand</title>
-    <!-- CSS biblioteker -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/rowgroup/1.4.1/css/rowGroup.dataTables.min.css">
-    
     <style>
-        /* Profilfarger */
-        :root {
-            --norconsult-blue: #0047bb;
-            --norconsult-blue-dark: #00358c;
-            --norconsult-light-grey: #f2f2f2;
-            --norconsult-white: #ffffff;
-            --latest-bg: #eef4ff;
-            --latest-text: #0047bb;
-        }
+        :root { --norconsult-blue: #0047bb; --latest-bg: #eef4ff; --warning-bg: #fff4e6; --warning-text: #d9480f; }
+        body { font-family: 'Segoe UI', sans-serif; margin: 0; background-color: #f2f2f2; }
+        
+        /* Header og Logoer */
+        .header-bar { display: flex; justify-content: space-between; align-items: center; background: white; padding: 10px 40px; border-bottom: 4px solid var(--norconsult-blue); min-height: 160px; }
+        .logo-skanska { height: 150px; } .logo-norconsult { height: 50px; }
+        .logo-wrapper { display: flex; align-items: center; gap: 30px; }
+        
+        .main-container { padding: 30px 40px; }
+        .content-card { background: white; padding: 25px; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
 
-        body { 
-            font-family: 'Segoe UI', Arial, sans-serif; 
-            padding: 0; 
-            margin: 0; 
-            background-color: var(--norconsult-light-grey); 
-        }
+        /* Gruppe-header (Blå) */
+        tr.dtrg-group { background-color: var(--norconsult-blue) !important; color: white !important; cursor: pointer; }
+        .header-info { float: right; font-weight: normal; font-size: 0.85em; opacity: 0.9; }
 
-        /* Header-linjen */
-        .header-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background-color: var(--norconsult-white);
-            padding: 10px 40px;
-            border-bottom: 4px solid var(--norconsult-blue);
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            min-height: 160px; /* Sikrer plass til den store logoen */
-        }
-
-        .header-bar h1 {
-            color: var(--norconsult-blue);
-            margin: 0;
-            font-size: 20px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .logo-wrapper {
-            display: flex;
-            align-items: center;
-            gap: 30px;
-        }
-
-        /* Spesifikk skalering av logoer */
-        .logo-skanska {
-            height: 150px; /* 3 ganger større enn Norconsult (50px * 3) */
-            width: auto;
-            object-fit: contain;
-        }
-
-        .logo-norconsult {
-            height: 50px;
-            width: auto;
-            object-fit: contain;
-        }
-
-        /* Tabell-container */
-        .main-container {
-            padding: 30px 40px;
-        }
-
-        .content-card {
-            background: var(--norconsult-white);
-            padding: 25px;
-            border-radius: 4px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-        }
-
-        /* Blå Gruppe-header */
-        tr.dtrg-group {
-            background-color: var(--norconsult-blue) !important;
-            color: var(--norconsult-white) !important;
-            cursor: pointer;
-        }
-
-        tr.dtrg-group:hover {
-            background-color: var(--norconsult-blue-dark) !important;
-        }
-
-        /* IFC Ikon i tabellen */
-        .ifc-icon-small {
-            height: 22px;
-            width: auto;
-            vertical-align: middle;
-            margin-right: 12px;
-            background: white;
-            padding: 1px;
-            border-radius: 3px;
-        }
-
-        /* Utheving av nyeste rad */
-        .row-latest {
-            background-color: var(--latest-bg) !important;
-            font-weight: 600;
-            color: var(--latest-text);
-        }
-
-        .header-info {
-            float: right;
-            font-weight: 400;
-            font-size: 0.85em;
-            opacity: 0.95;
-        }
-
-        /* Søkefelt */
-        .dataTables_filter { margin-bottom: 20px; }
-        .dataTables_filter input {
-            border: 1px solid #ccc;
-            padding: 8px;
-            border-radius: 4px;
-            margin-left: 10px;
-            width: 250px;
-        }
+        /* Stil for rader med manglende info */
+        .row-warning { background-color: var(--warning-bg) !important; color: var(--warning-text) !important; font-weight: bold; }
+        .row-latest { background-color: var(--latest-bg) !important; font-weight: 600; }
+        
+        .ifc-icon-small { height: 22px; vertical-align: middle; margin-right: 12px; background: white; padding: 1px; border-radius: 3px; }
     </style>
 </head>
 <body>
 
-    <header class="header-bar">
-        <h1>Leveranser - E102 Fornebukrysset - Strand</h1>
-        <div class="logo-wrapper">
-            <!-- Skanska logo (150px) -->
-            <img src="https://download.logo.wine/logo/Skanska/Skanska-Logo.wine.png" 
-                 alt="Skanska Logo" 
-                 class="logo-skanska">
-            <!-- Norconsult logo (50px) -->
-            <img src="https://companieslogo.com/img/orig/NORCO.OL_BIG-2216a709.png?t=1721396473" 
-                 alt="Norconsult Logo" 
-                 class="logo-norconsult">
-        </div>
-    </header>
-
-    <div class="main-container">
-        <div class="content-card">
-            <table id="ifcTable" class="display" style="width:100%">
-                <thead>
-                    <tr>
-                        <th>Modell Navn</th>
-                        <th>MMI</th>
-                        <th>Revisjon</th>
-                        <th>Dato</th>
-                        <th>Restrisiko kvalitet</th>
-                        <th>Revisjonsmerknad</th>
-                    </tr>
-                </thead>
-            </table>
-        </div>
+<header class="header-bar">
+    <h1>Leveranser - E102 Fornebukrysset - Strand</h1>
+    <div class="logo-wrapper">
+        <img src="https://download.logo.wine/logo/Skanska/Skanska-Logo.wine.png" class="logo-skanska">
+        <img src="https://companieslogo.com/img/orig/NORCO.OL_BIG-2216a709.png?t=1721396473" class="logo-norconsult">
     </div>
+</header>
 
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<div class="main-container">
+    <div class="content-card">
+        <p><i>Klikk på blå rad for historikk. <span style="color: #d9480f;">Oransje rader</span> mangler kritisk metadata.</i></p>
+        <table id="ifcTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Modell Navn</th>
+                    <th>MMI</th>
+                    <th>Revisjon</th>
+                    <th>Dato</th>
+                    <th>Restrisiko kvalitet</th>
+                    <th>Revisjonsmerknad</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
 
-    <script>
-        Papa.parse("data.csv", {
-            download: true,
-            header: true,
-            skipEmptyLines: true,
-            complete: function(results) {
-                var table = $('#ifcTable').DataTable({
-                    data: results.data,
-                    columns: [
-                        { data: "Modell Navn", visible: false, defaultContent: "" },
-                        { data: "MMI", defaultContent: "-" },
-                        { data: "Revisjon", defaultContent: "-" },
-                        { data: "Revisjonsdato", defaultContent: "-" },
-                        { data: "Restrisiko kvalitet", defaultContent: "-" },
-                        { data: "Revisjonsmerknad", defaultContent: "-" }
-                    ],
-                    order: [[0, 'asc']],
-                    rowGroup: {
-                        dataSrc: "Modell Navn",
-                        startRender: function (rows, group) {
-                            var latest = rows.data()[0];
-                            var d = (latest && latest.Revisjonsdato) ? latest.Revisjonsdato : "Ukjent";
-                            var m = (latest && latest.MMI) ? latest.MMI : "-";
-                            
-                            return $('<tr/>').append(
-                                '<td colspan="5">' +
-                                '<img src="https://p7.hiclipart.com/preview/1009/635/820/industry-foundation-classes-building-information-modeling-buildingsmart-navisworks-bim.jpg" class="ifc-icon-small">' + 
-                                '<b>' + group + '</b>' + 
-                                '<span class="header-info">' +
-                                '<b>SISTE DATO:</b> ' + d + ' | ' +
-                                '<b>SISTE MMI:</b> ' + m + ' | ' +
-                                '<i>(' + rows.count() + ' revisjoner)</i>' +
-                                '</span>' +
-                                '</td>'
-                            );
-                        }
-                    },
-                    pageLength: -1,
-                    dom: 'ft',
-                    language: { 
-                        url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json',
-                        search: "SØK I MODELLER:" 
-                    },
-                    drawCallback: function (settings) {
-                        var api = this.api();
-                        var rows = api.rows({ page: 'current' }).nodes();
-                        var lastGroup = null;
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/rowgroup/1.4.1/js/dataTables.rowGroup.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 
-                        api.column(0, { page: 'current' }).data().each(function (group, i) {
-                            if (lastGroup !== group) {
-                                $(rows).eq(i).addClass('row-latest');
-                                lastGroup = group;
-                            }
-                        });
+<script>
+    Papa.parse("data.csv", {
+        download: true, header: true, skipEmptyLines: true,
+        complete: function(results) {
+            $('#ifcTable').DataTable({
+                data: results.data,
+                columns: [
+                    { data: "Modell Navn", visible: false },
+                    { data: "MMI" }, { data: "Revisjon" }, { data: "Revisjonsdato" },
+                    { data: "Restrisiko kvalitet" }, { data: "Revisjonsmerknad" }
+                ],
+                order: [[0, 'asc']],
+                rowGroup: {
+                    dataSrc: "Modell Navn",
+                    startRender: function (rows, group) {
+                        var latest = rows.data()[0];
+                        var isMissing = (latest.MMI === "-" || latest.Revisjon === "-" || latest.Revisjonsdato === "-");
+                        var warnIcon = isMissing ? "⚠️ " : "";
+                        
+                        return $('<tr/>').append(
+                            '<td colspan="5">' +
+                            '<img src="https://p7.hiclipart.com/preview/1009/635/820/industry-foundation-classes-building-information-modeling-buildingsmart-navisworks-bim.jpg" class="ifc-icon-small">' + 
+                            '<b>' + warnIcon + group + '</b>' + 
+                            '<span class="header-info">' +
+                            '<b>SISTE DATO:</b> ' + latest.Revisjonsdato + ' | ' +
+                            '<b>SISTE MMI:</b> ' + latest.MMI +
+                            '</span></td>'
+                        );
                     }
-                });
+                },
+                pageLength: -1, dom: 'ft',
+                language: { url: '//cdn.datatables.net/plug-ins/1.13.6/i18n/no-NB.json', search: "SØK MODELL:" },
+                drawCallback: function (settings) {
+                    var api = this.api();
+                    var rows = api.rows({ page: 'current' }).nodes();
+                    var lastGroup = null;
 
-                $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
-                    $(this).nextUntil('tr.dtrg-group').toggle();
-                });
+                    api.rows({ page: 'current' }).data().each(function (data, i) {
+                        var isMissing = (data.MMI === "-" || data.Revisjon === "-" || data.Revisjonsdato === "-");
+                        
+                        if (isMissing) {
+                            $(rows).eq(i).addClass('row-warning');
+                        } else if (lastGroup !== data["Modell Navn"]) {
+                            $(rows).eq(i).addClass('row-latest');
+                        }
+                        lastGroup = data["Modell Navn"];
+                    });
+                }
+            });
 
-                setTimeout(() => { 
-                    $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); 
-                }, 300);
-            }
-        });
-    </script>
+            $('#ifcTable tbody').on('click', 'tr.dtrg-group', function () {
+                $(this).nextUntil('tr.dtrg-group').toggle();
+            });
+            setTimeout(() => { $('tr.dtrg-group').nextUntil('tr.dtrg-group').hide(); }, 300);
+        }
+    });
+</script>
 </body>
 </html>
