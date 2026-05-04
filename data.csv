@@ -51,13 +51,6 @@ DNS-DSS_fm_veg_rekkverk_lv.ifc,For utførelse på anlegg. MMI375,375,H03,Avvente
 DNS-DSS_fm_veg_rekkverk_lv.ifc,For utførelse på anlegg. MMI375. Gjelder rekkverk i portalområdet ved GTS.,375,H03,Avventer 6 ukers innsyn. TS-revisjon er ikke sluttført,2026-04-24
 DNS-DSS_fm_veg_rekkverk_lv.ifc,For utførelse på anlegg. MMI375 til 400.,400,H02,TS-revisjon er ikke gjennomført.,2025-12-17
 DNS-DSS_fm_veg_rekkverk_lv.ifc,For utførelse på anlegg. MMI375,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-10-30
-DNS_fm_belysning (1).ifc,Arbeidsgrunnlag,375,H02,-,2025-04-25
-DNS_fm_belysning (1).ifc,Arbeidsgrunnlag,375,H02,Fundament skal avsluttast slik at fotplate startar på høge til terreng,2025-04-25
-DNS_fm_belysning (1).ifc,Arbeidsgrunnlag,375,H01,Fundament skal avsluttast slik at fotplate startar på høge til terreng,2025-03-05
-DNS_fm_belysning (1).ifc,Under Prosjektering,100,B01,-,-
-DNS_fm_belysning (2).ifc,Arbeidsgrunnlag,375,H01,Fundament skal avsluttast slik at fotplate startar på høge til terreng,2025-03-05
-DNS_fm_belysning (2).ifc,Under Prosjektering,100,B01,-,ÅÅÅÅ-MM-DD
-DNS_fm_belysning (2).ifc,Under Prosjektering,100,B01,-,-
 DNS_fm_belysning.ifc,HOLD,HOLD,H05,Avventar landskap på MMI400,2026-02-23
 DNS_fm_belysning.ifc,HOLD,HOLD,H04,-,2025-11-17
 DNS_fm_belysning.ifc,Arbeidsgrunnlag,400,H04,-,2025-11-17
@@ -73,49 +66,6 @@ DNS_fm_belysning.ifc,Under Prosjektering/Arbeidsgrunnlag ,100,B01,I/A,ÅÅÅÅ-M
 DNS_fm_belysning.ifc,Under Prosjektering,100,B01,-,-
 DNS_fm_belysning.ifc,Under Prosjektering,100,B01,-,ÅÅÅÅ-MM-DD
 DNS_fm_belysning_rive-gjenbruk.ifc,Arbeidsgrunnlag ,400,H01,-,2024-04-18
-DNS_fm_belysning_tunnel_K320 (10).ifc,Arbeidsgrunnlag,400,H05,I/A,2025-09-24
-DNS_fm_belysning_tunnel_K320 (10).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (10).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (10).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
-DNS_fm_belysning_tunnel_K320 (10).ifc,Kabelstige må justeres på stedet for optimalisert plassering.,400,H04,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2026-xxxx
-DNS_fm_belysning_tunnel_K320 (10).ifc,Kabelstige justert til opprinnelig posisjon.,400,H04,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2026-xxxx
-DNS_fm_belysning_tunnel_K320 (10).ifc,"Justert kabelstige, tilsvarende løsning som ved paralell kabelstige.",400,H04,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2026-xxxx
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-04-28
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-04-28
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,375,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (2).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,375,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
-DNS_fm_belysning_tunnel_K320 (3).ifc,Til godkjenning,375,H02,I/A,2024-12-19
-DNS_fm_belysning_tunnel_K320 (3).ifc,Til godkjenning,300,H02,I/A,2024-12-19
-DNS_fm_belysning_tunnel_K320 (3).ifc,Til godkjenning,375,H02,-,2024-12-19
-DNS_fm_belysning_tunnel_K320 (3).ifc,Til godkjenning,375,H02,I/A,2024-11-18
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,375,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-02-18
-DNS_fm_belysning_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-02-18
-DNS_fm_belysning_tunnel_K320 (5).ifc,-,200,-,I/A,-
-DNS_fm_belysning_tunnel_K320 (7).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-03-12
-DNS_fm_belysning_tunnel_K320 (7).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-03-12
-DNS_fm_belysning_tunnel_K320 (7).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-03-05
-DNS_fm_belysning_tunnel_K320 (7).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-03-05
-DNS_fm_belysning_tunnel_K320 (7).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-03-05
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-04-28
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-04-28
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,375,H03,I/A,2025-04-28
-DNS_fm_belysning_tunnel_K320 (8).ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
 DNS_fm_belysning_tunnel_K320-fase_0.2.ifc,Arbeidsgrunnlag,400,H03,I/A,2025-03-05
 DNS_fm_belysning_tunnel_K320-fase_0.2.ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses fundamenter for brannplater,2025-03-05
 DNS_fm_belysning_tunnel_K320-fase_0.2.ifc,Arbeidsgrunnlag,400,H03,Plassering av kum må tilpasses bankett vinkel,2025-03-05
@@ -157,36 +107,6 @@ DNS_fm_belysning_tunnel_K320_H04.ifc,Arbeidsgrunnlag,400,H03,Plassering av kum m
 DNS_fm_belysning_tunnel_K320_H04.ifc,Arbeidsgrunnlag,300,H03,I/A,2025-04-28
 DNS_fm_belysning_tunnel_K320_H04.ifc,Arbeidsgrunnlag,400,H03,"Manglende lysberegninger for belysning på kabelbru. Dersom lyskilde må flyttes, kan dette også utløse at kabelbru må flyttes.",2025-04-28
 DNS_fm_belysning_tunnel_K320_H04.ifc,Arbeidsgrunnlag,375,H03,I/A,2025-04-28
-DNS_fm_dren (1).ifc,Justert avstand til vestre fundemant K320 midtvegg,400,H07,-,2025-04-09
-DNS_fm_dren (1).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper K412,2025-03-26
-DNS_fm_dren (1).ifc,Arbeidsgrunnlag,400,H06,-,2025-03-26
-DNS_fm_dren (1).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper,2025-03-26
-DNS_fm_dren (1).ifc,Arbeidsgrunnlag,400,H06,Må koordineres mot K412,2025-03-26
-DNS_fm_dren (1).ifc,Til innsyn,300,H03,-,2025-01-31
-DNS_fm_dren (1).ifc,Til innsyn,375,H04,-,2025-01-31
-DNS_fm_dren (1).ifc,Til innsyn,375,H03,-,2024-12-19
-DNS_fm_dren (1).ifc,Flyttet til grøft under K320 - ref. teknisk avklaring,400,H02,-,2024-02-09
-DNS_fm_dren (1).ifc,-,300,-,-,-
-DNS_fm_dren (1).ifc,-,100,-,-,-
-DNS_fm_dren (1).ifc,-,100,A01,-,yyyy-mm-dd
-DNS_fm_dren (2).ifc,Justert avstand til mur/fundament,400,H08,Må koordineres mot K412,2025-05-08
-DNS_fm_dren (2).ifc,Justert avstand til mur/fundament,400,H08,-,2025-05-08
-DNS_fm_dren (2).ifc,Justert avstand til mur/fundament,400,H08,Må tilpasses pelestriper,2025-05-08
-DNS_fm_dren (2).ifc,Justert avstand til vestre fundemant K320 midtvegg,400,H07,-,2025-04-09
-DNS_fm_dren (2).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper K412,2025-03-26
-DNS_fm_dren (2).ifc,Arbeidsgrunnlag,400,H06,-,2025-03-26
-DNS_fm_dren (2).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper,2025-03-26
-DNS_fm_dren (2).ifc,Arbeidsgrunnlag,400,H06,Må koordineres mot K412,2025-03-26
-DNS_fm_dren (2).ifc,Flyttet til grøft under K320 - ref. teknisk avklaring,400,H02,-,2024-02-09
-DNS_fm_dren (2).ifc,-,100,A01,-,yyyy-mm-dd
-DNS_fm_dren (3).ifc,Justert avstand til mur/fundament,400,H08,Må tilpasses pelestriper,2025-05-08
-DNS_fm_dren (3).ifc,Justert avstand til mur/fundament,400,H08,-,2025-05-08
-DNS_fm_dren (3).ifc,Justert avstand til vestre fundemant K320 midtvegg,400,H07,-,2025-04-09
-DNS_fm_dren (3).ifc,Arbeidsgrunnlag,400,H06,-,2025-03-26
-DNS_fm_dren (3).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper K412,2025-03-26
-DNS_fm_dren (3).ifc,Arbeidsgrunnlag,400,H06,Må tilpasses pelestriper,2025-03-26
-DNS_fm_dren (3).ifc,Flyttet til grøft under K320 - ref. teknisk avklaring,400,H02,-,2024-02-09
-DNS_fm_dren (3).ifc,-,100,A01,-,yyyy-mm-dd
 DNS_fm_dren-kummer.ifc,Arbeidsgrunnlag,400,H02,,2025-03-26
 DNS_fm_dren-kummer.ifc,,375,H01,Det er ikke gjennomført fullverdig TFK,2025-01-31
 DNS_fm_dren-kummer.ifc,,,,,
@@ -230,52 +150,6 @@ DNS_fm_ing-geo_grave-og-sprengningsplan_f02.ifc,Produksjonsunderlag,200 HOLD,-,-
 DNS_fm_ing-geo_grave-og-sprengningsplan_f02.ifc,Produksjonsunderlag,200,-,-,2024-01-19
 DNS_fm_ing-geo_grave-og-sprengningsplan_f02_H01.ifc,Produksjonsunderlag,200 HOLD,-,-,2024-01-19
 DNS_fm_ing-geo_grave-og-sprengningsplan_f02_H01.ifc,Produksjonsunderlag,200,-,-,2024-01-19
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,375,H10,-,2025-09-30
-DNS_fm_kabler (1).ifc,"Arbeidsgrunnlag, lagt til 200mm foringsramme på topp av kum",400,H10,-,2025-09-30
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H09,-,2025-09-04
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H08,-,2025-08-21
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,350,C08,-,2025-08-21
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,C08,-,2025-08-21
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H07,-,2025-06-16
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,C07,-,2025-06-16
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H06,-,2025-04-28
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,B01,-,2025-04-28
-DNS_fm_kabler (1).ifc,Konsept,200,B01,-,2025-03-06
-DNS_fm_kabler (1).ifc,Konsept,375,H05,-,2025-03-06
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,375,H05,-,2025-03-06
-DNS_fm_kabler (1).ifc,Konsept,HOLD,H05,-,2025-03-06
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag ,375,H05,-,2025-03-06
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,B01,-,2025-03-06
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,350,C05,-,2025-03-06
-DNS_fm_kabler (1).ifc,oppdatert til mmi 400,400,H04,-,2025-02-03
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H04,-,2025-02-03
-DNS_fm_kabler (1).ifc,Justert jordspyd for å sammenfalle med tversgående jord for forbedret impulsjording.,400,H03,-,2024-12-13
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag ,400,H03,-,2024-12-13
-DNS_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H03,-,2024-12-13
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,B01,-,ÅÅÅÅ-MM-DD
-DNS_fm_kabler (1).ifc,Ferdig konsept,200,B01,-,-
-DNS_fm_kabler (2).ifc,Arbeidsgrunnlag,375,H06,-,2025-04-25
-DNS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,2025-04-25
-DNS_fm_kabler (2).ifc,Arbeidsgrunnlag ,375,H06,-,2025-04-25
-DNS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,2025-03-06
-DNS_fm_kabler (2).ifc,Arbeidsgrunnlag,375,H05,-,2025-03-06
-DNS_fm_kabler (2).ifc,Arbeidsgrunnlag ,375,H05,-,2025-03-06
-DNS_fm_kabler (2).ifc,oppdatert til mmi 400,400,H04,-,2025-02-03
-DNS_fm_kabler (2).ifc,Justert jordspyd for å sammenfalle med tversgående jord for forbedret impulsjording.,400,H03,-,2024-12-13
-DNS_fm_kabler (2).ifc,Arbeidsgrunnlag ,400,H03,-,2024-12-13
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H06,-,2025-04-28
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag,375,H06,-,2025-04-28
-DNS_fm_kabler (3).ifc,Konsept,375,H06,-,2025-04-28
-DNS_fm_kabler (3).ifc,Konsept,400,H06,-,2025-04-28
-DNS_fm_kabler (3).ifc,Ferdig konsept,200,B01,-,2025-04-28
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag ,375,H06,-,2025-04-28
-DNS_fm_kabler (3).ifc,Ferdig konsept,200,B01,-,2025-03-06
-DNS_fm_kabler (3).ifc,Konsept,200,B01,-,2025-03-06
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag,350,H05,-,2025-03-06
-DNS_fm_kabler (3).ifc,oppdatert til mmi 400,400,H04,-,2025-02-03
-DNS_fm_kabler (3).ifc,Justert jordspyd for å sammenfalle med tversgående jord for forbedret impulsjording.,400,H03,-,2024-12-13
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H03,-,2024-12-13
-DNS_fm_kabler (3).ifc,Arbeidsgrunnlag ,400,H03,-,2024-12-13
 DNS_fm_kabler.ifc,Ferdig konsept,200,H07,-,2026-06-16
 DNS_fm_kabler.ifc,Arbeidsgrunnlag ,400,H07,-,2026-06-16
 DNS_fm_kabler.ifc,Arbeidsgrunnlag,375,H07,-,2026-06-16
@@ -343,8 +217,8 @@ DNS_fm_kabler.ifc,Prosjekteringsgrunnlag,100,B01,-,2024-11-01
 DNS_fm_kabler.ifc,Underlag for detaljering,300,B01,-,2024-11-01
 DNS_fm_kabler.ifc,Arbeidsgrunnlag ,100,B01,-,2024-11-01
 DNS_fm_kabler.ifc,Arbeidsgrunnlag ,375,H01,-,2024-10-31
-DNS_fm_kabler.ifc,Arbeidsgrunnlag ,100,None,-,ÅÅÅÅ-MM-DD
-DNS_fm_kabler.ifc,Arbeidsgrunnlag,100,None,-,ÅÅÅÅ-MM-DD
+DNS_fm_kabler.ifc,Arbeidsgrunnlag ,100,,-,ÅÅÅÅ-MM-DD
+DNS_fm_kabler.ifc,Arbeidsgrunnlag,100,,-,ÅÅÅÅ-MM-DD
 DNS_fm_kabler.ifc,Ferdig konsept,200,B01,-,-
 DNS_fm_kabler.ifc,Arbeidsgrunnlag,375,H13,-,4/23/2026
 DNS_fm_kabler_J230-STB-T1.ifc,-,100,-,-,-
@@ -394,56 +268,6 @@ DNS_fm_kabler_skap.ifc,Under Prosjektering/Arbeidsgrunnlag ,100,B01,-,-
 DNS_fm_kabler_skap.ifc,Under Prosjektering,100,B01,-,-
 DNS_fm_kabler_skap.ifc,Under arbeid,100,B01,Avventar dimensjon på skap frå E121,-
 DNS_fm_kabler_skap.ifc,Under arbeid,100,B01,-,-
-DNS_fm_kabler_tunnel_K320 (1).ifc,Forskyvet høyspenttrase for å unngå kollisjon med vegg og brannelementer,400,H05,I/A,2025-07-04
-DNS_fm_kabler_tunnel_K320 (1).ifc,Endret på tekst i restrisiko kvalitet,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Trekkerør flyttet som følge av flytting av trekkekummer. Trekkekummer er flyttet grunnet kollisjon med rekkverk.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,"Trekkekum flyttet grunnet kollisjon med fundament for brannplater, lengden på trekkerør har derfor økt.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,"Trekkekum flyttet pågrunn av endringer på bankett, trekkerør er derfor også endret.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Justert trase på trekkerør så de treffer eksisterende OPI-kanal,375,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Forlenget eksisterende høyspent så den avsluttes i trekkekum STB-NK 4010,375,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (1).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-02-18
-DNS_fm_kabler_tunnel_K320 (1).ifc,-,200,-,I/A,-
-DNS_fm_kabler_tunnel_K320 (1).ifc,-,200,-,-,-
-DNS_fm_kabler_tunnel_K320 (2).ifc,Forskyvet høyspenttrase for å unngå kollisjon med vegg og brannelementer,400,H05,I/A,2025-07-04
-DNS_fm_kabler_tunnel_K320 (2).ifc,Endret på tekst i restrisiko kvalitet,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Trekkerør flyttet som følge av flytting av trekkekummer. Trekkekummer er flyttet grunnet kollisjon med rekkverk.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,"Trekkekum flyttet grunnet kollisjon med fundament for brannplater, lengden på trekkerør har derfor økt.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,"Trekkekum flyttet pågrunn av endringer på bankett, trekkerør er derfor også endret.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Justert trase på trekkerør så de treffer eksisterende OPI-kanal,375,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Forlenget eksisterende høyspent så den avsluttes i trekkekum STB-NK 4010,375,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (2).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-02-18
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,Plassering av kum må tilpasses fundamenter for brannplater,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,Plassering av kum må tilpasses bankett vinkel,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trekkerør er justert til MMI 400 etter at innsynsperiode er utløpt,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,Justert grensesnitt mot dagsone for å matche OPI-kanal i dagsonen,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,"Trase justert ifm, kollisjon med VA-kummer og/eller brannelementer",400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (4).ifc,Forskyvet høyspenttrase for å unngå kollisjon med vegg og brannelementer,400,H05,I/A,2025-07-04
-DNS_fm_kabler_tunnel_K320 (4).ifc,Endret på tekst i restrisiko kvalitet,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trekkerør flyttet som følge av flytting av trekkekummer. Trekkekummer er flyttet grunnet kollisjon med rekkverk.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,"Trekkekum flyttet grunnet kollisjon med fundament for brannplater, lengden på trekkerør har derfor økt.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,"Trekkekum flyttet pågrunn av endringer på bankett, trekkerør er derfor også endret.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (4).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-02-18
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,Plassering av kum må tilpasses fundamenter for brannplater,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trekkekummer er flyttet fra DNS_fm_belysning_tunnel_K320 til DNS_fm_kabler_tunnel_K320 etter ønske fra Skanska,400,H06,Plassering av kum må tilpasses bankett vinkel,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trekkerør er justert til MMI 400 etter at innsynsperiode er utløpt,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,Justert grensesnitt mot dagsone for å matche OPI-kanal i dagsonen,400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,"Trase justert ifm, kollisjon med VA-kummer og/eller brannelementer",400,H06,I/A,2025-09-27
-DNS_fm_kabler_tunnel_K320 (5).ifc,Forskyvet høyspenttrase for å unngå kollisjon med vegg og brannelementer,400,H05,I/A,2025-07-04
-DNS_fm_kabler_tunnel_K320 (5).ifc,Endret på tekst i restrisiko kvalitet,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trekkerør flyttet som følge av flytting av trekkekummer. Trekkekummer er flyttet grunnet kollisjon med rekkverk.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,"Trekkekum flyttet grunnet kollisjon med fundament for brannplater, lengden på trekkerør har derfor økt.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,"Trekkekum flyttet pågrunn av endringer på bankett, trekkerør er derfor også endret.",400,H04,I/A,2025-05-06
-DNS_fm_kabler_tunnel_K320 (5).ifc,Arbeidsgrunnlag,400,H03,I/A,2025-02-18
 DNS_fm_kabler_tunnel_K320-fase_0.2.ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H05,"Oppfyller ikke krav i N200 om at trekkerør legges minimum 15 cm opp fra bunn i kum, dette grunnet plass mangle pågrunn av konflikterende krav.",2025-04-10
 DNS_fm_kabler_tunnel_K320-fase_0.2.ifc,Trekkerør flyttet som følge av flytting av trekkekummer. Trekkekummer er flyttet grunnet kollisjon med rekkverk.,400,H05,I/A,2025-04-10
 DNS_fm_kabler_tunnel_K320-fase_0.2.ifc,Trase er tilpasset som følge av flytting av trekkekummer som kom i konflikt med fundamenter til brannplater.,400,H05,I/A,2025-04-10
@@ -521,10 +345,6 @@ DNS_fm_kon_J170_Støyskjerm-Michelets-vei_H05.ifc,Skjerm del øst innarbeidt med
 DNS_fm_kon_J170_Støyskjerm-Michelets-vei_H05.ifc,"Endret form på betongelementer, splittet ut mørtel som egne objekter. Lagt til varmforsinking på HEA-bjelker. Skjermelementer og tilhørende geometri justert litt i plan.",400,H02,-,28.09.2023
 DNS_fm_kon_J170_Støyskjerm-Michelets-vei_H05.ifc,Arbeidsgrunnlag,400,H01,-,19.09.2023
 DNS_fm_kon_J170_Støyskjerm-Michelets-vei_H07.ifc,Oppdatert modell til som bygget til og med østre del 2,500,H07,-,14.08.2024
-DNS_fm_kon_J230_Teknisk-bygg (2).ifc,Produksjonsunderlag,400,H02,-,2024-08-19
-DNS_fm_kon_J230_Teknisk-bygg (2).ifc,Størrelser på utsparinger i bakre knevegg er justert. Ny ventilasjonsrist ved batterirom. Justert fugeblikk. Gjennomsyn hos SVV gjennomført.,HOLD,H02,MMI på knevegger settes til HOLD inntil hylseplassering for prefab-vegger er avklart,2024-08-19
-DNS_fm_kon_J230_Teknisk-bygg (2).ifc,Størrelser på utsparinger i bakre knevegg er justert. Ny ventilasjonsrist ved batterirom. Justert fugeblikk.,400,H02,-,2024-08-19
-DNS_fm_kon_J230_Teknisk-bygg (2).ifc,Størrelser på utsparinger i bakre knevegg er justert. Ny ventilasjonsrist ved batterirom. Justert fugeblikk. Gjennomsyn hos SVV gjennomført.,400,H02,MMI på knevegger er satt til HOLD inntil hylseplassering for prefab-vegger er avklart,2024-08-19
 DNS_fm_kon_J230_Teknisk-bygg-Armering.ifc,Tilpasset armering HS-grube,400,H04,-,2024-11-13
 DNS_fm_kon_J230_Teknisk-bygg-Armering.ifc,Justert armering etter tilpasning til prefab-elementer,400,H03,-,2024-11-04
 DNS_fm_kon_J230_Teknisk-bygg-Armering.ifc,For utførelse på byggeplass,400,H02,-,2024-08-21
@@ -744,8 +564,6 @@ DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-1_gammel.ifc,MMI400 på vegger i først
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-1_gammel.ifc,Innarbeidet rustfrie jern skjøtekoblinger mot K410. Innarbeidet riktig materiale rustfri armering BVBS. Partisjon innarbeidet i posnr.,400,H04,-,2024-03-21
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-1_gammel.ifc,Arbeidsgrunnlag,400,H03,-,2024-01-25
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-1_gammel.ifc,Arbeidsgrunnlag,350,H03,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l.",2024-01-25
-DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-2-3 (2).ifc,Arbeidsgrunnlag,400,H03,-,2024-02-16
-DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-2-3 (2).ifc,Arbeidsgrunnlag,350,H03,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer avklaringer fra elektro ang. teknisk anlegg. Avventer avklaringer fra leverandør ang. innfestinger av skilt, ventilasjon, rekkverk o.l.",2024-02-16
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-2-3-gammel.ifc,Endret skjøtekoblinger for overflatearmering på etappe 3.,400,H05,-,2024-05-03
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-2-3-gammel.ifc,Endret skjøtekoblinger for overflatearmering på etappe 3.,350,H05,Avventer MMI400 på østgående løp siden det er lenge til dette løpet utføres og ikke alt er ferdig prosjektert.,2024-05-03
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-2-3-gammel.ifc,MMI400 på all armering i vestgående løp.,400,H04,-,2024-04-26
@@ -884,7 +702,6 @@ DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-8-9_rebarSets_colored.ifc,Gruppert arme
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-8-9_rebarSets_colored.ifc,Oppstikkende armering til teknisk bygg flyttet ned. Lagt inn ekstra lengdearmering for vegger i østgående løp. MMI400 på østgående løp.,400,H04,IR,2024-09-04
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-8-9_rebarSets_colored.ifc,Rettet opp i jern med feil plassering. Innarbeidet armering til mur under teknisk bygg. MMI400 på takplate vestgående løp.,400,H03,IR,2024-08-23
 DNS_fm_kon_K320_Stabekklokket-Arm-Etappe-8-9_rebarSets_colored.ifc,Arbeidsgrunnlag. MMI400 kun på vestgående løp bunnplate og vegger.,400,H02,IR,2024-04-26
-DNS_fm_kon_K320_Stabekklokket-Bankett (1).ifc,-,375,-,-,-
 DNS_fm_kon_K320_Stabekklokket-Bankett.ifc,Oppdatert endeavslutningene mot rekkverk,400,H02,-,2025-08-13
 DNS_fm_kon_K320_Stabekklokket-Bankett.ifc,Arbeidsgrunnlag,400,H01,-,2025-03-21
 DNS_fm_kon_K320_Stabekklokket-Belegning.ifc,Fjernet belegning på konsoller. Lagt til tegningslink for fugedetalj membran og oppdatert relevante anvisninger.,400,H09,IR,2025-04-22
@@ -906,21 +723,6 @@ DNS_fm_kon_K320_Stabekklokket-Belegning_4.ifc,Komplettert belegning. Tilpasset f
 DNS_fm_kon_K320_Stabekklokket-Belegning_4.ifc,Til teknisk godkjenning,350,C01,-,2023-09-01
 DNS_fm_kon_K320_Stabekklokket-Belegning_H09.ifc,Fjernet belegning på konsoller. Lagt til tegningslink for fugedetalj membran og oppdatert relevante anvisninger.,400,H09,IR,2025-04-22
 DNS_fm_kon_K320_Stabekklokket-Belegning_H09.ifc,Delt opp belegningsmodell i faser.,400,H07,IR,2025-01-23
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Østgående løp endret MMI til 400. Endret bunnplate i etappe 6 og 7 østgående løp for nedsenk til peler. Modellert trekkerør til skilt på portal.,400,H20,IR,2026-01-28
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Lagt inn overgangsplate på etappe 22 i østgående løp. Revidert boltemønster for innfesting av ventilatorer i østgående løp. Lagt inn drensrør.,400,H19,IR,2025-10-24
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Lagt inn nytt drensrør i mur på etappe 17. Lagt inn nytt objekt og anvisning ved gammelt hull.,400,H18,IR,2025-09-04
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Lagt inn ekstra innfesting til kabelstige i takplate etappe 22 vestgående løp. Flyttet innfesting til kabelstige i østgående løp. Flyttet jordingsbolter over kabelstige i østgående løp. MMI400 etappe 1-3 østgående løp. Modellert ny innfesting for brannelementer i midtvegg østgående løp for etappe 20-22 og hele yttervegg østgående løp. Flyttet støpeskjøt i brem for portal i øst.,400,H17,IR,2025-05-05
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Flyttet  innfesting til kabelstige og vifte i vestgående løp. Fjernet ekstra jordingsbolt i etappe 1 vestgående løp. Flyttet jordingsbolt vestgående løp etappe 22.,400,H16,IR,2025-03-14
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Lagt inn fullforankringshylser for innfesting av brannelementer. Flyttet trekkerør for ventilasjon i etappe 16 vestgående løp.  Flyttet innfesting for kabelbru i vestgående løp etappe 16-23. Flyttet innfesting for ventilator i etappe 16 vestgående løp.,400,H14,IR,2025-03-11
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Modellert dybler i takplate for etappe 19-23 .Fjernet info om tilbakefylling fra metadataobjekt. Flyttet kum fra etappe 3 til 4 i østgående.,400,H13,IR,2025-02-13
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Modellert innstøpningsgods i østgående løp. Endret byggeetappe på vegg over tak ved skiltnisje. Trekkerør i etappe 22 tilpasset skilt. Linket til tegning for innfesting av ventilatorer. Laget utsparing i mur under J230 for avrenning. Endret materiale betongavretting. Lagt inn ekstra trekkerør til nødkiosk etappe 17. Utvidet grube i nødkiosk etappe 17 og flyttet jordingsbolt. Lagt inn trekkerør til vindmåler. Endret betongkvalitet på enkelte elementer. Mindre justeringer på innredning i nødkiosker.,400,H12,IR,2024-12-20
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,"Satt MMI400 på påstøp for trekkerør til teknisk bygg, samt lagt inn trekkerør i påstøp. Lagt inn innfesting påstøp til kulvert. Tilpasset høyde utvendig fugebånd mot K322. Endret boltemønster innfest lysmast på støttemur. Angitt radius på bend trekkerør til ventilator.",400,H11,IR,2024-12-05
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,MMI400 på vestgående løp. Lagt inn fall på støttemur. Oppdatert anvisning på sikringsgjerde i øst og fjernet boltegrupper. Fjernet utsparing til kum i etappe 1 østgående. Flyttet gjennomføring for høyspent. Mindre justeringer.,400,H10,IR,2024-10-17
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Flyttet nødstasjon i etappe 11. Utvidet alle nødstasjoner med 400 mm i dybden. Innarbeidet mur for fundamentering av teknisk bygg etappe 6-8. Lagt inn innstøpningsgods for oppheng av vegvisningsskilt etappe 6. Lagt inn trekkerør for høyspent etappe 9 og tilpasset plassering innstøpningsgods kabelstiger. Lagt inn påstøp for trekkerør langs vegg opp til teknisk bygg. Diverse mindre endringer.,400,H09,IR,2024-08-29
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,"Modellert tynnere bunnplate i østgående løp for etappe 12-18. Innarbeidet nytt prinsipp for rømningsveier. Lagt inn injiseringsslange i vertikal skjøt for bunnplate, og langsgående, vertikale skjøter. Innfesting for tverrgående kabelstiger ved nødkiosker er tilpasset elektro sin modell. Satt MMI400 på overgangsplater og konsoll etappe 1-3. Dybler er tilpasset endringer for bunnplate på etappe 12-18.",400,H08,IR,2024-05-16
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,MMI400 på takplate etappe 1-3 vestgående løp. MMI400 på bunnplate og vegger etappe 4-9.  Innarbeidet injeksjonsslanger i alle etapper. Modellert inn innfesting til skilt i tak. Innarbeidet grube i nødstasjoner.,400,H07,IR,2024-04-26
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,MMI400 på vegger etappe 1 i første fase. Endret innstøpningsgods kabelstiger til M20. Tilpasset synlig forskaling til membran/terreng.,400,H06,IR,2024-04-10
-DNS_fm_kon_K320_Stabekklokket-Form (1).ifc,Arbeidsgrunnlag etappe 1-3. Flyttet VA ut av bunnplate og endret føring av innstøpt fugebånd. Justert overgangsplater i vest.,400,H04,IR,2024-01-25
 DNS_fm_kon_K320_Stabekklokket-Form - C03.ifc,Tilpasning mot ramper i vest. Justering av veggtykkelse i vest. Utvidet bunnplate ved fuger på del på berg og tilpasset fugebånd. Flere mindre endringer/suppleringer i modell.,350,C03,-,2023-11-28
 DNS_fm_kon_K320_Stabekklokket-Form - C03.ifc,Oppdatert form til ny utbredelse av peler. Flyttet plassering av skiltnisjer. Oppdatert nødkiosker. Flere mindre endringer/suppleringer i modell.,350,C02,-,2023-10-31
 DNS_fm_kon_K320_Stabekklokket-Form - C03.ifc,Til teknisk godkjenning,350,C01,-,2023-09-01
@@ -1256,23 +1058,6 @@ DNS_fm_kon_K320_Stabekklokket-Utstyr_H08.ifc,Tilpasset bankett til rømningsvege
 DNS_fm_kon_K320_Stabekklokket-Utstyr_H08.ifc,Tilpasset bankett til rømningsveger og vegrekkverk. Justert kabelstiger i østgående løp. MMI400 på brannbeskyttelse i vestgående løp. Oppdatert anvisning på brannbeskyttelse. Fargelagt elementer for rømning 8 m til hver side. MMI HOLD på banketter siden det vil bli laget egen modell for bankett tilsvarende som ellers på prosjektet.,HOLD,H06,"Avventer MMI400 på østgående løp siden TFK på innredning er ikke gjennomført med andre fag. Bankett tas ut av modell når egen bankett modell er utarbeidet. Avventer avklaringer fra leverandør på valgte produkter, se også ""K16 Elementstatus"".",2025-02-04
 DNS_fm_kon_K320_Stabekklokket-Utstyr_H08.ifc,Flyttet nødkiosk. Gjengestag tilpasset ny plassering innfesting kabelbruer.,400,H05,IR,2024-08-29
 DNS_fm_kon_K320_Stabekklokket-Utstyr_H08.ifc,"Endret prosessnavn og mengdet brannbeskyttelse. Brannplater, bankett og dører tilpasset ny utforming for rømningsveger. Innarbeidet flate for maling rundt rømningsveger. Revidert utforming på GS rekkverk.",HOLD,H04,"Avventer MMI400 siden det er lenge til østgående løp skal utføres. Avventer avklaringer fra leverandør på valgte produkter, se også ""K16 Elementstatus"".",2024-06-03
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,Endret form fundament/økt tykkelse ytterkant tå. Lagt byggeetappe på stolper for støyskjerm. Økt innstøpningslengde på boltegrupper for støyskjerm over 3 m. Lagt inn trekkerør for jording ved skiltbraketter.,400,H04,-,2025-04-08
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,Endret form fundament/økt tykkelse ytterkant tå. Lagt byggeetappe på stolper for støyskjerm. Økt innstøpningslengde på boltegrupper for støyskjerm over 3 m. Lagt inn trekkerør for jording ved skiltbraketter.,HOLD,H04,-,2025-04-08
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,Arbeidsgrunnlag,400,H03,Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,Arbeidsgrunnlag,HOLD,H03,Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,Skiltbrakett endret type og kote,HOLD,H05,-,2025-05-x
-DNS_fm_kon_K322_Oksenøy-støttemur-I (1).ifc,"Fjernet drenshull, lagt membran på nødstasjon og angitt type forskaling",400,H05,-,2025-05-x
-DNS_fm_kon_K322_Oksenøy-støttemur-I (2).ifc,Endret form fundament/økt tykkelse ytterkant tå. Lagt byggeetappe på stolper for støyskjerm.,400,H04,-,2025-04-07
-DNS_fm_kon_K322_Oksenøy-støttemur-I (2).ifc,Endret form fundament/økt tykkelse ytterkant tå. Lagt byggeetappe på stolper for støyskjerm.,HOLD,H04,-,2025-04-07
-DNS_fm_kon_K322_Oksenøy-støttemur-I (2).ifc,Arbeidsgrunnlag,400,H03,Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I (2).ifc,Arbeidsgrunnlag,HOLD,H03,Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I (2).ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-13
-DNS_fm_kon_K322_Oksenøy-støttemur-I (3).ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-13
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering (2).ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt.",400,H04,-,2025-04-07
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering (2).ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering (2).ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-13
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering (3).ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt.",400,H04,-,2025-04-08
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering (3).ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering.ifc,"Lagt inn støpeskjøt i etappe 3. Forlenget ben på armering i etappe 3-6. Tilpasset armering til økt tykkelse på fundament i etappe 3,5 og 6.",400,H06,-,2026-03-04
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering.ifc,"Revidert anvisning om omfar.
 Lagt til armering rundt utsparing for signalskap, samt justering av armering i trauvegg rundt signalskap.",400,H05,-,2025-10-17
@@ -1294,14 +1079,9 @@ DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_colored.ifc,"Revidert anvisning o
 Lagt til armering rundt utsparing for signalskap, samt justering av armering i trauvegg rundt signalskap.",400,H05,-,2025-10-17
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_colored.ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt. Lagt inn anvisning på armering som kan komme i konflikt med boltegruppe for støyskjerm (vegger etappe 05 og 06).",400,H04,-,2025-04-08
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_colored.ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge (2).ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt.",400,H04,-,2025-04-07
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge (2).ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge (3).ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt.",400,H04,-,2025-04-08
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge (3).ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge.ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt. Lagt inn anvisning på armering som kan komme i konflikt med boltegruppe for støyskjerm (vegger etappe 05 og 06).",400,H04,-,2025-04-08
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge.ifc,"Endret formkode og bøyemål på posnr 1107, 1207, 1307, 1409, 1503, 1516, 1603, 1703 og 1803. Lagt inn skjøtejernskassett i skjøt mellom vegg 01 og skjærnøkkel. Lagt inn informasjon om omfar på alle jern, samt oppdatert M81 Anvisninger armering omfaring på metadataobjekt.",400,H04,-,2025-04-07
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farge.ifc,Arbeidsgrunnlag,400,H03,'Innfesting brakett til skiltgalge er ikke avklart,2025-03-24
-DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farget (2).ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-13
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farget.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-20
 DNS_fm_kon_K322_Oksenøy-støttemur-I-Armering_farget.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-12-13
 DNS_fm_kon_K322_Oksenøy-støttemur-I.ifc,"Lagt inn støpeskjøt i etappe 3. Økt tykkelse på fundament i etappe 3,5 og 6.",400,H08,Elektro-trekkerør fra nødstasjon må tilpasses til betongplaten.,2026-03-04
@@ -1418,8 +1198,6 @@ DNS_fm_merking_E18_f01.ifc,Referanselinjer til stikning er lagt inn ,350,H03,I/A
 DNS_fm_merking_E18_f01.ifc,I/A,350,H02,I/A,2023-11-30
 DNS_fm_merking_E18_f01.ifc,Tilpasset oppmerking til vegmodell fm_veg_74050_f01,350,H02,I/A,2023-11-30
 DNS_fm_merking_lv_f00.ifc,I/A,350,H01,I/A,2024-01-18
-DNS_fm_skilt (1).ifc,For utførelse på anlegg,HOLD,H01,Skiltplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,2025-03-05
-DNS_fm_skilt (3).ifc,Skilt pos. nr. 126 og 127 flyttet til pr. nr. 6325 ,350,H03,Skiltplan er ikke godkjent hos SVV.,2025-12-12
 DNS_fm_skilt.ifc,Produksjonsunderlag,350,H02,Skiltplan er ikke godkjent hos SVV.,2025-06-25
 DNS_fm_skilt.ifc,For utførelse på anlegg,HOLD,H01,Skiltplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,2025-03-05
 DNS_fm_skilt_E18.ifc,Skilt pos. nr. 126 og 127 flyttet til pr. nr. 6325 ,350,H03,Skiltplan er ikke godkjent hos SVV.,2025-12-12
@@ -1430,20 +1208,11 @@ DNS_fm_skilt_E18.ifc,For utførelse på anlegg,HOLD,H01,Skiltplan er ikke godkje
 DNS_fm_skilt_E18.ifc,-,HOLD,-,Skiltplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,-
 DNS_fm_skilt_E18_f01.ifc,"Endret farge og flyttet fartsgrenseskilt, fjernet skilt for endret kjøremønster",350,H03,Leverandør/ Skanska avgjør innfestingsmetode for skilt som står ved skjerm - skilt festes på skjerm eller fundament bak skjerm.,2023-12-06
 DNS_fm_skilt_E18_f01.ifc,"Tilpasset skilt til ny rekkverksplassering, fjernet halvportal og plassert skilt på ekist. portal",350,H02,Leverandør/ Skanska avgjør innfestingsmetode for skilt som står ved skjerm - skilt festes på skjerm eller fundament bak skjerm.,2023-11-30
-DNS_fm_skilt_K320-Vestgående (2).ifc,Justert størrelse på skilt,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Vestgående (2).ifc,Oppdatert skiltbilde etter kommentar fra skiltmyndigheter. Lagt til størrelse på skilt,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Vestgående (2).ifc,Endret tagnummer og størrelse,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Vestgående (2).ifc,For utførelse på anlegg,350,H02,-,2025-04-11
 DNS_fm_skilt_K320-Vestgående.ifc,Justert størrelse på skilt,350,H03,-,2025-09-23
 DNS_fm_skilt_K320-Vestgående.ifc,Oppdatert skiltbilde etter kommentar fra skiltmyndigheter. Lagt til størrelse på skilt,350,H03,-,2025-09-23
 DNS_fm_skilt_K320-Vestgående.ifc,Endret tagnummer og størrelse,350,H03,-,2025-09-23
 DNS_fm_skilt_K320-Vestgående.ifc,For utførelse på anlegg,350,H02,-,2025-04-11
 DNS_fm_skilt_K320-Vestgående.ifc,For utførelse på anlegg,350,H01,-,2025-03-05
-DNS_fm_skilt_K320-Østgående (2).ifc,For utførelse på anlegg,350,H02,-,2025-04-11
-DNS_fm_skilt_K320-Østgående (3).ifc,Justert størrelse på skilt,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Østgående (3).ifc,Endret tagnummer og størrelse,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Østgående (3).ifc,Lagt til størrelse på skilt,350,H03,-,2025-09-23
-DNS_fm_skilt_K320-Østgående (3).ifc,For utførelse på anlegg,350,H02,-,2025-04-11
 DNS_fm_skilt_K320-Østgående.ifc,Justert størrelse på skilt,350,H03,-,2025-09-23
 DNS_fm_skilt_K320-Østgående.ifc,Endret tagnummer og størrelse,350,H03,-,2025-09-23
 DNS_fm_skilt_K320-Østgående.ifc,Lagt til størrelse på skilt,350,H03,-,2025-09-23
@@ -1474,18 +1243,11 @@ DNS_fm_veg_rekkverk_hv_f01.ifc,Alt av rekkverk endret,400,H02,-,14.11.2023
 DNS_fm_veg_rekkverk_hv_f01.ifc,For Utførelse på anlegg,400,H01,-,28.09.2023
 DNS_fm_veg_rekkverk_hv_f01.ifc,-,400,-,-,-
 DNS_fm_veg_rive_f01.ifc,For Utførelse på anlegg,400,H01,-,20-10-2023
-DNS_fm_vegbommer_E18 (1).ifc,For utførelse på anlegg,350,H01,Skiltplan er ikke godkjent hos SVV.  Fundamenter som ligger under midlertidig E18 må ha hylser istedetfor boltegrupper. ,2025-03-05
-DNS_fm_vegbommer_E18 (1).ifc,For utførelse på anlegg,350,H01,Skiltplan er ikke godkjent hos SVV,2025-03-05
 DNS_fm_vegbommer_E18.ifc,Produksjonsunderlag,350,H02,Skiltplan er ikke godkjent hos SVV,2025-06-25
 DNS_fm_vegbommer_E18.ifc,For utførelse på anlegg,350,H02,Skiltplan er ikke godkjent hos SVV,2025-05-16
 DNS_fm_vegbommer_E18.ifc,For utførelse på anlegg,350,H01,Skiltplan er ikke godkjent hos SVV.  Fundamenter som ligger under midlertidig E18 må ha hylser istedetfor boltegrupper. ,2025-03-05
 DNS_fm_vegbommer_E18.ifc,For utførelse på anlegg,350,H01,Skiltplan er ikke godkjent hos SVV,2025-03-05
-DNS_fm_vent_K320-Vestgående (1).ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
-DNS_fm_vent_K320-Vestgående (2).ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
-DNS_fm_vent_K320-Vestgående (3).ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
 DNS_fm_vent_K320-Vestgående.ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
-DNS_fm_vent_K320-Østgående (1).ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
-DNS_fm_vent_K320-Østgående (2).ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
 DNS_fm_vent_K320-Østgående.ifc,Produksjonsunderlag,350,H01,-,ÅÅÅÅ-MM-DD
 DNS_no_fm_ing-geo_skjæring-michelets-vei_f01.ifc,Produksjonsgrunnlag,200,-,-,-
 DSS_K422 - Form og arm kum.ifc,Arbeidsgrunnlag betong. Justert på trekkerørsføring. Lagt inn utsparing for nødstyringsskap. Tilpasset betong til flytting av VA-kummer. Fjernet terskel i framkant av etappe 1. Endret stålkvalitet på pelehoder. Alle objekter har fått H-revisjon.,350,H06,Trekkerørsføring og innstøpningsgods for skilt er ikke avklart. VA-kummer  i etappe 4-6 er ikke ferdig prosjektert.,2024-03-15
@@ -1507,36 +1269,6 @@ DSS_fm_belysning.ifc,Arbeidsgrunnlag,375,H01,-,2025-09-26
 DSS_fm_belysning.ifc,Under Prosjektering,100,B01,-,ÅÅÅÅ-MM-DD
 DSS_fm_belysning.ifc,Under Prosjektering,100,B01,-,-
 DSS_fm_belysning_rive-gjenbruk.ifc,Arbeidsgrunnlag ,400,H01,-,2024-03-15
-DSS_fm_dren (4).ifc,Rør og kummer i dagsone utenfor GTS-portal tilpasset mur K437,400,H11,Sendt til gjennomgang hos Skanska,2026-04-20
-DSS_fm_dren (4).ifc,-,400,H11,Sendt til gjennomgang hos Skanska,2026-04-20
-DSS_fm_dren (4).ifc,Sendt til innsyn hos Statens vegvesen,375,H11,-,2026-04-20
-DSS_fm_dren (4).ifc,Tilpasset borehull fra HTØ,400,H10,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2026-02-13
-DSS_fm_dren (4).ifc,-,100,A01,Ikke ferdig fagkontrollert,2025-12-18
-DSS_fm_dren (4).ifc,-,200,H10,-,2025-12-16
-DSS_fm_dren (4).ifc,Hevet MMI-nivå etter 6 ukers innsyn.,400,H09,-,2025-12-02
-DSS_fm_dren (4).ifc,-,400,H08,-,2025-10-08
-DSS_fm_dren (4).ifc,Endret til MMI500,500,Z07,Ikke justert til asbuilt etter innmålinger,2025-04-29
-DSS_fm_dren (4).ifc,Dykkerledning til innsyn,400,H06,-,2024-12-19
-DSS_fm_dren (4).ifc,Dykkerledning til innsyn,300,C06,-,2024-12-19
-DSS_fm_dren (4).ifc,Endret til MMI500,400,H06,Ikke justert til asbuilt etter innmålinger,2024-12-19
-DSS_fm_dren (4).ifc,PE-ledninger endret til DV,400,H05,-,2024-05-30
-DSS_fm_dren (4).ifc,Tilpasset sandfang som undergraves av K422,400,H04,-,2024-05-13
-DSS_fm_dren (4).ifc,VA tilpasset K422,400,H03,-,2024-05-06
-DSS_fm_dren (4).ifc,Tilpasset J240 og oppjustert til MMI400,400,H03,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-05-06
-DSS_fm_dren (4).ifc,Plassering ikke låst - må tilpasses reg.plan Strandlokket,300,C03,Plassering blir påvirket av reg.plan Strandlokket - lavbrekk ikke definert,2024-05-06
-DSS_fm_dren (4).ifc,Må tilpasses bunnledning,350,C03,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-05-06
-DSS_fm_dren (4).ifc,Plassering ikke låst - må tilpasses reg.plan Strandlokket,300,H03,Plassering blir påvirket av reg.plan Strandlokket - lavbrekk ikke definert,2024-05-06
-DSS_fm_dren (4).ifc,VA tilpasset K422,400,H03,Ikke justert til asbuilt etter innmålinger,2024-05-06
-DSS_fm_dren (4).ifc,-,200,B02,-,2024-03-04
-DSS_fm_dren (4).ifc,-,200,B02,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-03-04
-DSS_fm_dren (4).ifc,Tilpasset J240 og oppjustert til MMI400,400,H02,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-03-04
-DSS_fm_dren (4).ifc,-,200,H10,-,2024-03-04
-DSS_fm_dren (4).ifc,-,200,A01,-,2024-03-04
-DSS_fm_dren (4).ifc,Tilpasset borehull fra HTØ,200,B02,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-03-04
-DSS_fm_dren (4).ifc,Plassering ikke låst - må tilpasses reg.plan Strandlokket,200,B02,Reguleringsplan Strandlokket kan påvirker ferdig terreng,2024-03-04
-DSS_fm_dren (4).ifc,-,200,H11,-,-
-DSS_fm_dren (4).ifc,-,200,-,-,-
-DSS_fm_dren (4).ifc,-,200,H12,-,-
 DSS_fm_dren-kummer.ifc,Hevet MMI etter 6 ukers innsyn.,400,H11,,2026-04-20
 DSS_fm_dren-kummer.ifc,Rør og kummer i dagsone utenfor GTS-portal tilpasset mur K437,375,H09,,2026-02-13
 DSS_fm_dren-kummer.ifc,Hevet MMI-nivå etter 6 ukers innsyn,400,H08,,2025-12-02
@@ -1675,41 +1407,6 @@ DSS_fm_ing-geo_grave-og-sprengningsplan_Holtekilen-boregrop.ifc,Produksjonsunder
 DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,200,H02,-,2026-04-23
 DSS_fm_ing-geo_grave-og-sprengningsplan_J270-og-riving-av-Michelet-kulvert_fase-1.ifc,Produksjonsunderlag,200,H01,-,2026-04-15
 DSS_fm_ing-geo_grave-og-sprengningsplan_K423.ifc,Produksjonsunderlag,200,-,-,2024-02-02
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H08,-,2025-11-28
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,375,H08,-,2025-11-28
-DSS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,2025-11-28
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H07,-,2025-10-23
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H06,-,2025-09-30
-DSS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,2025-08-25
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H05,-,2025-08-25
-DSS_fm_kabler (2).ifc,Konsept,100,B01,-,2025-05-21
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H04,-,2025-05-21
-DSS_fm_kabler (2).ifc,Konsept,100,B01,-,2025-03-06
-DSS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,2024-11-11
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H02,-,2024-04-24
-DSS_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H01,-,2024-02-15
-DSS_fm_kabler (2).ifc,Kladd,100,B01,-,-
-DSS_fm_kabler (2).ifc,Ferdig konsept,200,B01,-,-
-DSS_fm_kabler (3).ifc,"Arbeidsgrunnlag, endra PSETs",400,H10,-,2026-02-26
-DSS_fm_kabler (3).ifc,Ferdig konsept,200,B09,-,2026-02-12
-DSS_fm_kabler (3).ifc,Under arbeid,100,B09,-,2026-02-12
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H09,-,2026-02-12
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,375,H09,-,2026-02-12
-DSS_fm_kabler (3).ifc,HOLD,HOLD,B09,-,2026-02-12
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag - tilpassa rundt eksisterande VA,400,H09,-,2026-02-12
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H08,-,2025-11-28
-DSS_fm_kabler (3).ifc,Ferdig konsept,200,B08,-,2025-11-28
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H07,-,2025-10-23
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H06,-,2025-09-30
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H05,-,2025-08-25
-DSS_fm_kabler (3).ifc,Ferdig konsept,200,B05,-,2025-08-25
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H04,-,2025-05-21
-DSS_fm_kabler (3).ifc,Under arbeid,100,B04,-,2025-05-21
-DSS_fm_kabler (3).ifc,Arbeidsgrunnlag,400,H01,-,2024-02-15
-DSS_fm_kabler (3).ifc,Under arbeid,100,B01,-,2024-02-15
-DSS_fm_kabler (3).ifc,Ferdig konsept,200,B0xx,-,-
-DSS_fm_kabler (3).ifc,-,-,-,-,-
-DSS_fm_kabler (3).ifc,-,375,HXX,-,2026-XXXX
 DSS_fm_kabler.ifc,"Arbeidsgrunnlag, endra PSETs",400,H10,-,2026-02-26
 DSS_fm_kabler.ifc,Ferdig konsept,200,B10,-,2026-02-26
 DSS_fm_kabler.ifc,Arbeidsgrunnlag,375,H09,-,2026-02-12
@@ -1779,22 +1476,6 @@ DSS_fm_kabler_HOV-T1.ifc,Arbeidsgrunnlag ,400,H01,-,2024-04-12
 DSS_fm_kabler_HSP-strand.ifc,Arbeidsgrunnlag,375,H01,-,2026-04-29
 DSS_fm_kabler_jording-og-utjevning_HOV-T1.ifc,Arbeidsmodel,400,H01,-,2024-02-15
 DSS_fm_kabler_jording-og-utjevning_HOV-T1.ifc,-,-,-,-,-
-DSS_fm_kabler_skap (3).ifc,Under arbeid,100,B03,-,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Ferdig konsept,200,B03,Avventar dimensjon på skap frå Mesta,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Under arbeid,100,B03,Avventar dimensjon på skap frå Mesta,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Ferdig konsept,200,B03,-,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Ferdig konsept,200,B03,Avventar dimensjon på skap frå SVV,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Arbeidsgrunnlag,375,H03,-,2026-02-25
-DSS_fm_kabler_skap (3).ifc,"Underlag for detaljering, senka frå MMI375/400",300,C03,Avventar dimensjon på skap frå E121. Må tilpassast mot fjellskjæring i bakkant,2026-02-25
-DSS_fm_kabler_skap (3).ifc,"Underlag for detaljering, senka frå MMI375/400",300,C03,Avventar dimensjon på skap frå E121,2026-02-25
-DSS_fm_kabler_skap (3).ifc,"Underlag for detaljering, senka frå MMI375/400",300,C03,-,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Underlag for detaljering,300,C03,Avventar dimensjon på skap frå E121,2026-02-25
-DSS_fm_kabler_skap (3).ifc,"Underlag for detaljering, senka frå MMI375/400",300,C03,Avventar dimensjon på skap frå SVV,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Ferdig konsept,200,B03,Avventar dimensjon på skap frå E121,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Underlag for detaljering,300,C03,Avtalt med SK at tilpassast på staden,2026-02-25
-DSS_fm_kabler_skap (3).ifc,Arbeidsgrunnlag,400,H02,-,2025-11-27
-DSS_fm_kabler_skap (3).ifc,Arbeidsgrunnlag,350,C02,Festes på opphengskonsoll på J180. Tilpasses på stedet av UE,2025-11-27
-DSS_fm_kabler_skap (3).ifc,Ferdig konsept,200,B0xx,Avventar dimensjon på skap frå E121,2026
 DSS_fm_kabler_skap.ifc,Under arbeid,100,B03,-,2026-02-25
 DSS_fm_kabler_skap.ifc,Ferdig konsept,200,B03,Avventar dimensjon på skap frå Mesta,2026-02-25
 DSS_fm_kabler_skap.ifc,Under arbeid,100,B03,Avventar dimensjon på skap frå Mesta,2026-02-25
@@ -1926,32 +1607,12 @@ DSS_fm_kon_J240_Teknisk-bygg_EK HedVes.ifc,Til gjennomsyn Skanska,300,C02,-,2023
 DSS_fm_kon_J240_Teknisk-bygg_EK HedVes.ifc,For utførelse på byggeplass,400,H01,-,2023-01-19
 DSS_fm_kon_J240_Teknisk-bygg_FK MarAks.ifc,Til gjennomsyn Skanska,300,C02,-,2023-01-19
 DSS_fm_kon_J240_Teknisk-bygg_FK MarAks.ifc,For utførelse på byggeplass,400,H01,-,2023-01-19
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (2).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,350,C04,-,2025-07-04
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (2).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,400,C04,-,2025-07-04
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (2).ifc,Til teknisk godkjenning,350,C01,-,2025-05-19
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (2).ifc,"Nytt egenskapssett, lagt til søyler akse 11-16, revidert lagergeometri",400,H01,-,2025-01-17
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (3).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,350,C04,-,2025-07-04
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (3).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,400,C04,-,2025-07-04
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (3).ifc,Til teknisk godkjenning,350,C01,-,2025-05-19
-DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form (3).ifc,"Nytt egenskapssett, lagt til søyler akse 11-16, revidert lagergeometri",400,H01,-,2025-01-17
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,Arbeidsgrunnlag akse 15-17,400,H03,-,2026-04-30
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,350,C04,-,2025-07-04
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,400,C04,-,2025-07-04
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,Lager oppført med forhåndsinnstilling,400,H02,-,2025-05-23
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,Til teknisk godkjenning,350,C01,-,2025-05-19
 DSS_fm_kon_K410-9005_Stabekklokkbrua-del-2-form.ifc,"Nytt egenskapssett, lagt til søyler akse 11-16, revidert lagergeometri",400,H01,-,2025-01-17
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,350,C04,-,2025-07-04
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,400,C04,-,2025-07-04
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,"Arbeidsgrunnlag, HOLD opphevet",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,"Arbeidsgrunnlag, HOLD opphevet, anvisninger revidert",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,"Arbeidsgrunnlag, HOLD opphevet, anvisninger revidert, slisser i UK lagt til",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (1).ifc,Til teknisk godkjenning,350,C01,-,2025-05-19
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,350,C04,-,2025-07-04
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,Revidert for grensesnitt mot tilstøtende konstruksjoner,400,C04,-,2025-07-04
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,"Arbeidsgrunnlag, HOLD opphevet",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,"Arbeidsgrunnlag, HOLD opphevet, anvisninger revidert",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,"Arbeidsgrunnlag, HOLD opphevet, anvisninger revidert, slisser i UK lagt til",400,H02,-,2025-06-25
-DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form (2).ifc,Til teknisk godkjenning,350,C01,-,2025-05-19
 DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form.ifc,Arbeidsgrunnlag akse 15-17,400,H06,-,2026-04-30
 DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form.ifc,Arbeidsgrunnlag kantbjelker A12-15,400,H05,-,2025-11-28
 DSS_fm_kon_K410-9007_Stabekklokkbrua-OB-form.ifc,Arbeidsgrunnlag landkar akse 1,400,H04,-,2025-11-20
@@ -2018,57 +1679,6 @@ DSS_fm_kon_K412-9012_Strand-støttemur-II-armering.ifc,Revidert innfesting skilt
 DSS_fm_kon_K412-9012_Strand-støttemur-II-armering.ifc,Arbeidsgrunnlag,400,H01,-,2025-02-28
 DSS_fm_kon_K412-9012_Strand-støttemur-II-armering.ifc,Arbeidsgrunnlag,HOLD,H01,-,2025-02-28
 DSS_fm_kon_K412-9013_Pelestriper-fylling-armering.ifc,Arbeidsgrunnlag,400,H01,-,2025-01-17
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Mangler verifisering av dimensjoner på innfesting brakett. Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Permanent forankring av vegg i bergskjæring uavklart. Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Plassering brakett for skiltinnfesting ikke bekreftet. Mangler verifisering av dimensjoner på innfesting brakett. Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Endelig høyde og dimensjon på fundament for lysmast ikke avklart og tilpasset fremtidig terreng. Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Mangler verifisering av dimensjoner på rekkverk og innstøpningsgods. Ikke gjennomført innsynsperiode hos SVV.,2025-03-28
-DSS_fm_kon_K413_Strand-støttemur-III (2).ifc,"Arbeidsgrunnlag. 
-Justert form og anvisning øvre betongdrager.
-Høyde på mur justert iht terreng langs Prof. Kohts veg (etappe 10-16).
-Fjernet trapping på fotdrager og innført konstant tykkelse.
-Oppdatert form og anvisningstekst på lettfylling.
-Lagt inn utsparing for eksisterende VA-rør i øst.
-Oppdatert anvisning for vegg og fundament støttemurdel.
-Byttet materiale til lavvarmebetong (materiale og prosesskode) for konstruktiv betong.
-Fjernet knotteplate fra modellen og justert anvisning for beskyttelseslag.
-Konsoller for skiltgalger byttet ut. Justert plassering konsoller og tilhørende elementer for å passe med innstøpte bolter på trau K422.
-Bergbolter etappe 16: justert antall/senteravstand, geometri og anvisninger.
-Justert bergbolter etappe 9-15: plassering, geometri og anvisninger.
-Lagt inn bergbolter i bunn av vegger (etappe 03-16).",400,H02,-,2025-06-xx
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Mangler verifisering av dimensjoner på rekkverk og innstøpningsgods. Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Mangler verifisering av dimensjoner på innfesting brakett. Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Endelig høyde og dimensjon på fundament for lysmast ikke avklart og tilpasset fremtidig terreng. Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Plassering brakett for skiltinnfesting ikke bekreftet. Mangler verifisering av dimensjoner på innfesting brakett. Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Permanent forankring av vegg i bergskjæring uavklart. Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
-DSS_fm_kon_K413_Strand-støttemur-III (3).ifc,"Arbeidsgrunnlag. 
-Justert form og anvisning øvre betongdrager.
-Høyde på mur justert iht terreng langs Prof. Kohts veg (etappe 10-16).
-Fjernet trapping på fotdrager og innført konstant tykkelse.
-Oppdatert form og anvisningstekst på lettfylling.
-Lagt inn utsparing for eksisterende VA-rør i øst.
-Oppdatert anvisning for vegg og fundament støttemurdel.
-Byttet materiale til lavvarmebetong (materiale og prosesskode) for konstruktiv betong.
-Fjernet knotteplate fra modellen og justert anvisning for beskyttelseslag.
-Konsoller for skiltgalger byttet ut. Justert plassering konsoller og tilhørende elementer for å passe med innstøpte bolter på trau K422.
-Bergbolter etappe 16: justert antall/senteravstand, geometri og anvisninger.
-Justert bergbolter etappe 9-15: plassering, geometri og anvisninger.
-Lagt inn bergbolter i bunn av vegger (etappe 03-16).",400,H02,-,2025-06-xx
-DSS_fm_kon_K413_Strand-støttemur-III (4).ifc,"Arbeidsgrunnlag. 
-Justert form og anvisning øvre betongdrager.
-Høyde på mur justert iht terreng langs Prof. Kohts veg (etappe 10-16).
-Fjernet trapping på fotdrager og innført konstant tykkelse.
-Oppdatert form og anvisningstekst på lettfylling.
-Lagt inn utsparing for eksisterende VA-rør i øst.
-Oppdatert anvisning for vegg og fundament støttemurdel.
-Byttet materiale til lavvarmebetong (materiale og prosesskode) for konstruktiv betong.
-Fjernet knotteplate fra modellen og justert anvisning for beskyttelseslag.
-Konsoller for skiltgalger byttet ut. Justert plassering konsoller og tilhørende elementer for å passe med innstøpte bolter på trau K422.
-Bergbolter etappe 16: justert antall/senteravstand, geometri og anvisninger.
-Justert bergbolter etappe 9-15: plassering, geometri og anvisninger.
-Lagt inn bergbolter i bunn av vegger (etappe 03-16).",400,H02,-,2025-06-xx
 DSS_fm_kon_K413_Strand-støttemur-III-Armering - farger.ifc,Arbeidsgrunnlag til innsyn.,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-04-04
 DSS_fm_kon_K413_Strand-støttemur-III-Armering - farger.ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Avventer innmåling av høyde på ståldrager,2025-04-04
 DSS_fm_kon_K413_Strand-støttemur-III-Armering - farger.ifc,Arbeidsgrunnlag til innsyn.,HOLD,H01,Endelig høyde og dimensjon på fundament for lysmast ikke avklart og tilpasset fremtidig terreng. Ikke gjennomført innsynsperiode hos SVV.,2025-04-04
@@ -2185,23 +1795,8 @@ DSS_fm_kon_K413_Strand-støttemur-III_h01.ifc,Arbeidsgrunnlag til innsyn.,HOLD,H
 DSS_fm_kon_K413_Strand-støttemur-III_h01.ifc,Arbeidsgrunnlag til innsyn.,375,H01,Ikke gjennomført innsynsperiode hos SVV.,2025-03-31
 DSS_fm_kon_K422-Bankett.ifc,Produksjonsunderlag,400,H02,-,2026-04-30
 DSS_fm_kon_K422-Bankett.ifc,Til 6 ukers innsyn,375,H01,-,2026-02-24
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,2024-01-25
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Bunnplate er justert ved fundament akse 11.,350,H05,-,2024-01-25
-DSS_fm_kon_K422_Strand-Trau (2).ifc,"Arbeidsgrunnlag peler. Peler og geometri bunnplate ved fundament akse 11 er justert, avretting under arbeid.",400,H04,-,2024-01-23
-DSS_fm_kon_K422_Strand-Trau (2).ifc,"Arbeidsgrunnlag peler. Peler og geometri bunnplate ved fundament akse 11 er justert, avretting under arbeid.",350,H04,-,2024-01-23
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Svar kontrollrapport. Understøp for VA revidert.,350,C02,-,2023-11-29
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,2023-11-29
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Til teknisk godkjenning,350,C01,-,2023-10-13
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,2023-10-13
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,2023-01-15
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-15
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,2023-01-12
-DSS_fm_kon_K422_Strand-Trau (2).ifc,Under arbeid,350,H06,-,-
 DSS_fm_kon_K422_Strand-Trau 1.ifc,Til teknisk godkjenning,350,C01,-,2023-10-13
 DSS_fm_kon_K422_Strand-Trau 1.ifc,Til teknisk godkjenning,300,C01,-,2023-10-13
-DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3 (2).ifc,Langsgående VA-støp utgår. Dordiameter oppstikkende ø20 endret. Endret på veksling UK tverrarmering etappe 1.,350,C02,-,2024-01-15
-DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3 (2).ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
-DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3 (2).ifc,Armering justert ved fundament akse 11,350,H03,-,2024-01-xx
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3 v1.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3 v1.ifc,Til teknisk godkjenning,350,C01,-,-
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3.ifc,Justert dordiameter,400,H09,IR,2025-01-24
@@ -2244,7 +1839,6 @@ DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3_rebarSets_colored.ifc,Justert sentera
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3_rebarSets_colored.ifc,Tilpasset armering mot fugebånd i akse 1 mot K410.,400,H07,IR,2024-10-22
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3_rebarSets_colored.ifc,Gruppert armering i ifc tilsvarende gruppering i Revit. Ingen endringer på armering.,400,H06,IR,2024-09-30
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-1-3_rebarSets_colored.ifc,Arbeidsgrunnlag armering i vegger.,400,H04,IR,2024-05-28
-DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-4-6 (2).ifc,Til teknisk godkjenning.,350,C01,-,2024-01-15
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-4-6.ifc,Justert plassering av jern i vegg slik at disse omfares med oppstikkende armering.,400,H10,IR,2025-01-10
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-4-6.ifc,Justert senteravstand til å angi faktisk senteravstand.,400,H09,IR,2024-11-07
 DSS_fm_kon_K422_Strand-Trau-Arm-Etappe-4-6.ifc,Justert senteravstand til å angi faktisk senteravstand. Gruppert bøyler topp vegg.,400,H09,IR,2024-11-07
@@ -2386,15 +1980,12 @@ DSS_fm_kon_K422_Strand-Trau_Kun form.ifc,Til teknisk godkjenning,350,C01,-,2023-
 DSS_fm_kon_K422_Strand_Trau--VA-Form-Arm-Etappe-1-6.ifc,Langsgående VA-støp utgår. Dordiameter oppstikkende ø20 endret. Endret på veksling UK tverrarmering etappe 1.,350,C02,-,2024-01-15
 DSS_fm_kon_K422_Strand_Trau--VA-Form-Arm-Etappe-1-6.ifc,Til teknisk godkjenning.,350,C01,-,2024-01-15
 DSS_fm_kon_K422_Strand_Trau--VA-Form-Arm-Etappe-1-6.ifc,Langsgående VA-støp utgår. Utenpåliggende fugebånd tilpasset bunnplate.,350,C03,-,2023-01-15
-DSS_fm_kon_K441_Strand-kulvert-vestgående (2).ifc,-,200,-,-,2026-04-09
 DSS_fm_kon_Kxxx_Kumbunn_O223-Armering.ifc,Til godkjenning hos BKVA,350,C01,-,2024-07-05
 DSS_fm_kon_O223_Kumbunn-Armering.ifc,Arbeidsgrunnlag,400,H03,-,2024-09-02
 DSS_fm_kon_O223_Kumbunn-Armering.ifc,Til gjennomsyn,375,H02,-,2024-08-12
 DSS_fm_kon_O223_Kumbunn-Armering.ifc,Til gjennomsyn,375,H01,-,2024-08-08
 DSS_fm_kon_Oppheng VA trasé 8.ifc,Arbeidsgrunnlag fundamenter,400,H01,-,2024-02-12
 DSS_fm_kon_Oppheng-VA-trasé-8.ifc,Arbeidsgrunnlag fundamenter,400,H01,-,2024-02-12
-DSS_fm_lan_Strandlokket (6).ifc,-,200,-,-,2024-12-16
-DSS_fm_lan_Strandlokket (6).ifc,-,200,H01,-,-
 DSS_fm_lan_Strandlokket.ifc,-,200,-,-,2024-12-16
 DSS_fm_lan_Strandlokket.ifc,-,200,C01,-,2024-03-14
 DSS_fm_lan_Strandlokket.ifc,-,200,H01,-,-
@@ -2412,18 +2003,6 @@ DSS_fm_landskap_Strandlokket_Del 1.ifc,Heving av MMI,400,H02,-,2025-11-13
 DSS_fm_landskap_Strandlokket_Del 1.ifc,-,375,H01,-,2025-09-24
 DSS_fm_merking_E18.ifc,Til gjennomsyn,350,H01,Skiltplan er ikke godkjent SVV.,2026-01-09
 DSS_fm_merking_E18.ifc,Arbeidsgrunnlag,350,H01,Skiltplan er ikke godkjent SVV.,2026-01-09
-DSS_fm_skilt (2).ifc,Første utkast,200,H01,I/A,2024-03-07
-DSS_fm_skilt (2).ifc,Første utkast,200,A01,I/A,2024-03-07
-DSS_fm_skilt (3).ifc,"Portalene PEL 7020, 7135 justert etter konstruksjon. KF103050 endret til sideplassert. ",350,H02,Skiltplan er ikke godkjent hos SVV,2025-11-10
-DSS_fm_skilt (3).ifc,Første utkast,200,H01,I/A,2024-03-07
-DSS_fm_skilt (3).ifc,Første utkast,200,A01,I/A,2024-03-07
-DSS_fm_skilt (4).ifc,"Portalene PEL 7020, 7135 justert etter konstruksjon. KF103050 endret til sideplassert. ",350,H02,Skiltplan er ikke godkjent hos SVV,2025-12-12
-DSS_fm_skilt (4).ifc,"Portalene PEL 7020, 7135 justert etter konstruksjon. KF103050 endret til sideplassert. ",200,H02,Skiltplan er ikke godkjent hos SVV,2025-12-12
-DSS_fm_skilt (4).ifc,Første utkast,200,H01,Skiltplan er ikke godkjent hos SVV,2024-03-07
-DSS_fm_skilt (4).ifc,Første utkast,200,A01,Skiltplan er ikke godkjent hos SVV,2024-03-07
-DSS_fm_skilt (4).ifc,-,100,-,-,-
-DSS_fm_skilt (4).ifc,-,200,-,Skiltplan er ikke godkjent hos SVV,-
-DSS_fm_skilt (4).ifc,-,200,-,-,-
 DSS_fm_skilt.ifc,"Portalene PEL 7020, 7135 justert etter konstruksjon. KF103050 endret til sideplassert. ",350,H02,Skiltplan er ikke godkjent hos SVV,2025-12-12
 DSS_fm_skilt.ifc,"Portalene PEL 7020, 7135 justert etter konstruksjon. KF103050 endret til sideplassert. ",350,H02,Skiltplan er ikke godkjent hos SVV,2025-11-10
 DSS_fm_skilt.ifc,Produksjonsunderlag,350,H01,Skiltplan er ikke godkjent hos SVV,2025-09-26
@@ -2553,14 +2132,12 @@ DSS_fm_veg_71400_overflate.ifc,"MMI375 til MMI400, tilpasset overbygning i kjør
 DSS_fm_veg_71400_overflate.ifc,For utførelse på anlegg,375,H01,Avventer 6 ukers innsyn.,2025-09-26
 DSS_fm_veg_kantstein_gs-veg.ifc,MMI375 til MMI400,400,H02,-,2026-03-11
 DSS_fm_veg_kantstein_gs-veg.ifc,For Utførelse på anlegg,375,H01,Avventer 6 ukers innsyn.,2025-09-26
-DSS_fm_vegbommer_E18 (1).ifc,Produksjonsunderlag,300,H01,Skiltplan er ikke godkjent hos SVV,2025-08-27
 DSS_fm_vegbommer_E18.ifc,BOMV2080 er justert etter konstruksjon,350,H02,Skiltplan er ikke godkjent hos SVV,2025-12-12
 DSS_fm_vegbommer_E18.ifc,BOMV2080 er justert etter konstruksjon,350,H02,Skiltplan er ikke godkjent hos SVV,2025-11-10
 DSS_fm_vegbommer_E18.ifc,Produksjonsunderlag,350,H01,-,2025-09-26
 DSS_no_fm_hyg_injeksjonsskjerm.ifc,Produksjonsunderlag,400,-,-,-
 DSS_no_fm_hyg_injeksjonsskjerm_H02.ifc,Produksjonsunderlag,400,-,-,-
 DSS_no_fm_injeksjonsskjerm.ifc,Produksjonsunderlag,400,-,-,-
-DSS_øst_fm_skilt (2).ifc,Produksjonsunderlag,350,H01,Skiltplan er ikke godkjent hos SVV,26.09.2025
 DSS_øst_fm_vegbommer_E18.ifc,Produksjonsunderlag,300,H01,Skiltplan er ikke godkjent hos SVV,2025-08-27
 E102-K320 test sammenføyd.ifc,Endret tykkelse magerbetong på delen på løsmasser. Fiberduk lagt inn i modell. Avretting justert for senkede kummer. Stikningsdata er lagt til. Anvisninger avretting på metadataobjekt er oppdatert.,350,C06,-,2024-01-15
 E18VK_E101_fm_F99_J404-9001_Støttemur-langs-Philip-Pedersensvei-form_SB.ifc,-,500,30-06-2023,-,-
@@ -2587,9 +2164,6 @@ FBX-DSS_fm_veg_11000.ifc,"Fjernet HOLD på vestgående felt mellom profil 5660-6
 FBX-DSS_fm_veg_11000.ifc,For utførelse på anlegg. MMI375 og MMI400,400,H05,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-04-25
 FBX-DSS_fm_veg_11000.ifc,H03 av denne vegmodell hadde HOLD på vestgående felt mellom profil 5660-6200. Her er det gjort endringer og modell sendes ut uten HOLD. Ellers ingen endringer.,375,H04,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-04-11
 FBX-DSS_fm_veg_11000.ifc,"Endring på vegmodell DSS_fm_veg_11000_7079,64-7274,92 materiale i forsterkningslag i isolert trau, samt en mindre justering inn mot Høvikportalene, ca. 6mm. Ellers så er tidligere utsendt vegmodeller identisk bortsett fra at skulder og sideområde er lagt til i vegmodell DNS_fm_veg_11000_6525,41-6966,25. Erstatter tidligere utsendt modeller av DNS_fm_veg_11000 og DNS_fm_veg_11000.",375,H03,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
-FBX-DSS_fm_veg_11000_overflate (1).ifc,Nytt kryss FBX sør. Fjernet HOLD på østgående mellom profil 5955-6175. Justert skulder gjennom K422 Strand trau og ny anvisning 7.,400,H07,TS-revisjon er ikke gjennomført.,2025-06-25
-FBX-DSS_fm_veg_11000_overflate (2).ifc,Nytt kryss FBX sør. Fjernet HOLD på østgående mellom profil 5955-6175. Justert skulder gjennom K422 Strand trau og ny anvisning 7.,400,H07,TS-revisjon er ikke gjennomført.,2025-06-25
-FBX-DSS_fm_veg_11000_overflate (3).ifc,Nytt kryss FBX sør. Fjernet HOLD på østgående mellom profil 5955-6175. Justert skulder gjennom K422 Strand trau og ny anvisning 7.,400,H07,TS-revisjon er ikke gjennomført.,2025-06-25
 FBX-DSS_fm_veg_11000_overflate.ifc,Fjernet bærelag og forsterkningslag på flate 2.04 mellom profil 6040 og 6048 etter tegning FEL_tegn_veg_F079. Justert anvisning 3 og lagt til tegningslink 5. Justering av tverrfall på skulderflate -2.04 mellom profil 7144-7151 og -2.13 og -2.14 profil 714,400,H08,TS-revisjon er ikke gjennomført.,2026-03-06
 FBX-DSS_fm_veg_11000_overflate.ifc,Nytt kryss FBX sør. Fjernet HOLD på østgående mellom profil 5955-6175. Justert skulder gjennom K422 Strand trau og ny anvisning 7.,400,H07,TS-revisjon er ikke gjennomført.,2025-06-25
 FBX-DSS_fm_veg_11000_overflate.ifc,"Fjernet HOLD på vestgående felt mellom profil 5660-6200. Flater for bankett justert. Ny anvisning 6. Småjusteringer på rekkverksrom. Rettet opp slitelag som ikke ble vist vestgående mellom profil 7015-7021. Fjernet fiberduk under forsterkningslag K420, spleis øst og vest for K320. HOLD på østgående mellom profil 5955-6175 pga. endret kryss FBX sør. Ny løsning vises.",400,H06,TS-revisjon er ikke gjennomført.,2025-05-23
@@ -2603,7 +2177,6 @@ FBX-DSS_fm_veg_75000_f02_overflate.ifc,"Vestgående bussholdeplass er flyttet ve
 FBX-DSS_fm_veg_75000_f02_overflate.ifc,Justert spleis i vest til nye innmålinger,400,H03,-,2025-10-09
 FBX-DSS_fm_veg_75000_f02_overflate.ifc,For utførelse på anlegg. MMI 375 til MMI400 og forlenget vestgående i øst. Små egenskapsjusteringer.,400,H02,-,2025-09-24
 FBX-DSS_fm_veg_75000_f02_overflate.ifc,For Utførelse på anlegg,375,H01,Avventer 6 ukers innsyn. ,2025-03-14
-FBX-DSS_fm_veg_78100 (1).ifc,MMI400. Lagt inn linker direkte til tegninger.,400,H02,-,2025-06-12
 FBX-DSS_fm_veg_78100.ifc,Endret tilrettelegging 1 m ut fra hovedsykkelvegen til adkomst tilpasset slamsugebil mellom profil 370 og 400. Endret tykkelse forsterkningslag for fylling med skumglass i ca. pr. 670-700.,400,H03,-,2025-10-14
 FBX-DSS_fm_veg_78100.ifc,MMI400. Lagt inn linker direkte til tegninger.,400,H02,-,2025-06-12
 FBX-DSS_fm_veg_78100.ifc,For Utførelse på anlegg,375,H01,Avventer 6 ukers innsyn.,2025-04-11
@@ -2612,8 +2185,6 @@ FBX-DSS_fm_veg_78100_Overflate.ifc,MMI400. Lagt inn linker direkte til tegninger
 FBX-DSS_fm_veg_78100_Overflate.ifc,For Utførelse på anlegg,375,H01,Avventer 6 ukers innsyn.,2025-04-11
 FBX-DSS_fm_veg_kantstein_gs-veg.ifc,For utførelse på anlegg,375,H01,Avventer 6 uker innsyn,2026-04-21
 FBX-DSS_fm_veg_kantstein_gs-veg.ifc,For utførelse på anlegg.,375,H01,Avventer 6 uker innsyn,2026-04-21
-FBX-DSS_fm_veg_kantstein_hv (2).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
-FBX-DSS_fm_veg_kantstein_hv (3).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
 FBX-DSS_fm_veg_kantstein_hv.ifc,Kantstein i gjennomkjøringsåpning utgår,400,U03,-,2025-11-03
 FBX-DSS_fm_veg_kantstein_hv.ifc,For Utførelse på anlegg. MMI 375 til 400.,400,H02,-,2025-04-29
 FBX-DSS_fm_veg_kantstein_hv.ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
@@ -2621,20 +2192,6 @@ FBX-DSS_fm_veg_leskur_hv_f02.ifc,Lagt til flytting av leskur på holdeplass vest
 FBX-DSS_fm_veg_leskur_hv_f02.ifc,Lagt til flytting av leskur på holdeplass vestgående og ledelinje mellom leskur og oppstillingsplass for buss. Lagt til anvisning på leskur.,400,H03,"Antatt plassering av leskur, tilpasses til stedlige forhold. Dette kan påvirke plassering av ledelinje.",2025-11-06
 FBX-DSS_fm_veg_leskur_hv_f02.ifc,For utførelse på anlegg. MMMI 375 til MMI400.,400,H02,"Antatt plassering, tilpasses til stedlige forhold.",2025-09-24
 FBX-DSS_fm_veg_leskur_hv_f02.ifc,For Utførelse på anlegg,375,H01,"Avventer 6 ukers innsyn. Antatt plassering, tilpasses til stedlige forhold.",2025-03-14
-FBX-DSS_fm_veg_rekkverk_hv (2).ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,TS-revisjon er ikke gjennomført for løsning med betongrekkverk i gjennomkjøringsåpning.,2025-11-04
-FBX-DSS_fm_veg_rekkverk_hv (2).ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,-,2025-11-04
-FBX-DSS_fm_veg_rekkverk_hv (2).ifc,Avventer 6 ukers innsyn på rekkverk vest for K320.,375,H04,Forutsetter godkjent fravikssøknad for H2-betongrekkverk langs K410,2025-10-15
-FBX-DSS_fm_veg_rekkverk_hv (2).ifc,Avventer 6 ukers innsyn på rekkverk vest for K320.,375,H04,-,2025-10-15
-FBX-DSS_fm_veg_rekkverk_hv (2).ifc,Alt stålrekkverk settes på HOLD inntil avklaring med rekkverksleverandør.,HOLD,H03,-,2025-08-27
-FBX-DSS_fm_veg_rekkverk_hv (3).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
-FBX-DSS_fm_veg_rekkverk_hv (3).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Fravikssøknader for manglende fritt rom er ikke ferdigbehandlet. Avventer 6 ukers innsyn.,2025-03-05
-FBX-DSS_fm_veg_rekkverk_hv (3).ifc,-,200,-,-,-
-FBX-DSS_fm_veg_rekkverk_hv (5).ifc,For utførelse på anlegg MMI375 til MMI400 vest for K320.,400,H06,-,2026-01-28
-FBX-DSS_fm_veg_rekkverk_hv (5).ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,TS-revisjon er ikke gjennomført for løsning med betongrekkverk i gjennomkjøringsåpning.,2025-11-04
-FBX-DSS_fm_veg_rekkverk_hv (5).ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,-,2025-11-04
-FBX-DSS_fm_veg_rekkverk_hv (5).ifc,Alt stålrekkverk settes på HOLD inntil avklaring med rekkverksleverandør.,HOLD,H03,-,2025-08-27
-FBX-DSS_fm_veg_rekkverk_hv (6).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn.,2025-03-05
-FBX-DSS_fm_veg_rekkverk_hv (6).ifc,For Utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Fravikssøknader for manglende fritt rom er ikke ferdigbehandlet. Avventer 6 ukers innsyn.,2025-03-05
 FBX-DSS_fm_veg_rekkverk_hv.ifc,For utførelse på anlegg MMI375 til MMI400 vest for K320.,400,H06,-,2026-01-28
 FBX-DSS_fm_veg_rekkverk_hv.ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,TS-revisjon er ikke gjennomført for løsning med betongrekkverk i gjennomkjøringsåpning.,2025-11-04
 FBX-DSS_fm_veg_rekkverk_hv.ifc,"Byttet fra stålrekkverk til betongrekkverk i gjennomkjøringsåpning. Stålrekkverket i den store «øya» i gjennomkjøringsåpning er fortsatt på HOLD, da løsning ikke er ferdig prosjektert. Betongrekkverk 80 cm høyt settes på slitelaget i midtdeler. Siderekkverk inn mot portalen for K320 beholdes som 90 cm betongrekkverk glidd på bindlaget. ",400,H05,-,2025-11-04
@@ -2674,35 +2231,6 @@ FBX_fm_belysning.ifc,Ferdig konsept,200,B01,-,ÅÅÅÅ-MM-DD
 FBX_fm_belysning.ifc,Ferdig konsept,200,B02,-,ÅÅÅÅ-MM-DD
 FBX_fm_belysning.ifc,Under prosjektering,200,B01,-,-
 FBX_fm_belysning_rive-gjenbruk.ifc,Arbeidsgrunnlag ,400,H01,-,2024-01-19
-FBX_fm_dren (1).ifc,Drensledning i K261. ISF tilpasset lansdakp og SFK tilpasset J404.,400,H10,-,2025-10-21
-FBX_fm_dren (1).ifc,Drensledning i K261. SFI tilpasset lansdakp og SFK tilpasset J404.,400,H10,-,2025-10-21
-FBX_fm_dren (1).ifc,Justert som følge av endirng retardasjonsfelt,400,H09,-,2025-06-25
-FBX_fm_dren (1).ifc,Endret til unikt kumnummer,400,H09,-,2025-06-25
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag,400,H08,-,2025-06-04
-FBX_fm_dren (1).ifc,Lagt til kumnummer,400,H08,-,2025-06-04
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag,400,H07,-,2025-05-26
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,-,2025-05-08
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,Tilkobling til eksisterende ledningsnett med ukjent beliggenhet,2025-05-08
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,Tilpasses midlertidig fase,2025-05-08
-FBX_fm_dren (1).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,-,2024-11-28
-FBX_fm_dren (1).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,Veigrøften kan bli justert som følge av justert E18-linje,2024-11-28
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag,400,H02,-,2024-10-25
-FBX_fm_dren (1).ifc,Arbeidsgrunnlag,400,H02,Veigrøften kan bli justert som følge av justert E18-linje,2024-10-25
-FBX_fm_dren (1).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,-,2024-10-25
-FBX_fm_dren (2).ifc,Drensledning i K261. ISF tilpasset lansdakp og SFK tilpasset J404.,400,H10,-,2025-10-21
-FBX_fm_dren (2).ifc,Drensledning i K261. SFI tilpasset lansdakp og SFK tilpasset J404.,400,H10,-,2025-10-21
-FBX_fm_dren (2).ifc,Justert som følge av endirng retardasjonsfelt,400,H09,-,2025-06-25
-FBX_fm_dren (2).ifc,Endret til unikt kumnummer,400,H09,-,2025-06-25
-FBX_fm_dren (2).ifc,Lagt til kumnummer,400,H08,-,2025-06-04
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag,400,H07,-,2025-05-26
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,-,2025-05-08
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,Tilkobling til eksisterende ledningsnett med ukjent beliggenhet,2025-05-08
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag til fase 0.2,400,H06,Tilpasses midlertidig fase,2025-05-08
-FBX_fm_dren (2).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,-,2024-11-28
-FBX_fm_dren (2).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,Veigrøften kan bli justert som følge av justert E18-linje,2024-11-28
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag,400,H02,-,2024-10-25
-FBX_fm_dren (2).ifc,Arbeidsgrunnlag,400,H02,Veigrøften kan bli justert som følge av justert E18-linje,2024-10-25
-FBX_fm_dren (2).ifc,Byttet materiale til PVC og korrigert dimensjon,400,H03,-,2024-10-25
 FBX_fm_dren-kummer.ifc,Arbeidsgrunnlag,400,H02,,2024-10-25
 FBX_fm_dren-kummer.ifc,Arbeidsgrunnlag,375,H01,,2024-09-09
 FBX_fm_dren-kummer.ifc,Arbeidsgrunnlag,HOLD,H01,,2024-09-09
@@ -2830,7 +2358,6 @@ FBX_fm_geoteknikk_V9216_Spunt-Øst.ifc,Ekstra stag og oppdatert fotbolter,350,C0
 FBX_fm_geoteknikk_V9216_Spunt-Øst.ifc,Ekstra stag og oppdatert fotbolter,350,C02,Usikker dybde til berg.,2025-11-19
 FBX_fm_geoteknikk_V9216_Spunt-Øst.ifc,Til UAK,350,C01,-,2025-09-30
 FBX_fm_geoteknikk_V9216_Spunt-Øst.ifc,Til UAK,350,C01,Usikker dybde til berg.,2025-09-30
-FBX_fm_geoteknikk_V9217_Skumglassfylling (1).ifc,Tilpasset J404,400,H02,Omfanget av eksisterende masser er ikke avklart. Må avklares før utførelse.,2026-01-30
 FBX_fm_geoteknikk_V9217_Skumglassfylling.ifc,Tilpasset J404,400,H02,Omfanget av eksisterende masser er ikke avklart. Må avklares før utførelse.,2026-01-30
 FBX_fm_geoteknikk_V9217_Skumglassfylling.ifc,Endret MMI,400,H01,"Omfanget av eksisterende EPS-masser er ikke avklart. Skumglassfyllingen tilpasses eksisterende EPS-fylling, hvor eksisterende EPS-fylling bevares",2025-08-19
 FBX_fm_geoteknikk_V9217_Skumglassfylling.ifc,Endret MMI,400,H01,"Omfanget av eksisterende EPS-masser er ikke avklart. Skumglassfyllingen tilpasses eksisterende EPS-fylling, hvor eksisterende EPS-fylling bevares.",2025-04-11
@@ -2838,34 +2365,6 @@ FBX_fm_geoteknikk_V9223_Spunt.ifc,Som bygget,500,Z04,-,2025-04-28
 FBX_fm_ing-geo_grave-og-sprengningsplan.ifc,Produksjonsunderlag,100,-,-,2024-02-28
 FBX_fm_ing-geo_grave-og-sprengningsplan.ifc,Produksjonsunderlag,200,-,-,2024-02-28
 FBX_fm_ing-geo_grave-og-sprengningsplan_V9215.ifc,Produksjonsunderlag,400,H01,-,2024-10-29
-FBX_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H05,-,2025-06-24
-FBX_fm_kabler (1).ifc,Underlag for detaljering,350,H05,-,2025-06-24
-FBX_fm_kabler (1).ifc,Arbeidsgrunnlag,375,H05,-,2025-06-24
-FBX_fm_kabler (1).ifc,Ferdig konsept,375,H05,-,2025-06-24
-FBX_fm_kabler (1).ifc,Underlag for detaljering,200,B01,-,2025-03-06
-FBX_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H03,-,2025-03-05
-FBX_fm_kabler (1).ifc,Konsept,100,B01,-,2025-01-17
-FBX_fm_kabler (1).ifc,Arbeidsgrunnlag,400,H02,-,2025-01-17
-FBX_fm_kabler (1).ifc,Underlag for detaljering,200,B01,-,2025-01-17
-FBX_fm_kabler (2).ifc,Høgdejustert etter veg,400,H07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,375,H07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Høgdejustert,400,H07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Underlag for detaljering,300,C07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Underlag for detaljering,350,C07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H07,-,2026-02-05
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H06,-,2025-11-12
-FBX_fm_kabler (2).ifc,Underlag for detaljering,350,H06,-,2025-11-12
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Underlag for detaljering,350,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,375,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Ferdig konsept,375,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,350,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag ,400,H05,-,2025-06-25
-FBX_fm_kabler (2).ifc,Underlag for detaljering,200,B01,-,2025-03-06
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H03,-,2025-03-05
-FBX_fm_kabler (2).ifc,Konsept,100,B01,-,2025-01-17
-FBX_fm_kabler (2).ifc,Arbeidsgrunnlag,400,H02,-,2025-01-17
-FBX_fm_kabler (2).ifc,Underlag for detaljering,200,B01,-,2025-01-17
 FBX_fm_kabler.ifc,Justert føringsvei til BOM og skilt ,350,H08,-,2026-04-21
 FBX_fm_kabler.ifc,Underlag for detaljering,350,H08,-,2026-04-17
 FBX_fm_kabler.ifc,Høgdejustert etter veg,400,H07,-,2026-02-05
@@ -2930,7 +2429,7 @@ FBX_fm_kabler.ifc,Arbeidsgrunnlag ,375,H01,-,2024-10-14
 FBX_fm_kabler.ifc,Arbeidsgrunnlag ,300,H01,-,2024-10-14
 FBX_fm_kabler.ifc,Arbeidsgrunnlag ,200,H01,-,2024-10-14
 FBX_fm_kabler.ifc,-,100,-,-,-
-FBX_fm_kabler.ifc,Arbeidsgrunnlag ,200,None,-,ÅÅÅÅ-MM-DD
+FBX_fm_kabler.ifc,Arbeidsgrunnlag ,200,,-,ÅÅÅÅ-MM-DD
 FBX_fm_kabler.ifc,Arbeidsgrunnlag ,100,H02,-,-
 FBX_fm_kabler.ifc,Underlag for detaljering,200,B01,-,ÅÅÅÅ-MM-DD
 FBX_fm_kabler.ifc,Underlag for detaljering,300,B01,-,ÅÅÅÅ-MM-DD
@@ -2973,52 +2472,6 @@ FBX_fm_kon_J404_Støttemur-langs-Philip-Pedersens-vei.ifc,Arbeidsgrunnlag.,400,H
 FBX_fm_kon_J404_Støttemur-langs-Philip-Pedersens-vei.ifc,Til innsyn.,375,H02,IR,2026-03-26
 FBX_fm_kon_J404_Støttemur-langs-Philip-Pedersens-vei.ifc,Til innsyn.,375,H01,IR,2026-01-30
 FBX_fm_kon_J404_Støttemur-langs-Philip-Pedersens-vei.ifc,Til innsyn.,HOLD,H01,Ikke ferdig prosjektert.,2026-01-30
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Justert oppfylling under bunnplater i etappe 3 og etappe 6. 
-Betongavretting ved nedsenk for peler redusert til 50mm.
-Lagt inn markplater i isolasjonslag ved kort avstand til berg i etappe 3 og etappe 6.
-Oppdatert anvisninger for oppfylling under bunnplater i etappe 3 og etappe 6.
-Fjernet sliss på innside kantbjelke for bru over trau.
-Endret horisontale støpeskjøter for vegger i pumperom, samt endret vanntetting i pumperom.
-Lagt til supplerende jordingsbolter på trauvegger.
-Lagt inn vanntetting i underkant vegger for etappe 5 og etappe 6.
-Oppdatert elementstatus for rekkverk",400,H08,IR,2025-12-12
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Justert oppfylling under bunnplater i etappe 3 og etappe 6. 
-Betongavretting ved nedsenk for peler redusert til 50mm.
-Lagt inn markplater i isolasjonslag ved kort avstand til berg i etappe 3 og etappe 6.
-Oppdatert anvisninger for oppfylling under bunnplater i etappe 3 og etappe 6.
-Fjernet sliss på innside kantbjelke for bru over trau.
-Endret horisontale støpeskjøter for vegger i pumperom, samt endret vanntetting i pumperom.
-Lagt til supplerende jordingsbolter på trauvegger.
-Lagt inn vanntetting i underkant vegger for etappe 5 og etappe 6.
-Oppdatert elementstatus for rekkverk",HOLD,H08,Avventer MMI400 ifbm. godkjenning av kobling mot myrbru,2025-12-12
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Justert oppfylling under bunnplater i etappe 3 og etappe 6. 
-Betongavretting ved nedsenk for peler redusert til 50mm.
-Lagt inn markplater i isolasjonslag ved kort avstand til berg i etappe 3 og etappe 6.
-Oppdatert anvisninger for oppfylling under bunnplater i etappe 3 og etappe 6.
-Fjernet sliss på innside kantbjelke for bru over trau.
-Endret horisontale støpeskjøter for vegger i pumperom, samt endret vanntetting i pumperom.
-Lagt til supplerende jordingsbolter på trauvegger.
-Lagt inn vanntetting i underkant vegger for etappe 5 og etappe 6.
-Oppdatert elementstatus for rekkverk",350,C08,Mangler godkjenning hos Vegdirektoratet,2025-12-12
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Oppdatert anvisninger for håndløpere for brudekke. 
-Oppdatert boltegrupper, hylser og brakett for skiltinnfesting på kantbjelke. 
-Ekspanderende mørtel i bakkant brakett for skiltinnfesting. 
-Supplerende boltegrupper og håndløpere for rekkverk.
-Oppdatert trauvegger i etappe 1 til MMI400, samt vanntetting, frem til ny støpeskjøt ved landkar.",400,H07,IR,2025-10-27
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Oppdatert anvisninger for håndløpere for brudekke. 
-Oppdatert boltegrupper, hylser og brakett for skiltinnfesting på kantbjelke. 
-Ekspanderende mørtel i bakkant brakett for skiltinnfesting. 
-Supplerende boltegrupper og håndløpere for rekkverk.
-Oppdatert trauvegger i etappe 1 til MMI400, samt vanntetting, frem til ny støpeskjøt ved landkar.",350,C07,Mangler godkjenning hos Vegdirektoratet,2025-10-27
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,"Oppdatert anvisninger for håndløpere for brudekke. 
-Oppdatert boltegrupper, hylser og brakett for skiltinnfesting på kantbjelke. 
-Ekspanderende mørtel i bakkant brakett for skiltinnfesting. 
-Supplerende boltegrupper og håndløpere for rekkverk.
-Oppdatert trauvegger i etappe 1 til MMI400, samt vanntetting, frem til ny støpeskjøt ved landkar.",HOLD,H07,Avventer MMI400 ifbm. godkjenning av kobling mot myrbru,2025-10-27
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,Arbeidsgrunnlag vegger og brukonstruksjon.,400,H06,IR,2025-09-16
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,Arbeidsgrunnlag fundamenter.,400,H05,IR,2025-07-02
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,Arbeidsgrunnlag oppfylling.,400,H04,IR,2025-05-16
-FBX_fm_kon_K260_Lysaker-Vest-VII-trau (1).ifc,Revidert iht. kommentarer for Drift og Vedlikehold,350,C03,Mangler godkjenning hos Vegdirektoratet,2025-03-14
 FBX_fm_kon_K260_Lysaker-Vest-VII-trau-Arm-Kummer.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-11-15
 FBX_fm_kon_K260_Lysaker-Vest-VII-trau-Arm_Etappe-1.ifc,Justering av armering i trauvegger og konsoll etter endringer i kobling mot myrbru.,350,C06,"Mangler godkjenning hos Vegdirektoratet.
 Endelig utforming av konsoll avhenger av valg av fugekonstruksjon.",2026-03-06
@@ -3503,37 +2956,6 @@ FBX_fm_kon_O205_Kumgruppe.ifc,Arbeidsgrunnlag.,400,H01,-,2025-04-10
 FBX_fm_kon_O205_Kumgruppe.ifc,Arbeidsgrunnlag.,400,H01,-,2025-04-08
 FBX_fm_kon_O205_Kumgruppe.ifc,-,400,H12,-,2025-03-17
 FBX_fm_kon_O205_Kumgruppe.ifc,-,400,H09,-,2024-09-09
-FBX_fm_lan_Fornebukrysset (2).ifc,-,350,H01,-,2025-06-19
-FBX_fm_lan_Fornebukrysset (2).ifc,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,400,H03,-,2025-06-18
-FBX_fm_lan_Fornebukrysset (2).ifc,MMI satt til 350,350,H03,Avventer TFK av omprosjekterte ramper,2025-06-18
-FBX_fm_lan_Fornebukrysset (2).ifc,-,350,H03,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,2025-06-18
-FBX_fm_lan_Fornebukrysset (2).ifc,MMI justert til HOLD,350,H03,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,2025-06-18
-FBX_fm_lan_Fornebukrysset (2).ifc,-,400,H02,-,2025-06-11
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H02,"Avventer justering av høyder for luker til pumpesump, samt endelig plassering av bjelke K267. ",2025-06-11
-FBX_fm_lan_Fornebukrysset (2).ifc,-,300,H01,-,2025-05-06
-FBX_fm_lan_Fornebukrysset (2).ifc,-,300,H01,Avventer prosjektering av sykkelveg.,2025-05-06
-FBX_fm_lan_Fornebukrysset (2).ifc,-,300,H01,Avventer regulering av sykkelvei og kryss.,2025-05-06
-FBX_fm_lan_Fornebukrysset (2).ifc,MMI justert til HOLD,HOLD,H02,Forventer justering av terreng når ramper skal prosjekteres om.,2025-05-05
-FBX_fm_lan_Fornebukrysset (2).ifc,"MMI hevet til 400. Rekkverk i bankett inn mot K320 er justert, og betongflaten er oppdatert deretter. ",400,H02,-,2025-04-30
-FBX_fm_lan_Fornebukrysset (2).ifc,MMI hevet til 400.,400,H02,-,2025-04-30
-FBX_fm_lan_Fornebukrysset (2).ifc,"MMI hevet til 400. Felt med overkjørbar markbetong i krysningsfeltet er fjernet fra landskapsmodellen, og er nå en del av konstruksjonsmodellen. ",400,H02,-,2025-04-30
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H01,Avventer endelig utforming av støyskjerm J404.,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,375,H01,-,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,500,Z01,-,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,375,H01,Avventer 6 ukers innsyn. ,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,375,H01,Avventer 6 ukers innsyn,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,375,H01,Avventer 6 ukers innsyn.,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H01,Avventer justering av bjelke K267.,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H01,Avventer endelig plassering av støyskjerm J404,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H01,Avventer godkjenning av planteliste. Avventer endelig tilpassing/utforming av regnbedets østre ende. ,2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,HOLD,H01,"Avventer justering av høyder for luker til pumpesump, samt endelig plassering av bjelke K267. ",2025-04-25
-FBX_fm_lan_Fornebukrysset (2).ifc,-,200,H01,-,2024-11-15
-FBX_fm_lan_Fornebukrysset (2).ifc,-,200,H02,-,2024-11-15
-FBX_fm_lan_Fornebukrysset (2).ifc,-,200,H01,-,2024-11-13
-FBX_fm_lan_Fornebukrysset (2).ifc,-,200,H02,-,2024-11-13
-FBX_fm_lan_Fornebukrysset (2).ifc,-,100,H01,-,2024-11-13
-FBX_fm_lan_Fornebukrysset (2).ifc,-,100,H01,-,2024-08-23
-FBX_fm_lan_Fornebukrysset (2).ifc,-,-,-,-,-
 FBX_fm_lan_Fornebukrysset.ifc,-,350,H03,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,2025-06-18
 FBX_fm_lan_Fornebukrysset.ifc,MMI justert til HOLD,350,H03,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,2025-06-18
 FBX_fm_lan_Fornebukrysset.ifc,Mindre justeringer ifm. omprosjektering av retardasjonsfelt samt flytting av EL-skap og -kummer. ,400,H03,-,2025-06-18
@@ -3574,31 +2996,6 @@ FBX_fm_lan_Fornebukrysset.ifc,-,200,C01,-,2024-03-14
 FBX_fm_lan_Fornebukrysset.ifc,-,200,C01,-,-
 FBX_fm_lan_Fornebukrysset.ifc,-,200,H01,-,-
 FBX_fm_lan_Fornebukrysset.ifc,-,-,-,-,-
-FBX_fm_landskap_FBX_Nord (1).ifc,MMI justert fra HOLD til 400,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått 6 ukers innsynsperiode,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,-,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Tilpasset mot K267. Lagt inn XPS under for å isolere spunt. ,375,H02,Avventer 6 ukers innsynsperiode,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,-,375,H02,Avventer 6 ukers innsynsperiode.,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått 6 ukers innsynsperiode. Tilpasset mot K267 og spunt. Rampespiss mellom trau og rampe  mot Granfosstunnelen er tatt ut av modell. ,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,MMI endret fra HOLD til 375. Østre ende av regnbed tilpasset ny gs-veg.,375,H02,Avventer 6 ukers innsyn,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Lagt inn flate for elvesingel og vekstjord under elvesingel i regnbed,375,H02,Avventer 6 ukers innsynsperiode. ,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Lagt inn flate for elvesingel og vekstjord under elvesingel i regnbed,375,H02,Avventer 6 ukers innsyn,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått 6 ukers innsynsperiode. Flate for grøft mellom trau og rampe mot Granfosstunnelen er tatt ut av modell. ,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått 6 ukers innsynsperiode. Flate for grasbakke mellom trau og rampe mot Granfosstunnelen er tatt ut av modell. ,400,H02,-,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,-,350,H02,Terreng tilpasses på stedet. Overvann ledes bort fra vei. ,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,-,375,H02,Tilpasset endringer fra forrige runde. Avventer 6 ukers innsyn. ,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdaterte p-sets.,HOLD,H02,Avventer endelig utforming av støyskjerm J404.,2025-10-16
-FBX_fm_landskap_FBX_Nord (1).ifc,-,500,Z01,-,2025-04-25
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser,400,H03,-,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser.,400,H03,-,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser. ,400,H03,-,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått innsynsperiode. Oppdatert merknad i 1_LAN_terreng_masser.,375,H03,-,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått innsynsperiode. Oppdatert merknad i 1_LAN_terreng_masser,375,H03,Avventer 6 ukers innsynsperiode.,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått innsynsperiode. Oppdatert merknad i 1_LAN_terreng_masser.,375,H03,Avventer 6 ukers innsynsperiode.,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser. ,375,H03,Avventer 6 ukers innsyn,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser,375,H03,Avventer 6 ukers innsyn,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Gjennomgått 6 ukers innsynsperiode. Oppdatet merknad i 1_LAN_terreng_masser.,375,H03,Tilpasset endringer fra forrige runde. Avventer 6 ukers innsyn. ,-
-FBX_fm_landskap_FBX_Nord (1).ifc,Oppdatert merknad i 1_LAN_terreng_masser.,HOLD,H03,Avventer endelig utforming av støyskjerm J404.,-
 FBX_fm_landskap_FBX_Nord.ifc,Oppdatert merknad i 1_LAN_terreng_masser.,400,H03,-,2026-03-24
 FBX_fm_landskap_FBX_Nord.ifc,Oppdatert merknad i 1_LAN_terreng_masser,400,H03,-,2026-03-24
 FBX_fm_landskap_FBX_Nord.ifc,Gjennomgått innsynsperiode. Tilpasset mot K267. Lagt inn XPS under for å isolere spunt. ,400,H03,-,2026-03-24
@@ -3687,13 +3084,6 @@ FBX_fm_merking_f02.ifc,I/A,200,H01,I/A,2024-03-13
 FBX_fm_merking_f02_rettet etter FK.ifc,I/A,400,H01,I/A,2024-03-13
 FBX_fm_rimek_k260_FPS02.ifc,-,375,H01,IR,2025-06-05
 FBX_fm_rimek_k260_FPS02.ifc,-,350,H01,Leverandøravhengig,2025-06-05
-FBX_fm_skilt (2).ifc,Eksisterende rødblik ut av Teleplanlokket langs Rv150 flyttet til ny posisjon etter kommentar fra skiltmyndighet,350,H02,Skiltplan er ikke godkjent hos SVV. TS er ikke utført over alle områder. ,2025-12-12
-FBX_fm_skilt (2).ifc,"Skilt pos.nr. 126 og 126 flyttet. Pos.nr. FP106230 justert. Pos. nr VVLE3823, VVLE3824, VVLE3825 og VVLE3826 innarbeidet ytre mål etter input fra skiltleverandør. ",350,H04,Sklitplan er ikke godkjent hos SVV,2025-12-12
-FBX_fm_skilt (2).ifc,Produksjonsunderlag,350,H02,Sklitplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,2025-06-25
-FBX_fm_skilt (2).ifc,For utførelse på anlegg,HOLD,H01,Sklitplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,2025-03-05
-FBX_fm_skilt (2).ifc,For utførelse på anlegg,HOLD,-,Sklitplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,-
-FBX_fm_skilt (2).ifc,I/A,100,I/A,I/A,I/A
-FBX_fm_skilt (2).ifc,-,100,-,-,-
 FBX_fm_skilt.ifc,Skilt pos.nr. 103 og 115 fjerner. Pos.nr. 116 og 117 flyttet til ca pr.nr. 6050. Pos.nr. 128 endret fundament/mast.  ,350,H03,Sklitplan er ikke godkjent hos SVV,2025-08-21
 FBX_fm_skilt.ifc,Produksjonsunderlag,350,H02,Sklitplan er ikke godkjent hos SVV. Mangler avklaringer fra UE.,2025-06-25
 FBX_fm_skilt.ifc,Produksjonsunderlag,350,H02,Sklitplan er ikke godkjent hos SVV,2025-06-25
@@ -3814,7 +3204,6 @@ FBX_fm_veg_32500_overflate.ifc,For utførelse på anlegg. MMI 375 til 400. Lagt 
 FBX_fm_veg_32500_overflate.ifc,For utførelse på anlegg,375,H01,TS-revisjon er ikke gjennomført. Avventer 6 ukers innsyn. Forbehold om teknisk godkjenning for ombygging av eksisterende myrbru K266.,2025-04-11
 FBX_fm_veg_32600.ifc,For utførelse på anlegg. MMI 375 til 400. Lagt til anvisning 7.,400,H02,-,2026-04-14
 FBX_fm_veg_32600.ifc,For utførelse på anlegg. MMI375,375,H01,Avventer 6 ukers innsyn.,2026-02-11
-FBX_fm_veg_32600_overflate (2).ifc,-,300,-,-,-
 FBX_fm_veg_32600_overflate.ifc,For utførelse på anlegg. MMI 375 til 400. Lagt til anvisning 7.,400,H02,-,2026-04-14
 FBX_fm_veg_32600_overflate.ifc,For utførelse på anlegg. MMI375,375,H01,Avventer 6 ukers innsyn.,2026-02-11
 FBX_fm_veg_32900.ifc,For utførelse på anlegg. MMI375,375,H01,"Avventer 6 ukers innsyn. Eksisterende veg er preget av setninger. Det antas at det ligger en eksisterende lettfylling/frostisolering i eksisterende veg. For å få mest mulig homogen veg, så benyttes tilsvarende overbygning i vegutvidelsen frem til profil 250 som ved eksisterende veg.",2026-04-14
@@ -4147,8 +3536,6 @@ FEL_fm_ing-geo_grave-og-sprengningsplan_H19_til FK.ifc,Produksjonsunderlag. Oppr
 FEL_gm_hyg_grunnvannsflate.ifc,-,100,-,-,-
 FEL_gm_hyg_grunnvannsflate.ifc,-,200,-,-,-
 FEL_gm_ing-geo_bergmodell.ifc,Oppdatert etter data fra KS-peler,100,A22,"Bergmodellen må betraktes som veiledende, og gjenspeiler ikke nødvendigvis faktiske forhold. Områder hvor det foreligger tett med grunnundersøkelser (sonderboringer, innmålt berg ol.) er mer nøyaktig enn områder med få grunnundersøkelser. Se FEL_gm_ing-geo_3D-grunnundersøkelsesmodell.ifc.",2024-11-14
-FEL_gm_kabler_Elvia (1).ifc,-,600,-,-,-
-FEL_gm_kabler_FiberSVRØ (1).ifc,-,600,-,-,-
 FEL_gm_kabler_FiberSVRØ.ifc,-,100,-,-,-
 FEL_gm_kabler_SVRØ.ifc,-,600,-,-,-
 FEL_no_fm_ing-geo_grave-og-sprengningsplan.ifc,Produksjonsgrunnlag,200,-,-,-
@@ -4235,45 +3622,6 @@ GSP_H20_til FK_3.ifc,Produksjonsunderlag. Opprettet grave- og sprengningsmodell 
 GTS_fm_belysning_tunnel_Ledelys.ifc,Arbeidsgrunnlag,375,H01,IA,2025-05-15
 GTS_fm_belysning_tunnel_Ledelys.ifc,Arbeidsgrunnlag,375,H01,-,2025-05-15
 GTS_fm_belysning_tunnel_Ledelys.ifc,-,300,C01,-,2024-12-12
-GTS_fm_dren (1).ifc,-,200,H01,-,2025-04-04
-GTS_fm_dren (1).ifc,-,400,H01,-,2025-04-04
-GTS_fm_dren (1).ifc,-,350,H01,-,2025-04-04
-GTS_fm_dren (1).ifc,-,350,H01,Vanntett støp ikke avklart,2025-04-04
-GTS_fm_dren (2).ifc,-,200,H01,-,2025-04-04
-GTS_fm_dren (2).ifc,-,400,H01,-,2025-04-04
-GTS_fm_dren (2).ifc,-,350,H01,-,2025-04-04
-GTS_fm_dren (2).ifc,-,350,H01,Vanntett støp ikke avklart,2025-04-04
-GTS_fm_dren (3).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400,400,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren (3).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400,400,H02,Vanntett støp ikke avklart. Ikke sikkerhetsgodkjent.,2025-05-28
-GTS_fm_dren (3).ifc,-,200,H01,-,2025-04-04
-GTS_fm_dren (3).ifc,-,400,H01,-,2025-04-04
-GTS_fm_dren (4).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400,400,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren (4).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400,400,H02,Vanntett støp ikke avklart. Ikke sikkerhetsgodkjent.,2025-05-28
-GTS_fm_dren (4).ifc,-,200,H01,-,2025-04-04
-GTS_fm_dren (4).ifc,-,400,H01,-,2025-04-04
-GTS_fm_dren (5).ifc,Justert høyde kumbunn,400,H03,Ikke sikkerhetsgodkjent,2026-06-23
-GTS_fm_dren (5).ifc,Presisert ledningsmateriale (PP DV) i egenskaper.,200,H05,Ikke sikkerhetsgodkjent,2025-11-17
-GTS_fm_dren (5).ifc,Presisert ledningsmateriale (PP DV) i egenskaper.,400,H05,Ikke sikkerhetsgodkjent,2025-11-17
-GTS_fm_dren (5).ifc,Rør tilpasset mot grensesnitt E102/E105,400,H04,Ikke sikkerhetsgodkjent,2025-09-10
-GTS_fm_dren (5).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400,400,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren (5).ifc,-,200,H01,Ikke sikkerhetsgodkjent,2025-04-04
-GTS_fm_dren (5).ifc,-,400,H01,Ikke sikkerhetsgodkjent,2025-04-04
-GTS_fm_dren-kummer (1).ifc,,350,H01,,2025-04-04
-GTS_fm_dren-kummer (1).ifc,,100,H01,,2025-04-04
-GTS_fm_dren-kummer (1).ifc,,400,H01,,2025-04-04
-GTS_fm_dren-kummer (1).ifc,,,,,
-GTS_fm_dren-kummer (2).ifc,,350,H01,,2025-04-04
-GTS_fm_dren-kummer (2).ifc,,100,H01,,2025-04-04
-GTS_fm_dren-kummer (2).ifc,,400,H01,,2025-04-04
-GTS_fm_dren-kummer (2).ifc,,,,,
-GTS_fm_dren-kummer (3).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400.,400,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren-kummer (3).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400.,300,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren-kummer (3).ifc,,400,H01,,2025-04-04
-GTS_fm_dren-kummer (3).ifc,,,,,
-GTS_fm_dren-kummer (4).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400.,400,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren-kummer (4).ifc,VA-tunnel-anlegg til produksjonsunderlag MMI400.,300,H02,Ikke sikkerhetsgodkjent,2025-05-28
-GTS_fm_dren-kummer (4).ifc,,400,H01,,2025-04-04
-GTS_fm_dren-kummer (4).ifc,,,,,
 GTS_fm_dren-kummer.ifc,Hevet MMI etter 6 ukers innsyn,400,H05,,2026-04-20
 GTS_fm_dren-kummer.ifc,Rør og kummer i dagsone utenfor GTS-portal tilpasset mur K437,375,H04,Ikke sikkerhetsgodkjent,2026-02-13
 GTS_fm_dren-kummer.ifc,Rør og kummer i dagsone utenfor GTS-portal tilpasset mur K437,375,H04,,2026-02-13
@@ -4312,26 +3660,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-Etappe-1-2.ifc,Arbeidsgrunnlag.,HOLD,H03
 GTS_fm_kon_K432_Gjønnestunnelen-portal-Etappe-1-2.ifc,Arbeidsgrunnlag.,400,H03,IR,2025-02-14
 GTS_fm_kon_K432_Gjønnestunnelen-portal-Etappe-1-2.ifc,Arbeidsgrunnlag.,400,H03,IR,2025-01-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-Etappe-1-2.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,Materialet for vegger og tak i nordre og søndre etappe 05 er endret til SV-Standard,400,H11,IR,2025-11-17
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,"Lagt inn plastrør for etterinjeksjon i øverste del av veggene ved terskelen. Spesifisert gjeldende byggeetappe for anvisning M85 ""oppfylling"" på metadataobjektet. Lagt inn fullforankringshylser for innfestning av høydehinder og skiltnisje. Modellert dybler for innfestning høydehinder. MMI400 satt på resterende konstruksjon med unntak av brannelementer. Material og diameter på trekkerør endret.",400,H10,IR,2025-10-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,"Lagt inn plastrør for etterinjeksjon i øverste del av veggene ved terskelen. Spesifisert gjeldende byggeetappe for anvisning M85 ""oppfylling"" på metadataobjektet. Lagt inn fullforankringshylser for innfestning av høydehinder og skiltnisje. Modellert dybler for innfestning høydehinder. MMI400 satt på resterende konstruksjon med unntak av brannelementer. Material og diameter på trekkerør endret.",HOLD,H10,Brannelementer er skjematisk vist. Modell produseres av leverandør.,2025-10-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,Lagt inn fullforankringshylser for innfesting av brannelementer med tilhørende stikningsobjekt. Lagt inn plastrør for etterinjeksjon i veggene ved terskelen. Oppdatert materiale for avrettingslag. Lagt inn informasjonspiler med anvisninger til jordingsbolter. Introduserer parametere som beskriver dyblenes antall og cc. Setter MMI400 på resterende vegger i sørgående løp og bunnplate 05S.,400,H09,IR,2025-08-07
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,"MMI400 på sørgående vegger for etapper 01, 02 og 03. Innstøpningshylser for kabelstiger er tatt ut av hvelvet. Lagt inn gjengestenger M20 for oppheng av kabelstiger. Tilpasset bunnplate til minisandfang. Lagt inn en liten betongsokkel i OK kum-utsparing i nordre etappe 02 og 04.",400,H08,IR,2025-06-06
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,"MMI400 satt på sørgående etapper 02, 03 og 04. Oppdatert prosesskode for markplate rundt kum, samt modellert gjennomføring av vaskevannsledning i betong i sørgående etapper 02 og 04. Nedsenk for VA-rør i vannterskel er fjernet i nordgående etappe 03, og murkrage er modellert i sørgående nedsenk i etappe 03.",400,H07,IR,2025-05-06
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,MMI400 på etappe 1 nordgående og sørgående løp. Modellert bolter og flattstål for innfesting av brannelementer. Oppdatert anvisning på plastrør for etterinjeksjon. Flyttet tilbake bergbolter til plassering i revisjon H04. Lagt inn igjen injeksjonsslanger i etappe 13 med plassering som i revisjon H04. Fjernet nedsenk under krage i nordgående løp.,400,H06,IR,2025-04-30
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,"Lagt inn tre ekstra rader med foringsrør i begge hvelv, anvisning om armering i områder mellom krage og påhugg og fjernet betongstøp for VA-rør under bunnplate i nordgående hvelv.",400,H05,IR,2025-04-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (1).ifc,Lagt inn rør for tunneldriving. Satt MMI400 på etappe 1 for nord og sør og justert detaljer etter flytting av fuge ved etappe 1.,400,H04,IR,2025-03-18
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"Tilpasset geometri ved portalåpning etappe 05 til ny byggeetappe-inndeling. Lagt til injeksjonsrør og bergbolter i vannterskel etappe 03, samt oppdatert anvisninger tilhørende vannterskel og injeksjonsslange. Horisontal støpeskjøt er innført i vannterskel på høyde med OK bunnplate, med tilhørende injeksjonsslange. Egen anvisning for sørgående injeksjonsslange og injeksjonsslanger i vegger er lagt inn.",400,H12,IR,2026-01-23
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,Tilpasset geometri ved portalåpning etappe 05 til ny byggeetappe-inndeling,400,H12,IR,2025-12-19
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,Materialet for vegger og tak i nordre og søndre etappe 05 er endret til SV-Standard,400,H11,IR,2025-11-17
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"Lagt inn plastrør for etterinjeksjon i øverste del av veggene ved terskelen. Spesifisert gjeldende byggeetappe for anvisning M85 ""oppfylling"" på metadataobjektet. Lagt inn fullforankringshylser for innfestning av høydehinder og skiltnisje. Modellert dybler for innfestning høydehinder. MMI400 satt på resterende konstruksjon med unntak av brannelementer. Material og diameter på trekkerør endret.",400,H10,IR,2025-10-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"Lagt inn plastrør for etterinjeksjon i øverste del av veggene ved terskelen. Spesifisert gjeldende byggeetappe for anvisning M85 ""oppfylling"" på metadataobjektet. Lagt inn fullforankringshylser for innfestning av høydehinder og skiltnisje. Modellert dybler for innfestning høydehinder. MMI400 satt på resterende konstruksjon med unntak av brannelementer. Material og diameter på trekkerør endret.",HOLD,H10,Brannelementer er skjematisk vist. Modell produseres av leverandør.,2025-10-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,Lagt inn fullforankringshylser for innfesting av brannelementer med tilhørende stikningsobjekt. Lagt inn plastrør for etterinjeksjon i veggene ved terskelen. Oppdatert materiale for avrettingslag. Lagt inn informasjonspiler med anvisninger til jordingsbolter. Introduserer parametere som beskriver dyblenes antall og cc. Setter MMI400 på resterende vegger i sørgående løp og bunnplate 05S.,400,H09,IR,2025-08-07
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"MMI400 på sørgående vegger for etapper 01, 02 og 03. Innstøpningshylser for kabelstiger er tatt ut av hvelvet. Lagt inn gjengestenger M20 for oppheng av kabelstiger. Tilpasset bunnplate til minisandfang. Lagt inn en liten betongsokkel i OK kum-utsparing i nordre etappe 02 og 04.",400,H08,IR,2025-06-06
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"MMI400 satt på sørgående etapper 02, 03 og 04. Oppdatert prosesskode for markplate rundt kum, samt modellert gjennomføring av vaskevannsledning i betong i sørgående etapper 02 og 04. Nedsenk for VA-rør i vannterskel er fjernet i nordgående etappe 03, og murkrage er modellert i sørgående nedsenk i etappe 03.",400,H07,IR,2025-05-06
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,MMI400 på etappe 1 nordgående og sørgående løp. Modellert bolter og flattstål for innfesting av brannelementer. Oppdatert anvisning på plastrør for etterinjeksjon. Flyttet tilbake bergbolter til plassering i revisjon H04. Lagt inn igjen injeksjonsslanger i etappe 13 med plassering som i revisjon H04. Fjernet nedsenk under krage i nordgående løp.,400,H06,IR,2025-04-30
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,"Lagt inn tre ekstra rader med foringsrør i begge hvelv, anvisning om armering i områder mellom krage og påhugg og fjernet betongstøp for VA-rør under bunnplate i nordgående hvelv.",400,H05,IR,2025-04-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør (2).ifc,Lagt inn rør for tunneldriving. Satt MMI400 på etappe 1 for nord og sør og justert detaljer etter flytting av fuge ved etappe 1.,400,H04,IR,2025-03-18
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1N.ifc,"Endring av lengdearmering, tverrarmering samt justering av bøylelengder for takplate og krage nordgående løp etappe 1 iht. kommentarer fra Skanska. Armering understøp er ikke inkludert.",400,H05,IR,2025-03-31
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1N.ifc,"Endring av lengdearmering, tverrarmering og justering av bøylelengder for bunnplate sør- og nordgående løp etappe 1 iht. kommentarer fra Skanska",400,H04,IR,2025-03-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1N.ifc,Justert oppstikkende jern i hvelv + byggeetappe,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate.",2025-02-20
@@ -4351,18 +3679,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1S.ifc,Arbeidsgrunnlag.,
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1S.ifc,Arbeidsgrunnlag.,400,H03,IR,2025-01-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1S.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-1S_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N (2).ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H05,IR,2025-09-11
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N (3).ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H05,IR,2025-09-11
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N.ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
 Armering i bunnplate tilpasset ny kumløsning.
 Implementert endringer i armeringsføring etter ønske fra SK.
@@ -4377,18 +3693,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N.ifc,Arbeidsgrunnlag.,
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N.ifc,Arbeidsgrunnlag.,HOLD,H03,"Mangler ferdigstillelse av armering i vegger, takplate og hvelv",2025-02-14
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N.ifc,Arbeidsgrunnlag.,400,H03,IR,2025-01-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_farget (2).ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H05,IR,2025-09-11
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_farget (3).ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H05,IR,2025-09-11
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_farget.ifc,"Plassering av armering i vegger og tak tilpasset ny fugeplassering.
 Armering i bunnplate tilpasset ny kumløsning.
 Implementert endringer i armeringsføring etter ønske fra SK.
@@ -4402,34 +3706,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_h04.ifc,Satt alle obj
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_h04.ifc,Justert byggeetappe.,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate i første rektangulært støp og alle deler i andre rektangulært støp",2025-02-20
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_h04.ifc,Arbeidsgrunnlag.,HOLD,H03,"Mangler ferdigstillelse av armering i vegger, takplate og hvelv",2025-02-14
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2N_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (2).ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
-Implementert endringer i armering i takplate etter ønsker fra SK.
-Lagt inn informasjon om omfar på armering i takplate.
-Justert senteravstand der denne var angitt feil.",400,H06,IR,2025-07-02
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (2).ifc,"Tilpasset armering i vegger til flyttet fuge.
-Justert senteravstander som var angitt feil. 
-Justert lengder på armering som hadde for lite omfar. 
-Implementert endringer i vegger etter ønske fra SK.
-Lagt inn omfar på armering i vegger. Oppdatert mengder og BVBS for armering i vegger.",400,H05,IR,2025-05-15
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (2).ifc,"Armering med MMI HOLD justert til MMI 400 (bunnplate og støp mot VA-kum).
-Implementert endringer i bunnplate etter ønske fra SK.
-Justert senteravstander som var angitt feil.
-Revidert informasjon om omfar.",400,H04,IR,2025-04-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (2).ifc,Justert byggeetappe.,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate i første rektangulært støp og alle deler i andre rektangulært støp",2025-02-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (3).ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
-Implementert endringer i armering i takplate etter ønsker fra SK.
-Lagt inn informasjon om omfar på armering i takplate.
-Justert senteravstand der denne var angitt feil.",400,H06,IR,2025-07-02
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (3).ifc,"Tilpasset armering i vegger til flyttet fuge.
-Justert senteravstander som var angitt feil. 
-Justert lengder på armering som hadde for lite omfar. 
-Implementert endringer i vegger etter ønske fra SK.
-Lagt inn omfar på armering i vegger. Oppdatert mengder og BVBS for armering i vegger.",400,H05,IR,2025-05-15
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (3).ifc,"Armering med MMI HOLD justert til MMI 400 (bunnplate og støp mot VA-kum).
-Implementert endringer i bunnplate etter ønske fra SK.
-Justert senteravstander som var angitt feil.
-Revidert informasjon om omfar.",400,H04,IR,2025-04-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S (3).ifc,Justert byggeetappe.,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate i første rektangulært støp og alle deler i andre rektangulært støp",2025-02-20
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S.ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
 Implementert endringer i armering i takplate etter ønsker fra SK.
 Lagt inn informasjon om omfar på armering i takplate.",400,H06,IR,2025-07-03
@@ -4459,34 +3735,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S.ifc,Arbeidsgrunnlag.,
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S.ifc,Arbeidsgrunnlag.,400,H02,IR,2025-02-17
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S.ifc,Arbeidsgrunnlag.,400,H03,IR,2025-01-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (2).ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
-Implementert endringer i armering i takplate etter ønsker fra SK.
-Lagt inn informasjon om omfar på armering i takplate.
-Justert senteravstand der denne var angitt feil.",400,H06,IR,2025-07-02
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (2).ifc,"Tilpasset armering i vegger til flyttet fuge.
-Justert senteravstander som var angitt feil. 
-Justert lengder på armering som hadde for lite omfar. 
-Implementert endringer i vegger etter ønske fra SK.
-Lagt inn omfar på armering i vegger. Oppdatert mengder og BVBS for armering i vegger.",400,H05,IR,2025-05-15
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (2).ifc,"Armering med MMI HOLD justert til MMI 400 (bunnplate og støp mot VA-kum).
-Implementert endringer i bunnplate etter ønske fra SK.
-Justert senteravstander som var angitt feil.
-Revidert informasjon om omfar.",400,H04,IR,2025-04-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (2).ifc,Justert byggeetappe.,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate i første rektangulært støp og alle deler i andre rektangulært støp",2025-02-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (3).ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
-Implementert endringer i armering i takplate etter ønsker fra SK.
-Lagt inn informasjon om omfar på armering i takplate.
-Justert senteravstand der denne var angitt feil.",400,H06,IR,2025-07-02
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (3).ifc,"Tilpasset armering i vegger til flyttet fuge.
-Justert senteravstander som var angitt feil. 
-Justert lengder på armering som hadde for lite omfar. 
-Implementert endringer i vegger etter ønske fra SK.
-Lagt inn omfar på armering i vegger. Oppdatert mengder og BVBS for armering i vegger.",400,H05,IR,2025-05-15
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (3).ifc,"Armering med MMI HOLD justert til MMI 400 (bunnplate og støp mot VA-kum).
-Implementert endringer i bunnplate etter ønske fra SK.
-Justert senteravstander som var angitt feil.
-Revidert informasjon om omfar.",400,H04,IR,2025-04-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget (3).ifc,Justert byggeetappe.,HOLD,H03,"Mangler ferdigstillelse av armering i hvelv, vegger og takplate i første rektangulært støp og alle deler i andre rektangulært støp",2025-02-20
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_farget.ifc,"Armering i takplate tilpasset plassering av flyttet fuge. 
 Implementert endringer i armering i takplate etter ønsker fra SK.
 Lagt inn informasjon om omfar på armering i takplate.",400,H06,IR,2025-07-03
@@ -4535,14 +3783,6 @@ Justert senteravstander som var angitt feil.
 Revidert informasjon om omfar.",400,H04,IR,2025-04-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-2S_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3 terskel.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N (2).ifc,"Fjernet prefiks K432 på byggeetapper.
-Implementert endringer i armeringsføring etter ønsker fra SK.
-Lagt informasjon om omfar på all armering og i metadataobjekt.
-Metadataobjekt oppdatert med informasjon om godkjenningsbrev fra VD.
-Lagt inn BVBS-koder på all armering.
-Alle objekter oppjustert til MMI lik 400.
-Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
-Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-03
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N.ifc,"Fjernet prefiks K432 på byggeetapper.
 Implementert endringer i armeringsføring etter ønsker fra SK.
 Lagt informasjon om omfar på all armering og i metadataobjekt.
@@ -4561,14 +3801,6 @@ Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
 Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-01
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_c01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_farget (2).ifc,"Fjernet prefiks K432 på byggeetapper.
-Implementert endringer i armeringsføring etter ønsker fra SK.
-Lagt informasjon om omfar på all armering og i metadataobjekt.
-Metadataobjekt oppdatert med informasjon om godkjenningsbrev fra VD.
-Lagt inn BVBS-koder på all armering.
-Alle objekter oppjustert til MMI lik 400.
-Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
-Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-03
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_farget.ifc,"Fjernet prefiks K432 på byggeetapper.
 Implementert endringer i armeringsføring etter ønsker fra SK.
 Lagt informasjon om omfar på all armering og i metadataobjekt.
@@ -4594,108 +3826,6 @@ Alle objekter oppjustert til MMI lik 400.
 Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
 Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-01
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Lagt inn oppstikkende skjøtarmering mellom vannterskelvegg og -bunnstøp på nordside etter samme prinsipp som sørside (nytt posnr 6036).
-Posnr 6009: oppdatert anvisning (lagt til vegg nordgående).
-Implementert endringer armeringsføring vannterskel etter ønsker fra SK.
-All armering i vannterskel er løftet opp på MMI lik 400.
-Info om omfar på all armering i vannterskel.",400,H06,IR,2025-10-03
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.
-Lagt anvisning på armering med potensiell kollisjon med injeksjonsrør.",400,H05,IR,2025-08-07
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",HOLD,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",HOLD,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-08-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-08-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S (4).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,"Lagt inn oppstikkende skjøtarmering mellom vannterskelvegg og -bunnstøp på nordside etter samme prinsipp som sørside (nytt posnr 6036).
 Posnr 6009: oppdatert anvisning (lagt til vegg nordgående).
 Implementert endringer armeringsføring vannterskel etter ønsker fra SK.
@@ -4753,108 +3883,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,Til teknisk godkj
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,UNDER ARBEID,400,H02,IR,2025-
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,UNDER ARBEID,HOLD,H02,IR,2025-
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_C01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Lagt inn oppstikkende skjøtarmering mellom vannterskelvegg og -bunnstøp på nordside etter samme prinsipp som sørside (nytt posnr 6036).
-Posnr 6009: oppdatert anvisning (lagt til vegg nordgående).
-Implementert endringer armeringsføring vannterskel etter ønsker fra SK.
-All armering i vannterskel er løftet opp på MMI lik 400.
-Info om omfar på all armering i vannterskel.",400,H06,IR,2025-10-03
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.
-Lagt anvisning på armering med potensiell kollisjon med injeksjonsrør.",400,H05,IR,2025-08-07
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (2).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",HOLD,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-07-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (3).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernt prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",HOLD,H02,IR,2025-05-09
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",400,H05,IR,2025-08-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,"Lagt inn informasjon om omfar på armering i takplate.
-Implementert endringer i armering takplate etter ønsker fra Skanska.
-Lagt inn langsgående armering som manglet i UK, etappe T31S.",HOLD,H05,Mangler ferdigstillelse av armering vannterskel.,2025-08-04
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,Lagt inn skrukoblinger mellom vegg V31S og vannterskel på sørside.,400,H04,IR,2025-06-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,"Implentert endringer i vegger etter ønske fra Skanska.
-Informasjon om omfar på armering vegger.
-Lagt inn manglende vertikalarmering IK vegg sør (V33S).
-Endret armeringsføring vannterskel sørside (overgang bunnplate/vegg).
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i takplate og vannterskel.,2025-05-22
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget (4).ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
-MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
-Satt MMI HOLD på armering i vegger/tak.
-Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
-Fjernet prefix K432 på byggeetappe.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget.ifc,"Lagt inn oppstikkende skjøtarmering mellom vannterskelvegg og -bunnstøp på nordside etter samme prinsipp som sørside (nytt posnr 6036).
 Posnr 6009: oppdatert anvisning (lagt til vegg nordgående).
 Implementert endringer armeringsføring vannterskel etter ønsker fra SK.
@@ -4981,22 +4009,6 @@ Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjen
 Fjernet prefix K432 på byggeetappe.
 Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N (2).ifc,"Fjernet prefiks K432 på byggeetapper.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N (3).ifc,"Fjernet prefiks K432 på byggeetapper.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N.ifc,"Fjernet prefiks K432 på byggeetapper.
 Armering i bunnplate tilpasset ny kumløsning.
 Implementert endringer i armeringsføring etter ønske fra SK.
@@ -5015,22 +4027,6 @@ Lagt BVBS-koder på all armering.
 Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N_c01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N_farget (2).ifc,"Fjernet prefiks K432 på byggeetapper.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N_farget (3).ifc,"Fjernet prefiks K432 på byggeetapper.
-Armering i bunnplate tilpasset ny kumløsning.
-Implementert endringer i armeringsføring etter ønske fra SK.
-Lagt informasjon om omfar på all armering.
-Oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-Lagt BVBS-koder på all armering.
-Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N_farget.ifc,"Fjernet prefiks K432 på byggeetapper.
 Armering i bunnplate tilpasset ny kumløsning.
 Implementert endringer i armeringsføring etter ønske fra SK.
@@ -5048,34 +4044,6 @@ Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
 Lagt BVBS-koder på all armering.
 Oppjustert alle objekter til MMI lik 400.",400,H02,IR,2025-11-18
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4N_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska. 
-Lagt informasjon om omfar på armering i vegger.
-BVBS-koder på armering i vegger.
-Revidert oppstikkende armering fra bunnplate: lagt inn skrukoblinger 5 m ut fra fuge mot etappe 3.",400,H03,IR,2025-08-14
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-06-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H02,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-06-19
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H02,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-19
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S.ifc,"Implentert endringer i armering tak etter ønsker fra Skanska. 
 Lagt informasjon om omfar på armering i takplate.
 BVBS-koder på armering i tak.
@@ -5113,34 +4081,6 @@ BVBS-koder på armering i bunnplate.
 Justert senteravstander som var angitt feil.",HOLD,H02,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-19
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_C01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget (2).ifc,"Implentert endringer i vegger etter ønske fra Skanska. 
-Lagt informasjon om omfar på armering i vegger.
-BVBS-koder på armering i vegger.
-Revidert oppstikkende armering fra bunnplate: lagt inn skrukoblinger 5 m ut fra fuge mot etappe 3.",400,H03,IR,2025-08-14
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-06-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H02,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-20
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H02,IR,2025-06-19
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementert endringer i bunnplate etter ønske fra Skanska.
-Informasjon om omfar på armering i bunnplate, samt oppdatert informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H02,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-19
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-4S_farget.ifc,"Implentert endringer i armering tak etter ønsker fra Skanska. 
 Lagt informasjon om omfar på armering i takplate.
 BVBS-koder på armering i tak.
@@ -5210,42 +4150,6 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5N.ifc,Utvidet utstrekni
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5N.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5N_farget.ifc,Implentert endringer i armering vegger og tak etter ønsker fra Skanska.  Tilrettelagt for skjøtekobling mellom vegg og terskelvegg.  Lagt til omfarsparameter på jern. Oppjustert alle objekter til MMI400 og lagt til BVBS på all armering.,400,H03,IR,2026-02-17
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5N_rebarSets.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (2).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",400,H04,IR,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (2).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",HOLD,H04,Mangler ferdigstillelse av armering i brem / terskelvegg.,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (3).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",400,H04,IR,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (3).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",HOLD,H04,Mangler ferdigstillelse av armering i brem / terskelvegg.,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (3).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S (3).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S.ifc,"Justert armering etter ønsket støpeskjøt for brem og terskelvegg.
 Lagt all armering på MMI 400, og lagt BVBS-kode på armering som tidligere var på HOLD.
 Flyttet oppstikkende bøyler i bunnstøp til terskelvegg fra etappe 5N.",400,H05,IR,2026-01-16
@@ -5283,42 +4187,6 @@ Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfa
 Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
 BVBS-koder på armering i bunnplate.
 Justert senteravstander som var angitt feil.",400,H03,IR,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (2).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",400,H04,IR,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (2).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",HOLD,H04,Mangler ferdigstillelse av armering i brem / terskelvegg.,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (2).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (3).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",400,H04,IR,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (3).ifc,"Implentert endringer i armering vegger og tak etter ønsker fra Skanska. 
-Lagt informasjon om omfar på armering i vegger og takplate.
-BVBS-koder på armering i vegger og tak.",HOLD,H04,Mangler ferdigstillelse av armering i brem / terskelvegg.,2025-08-26
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (3).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",400,H03,IR,2025-06-24
-GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget (3).ifc,"Fjernet prefiks K432 for byggeetapper.
-Implementere endringer etter ønske fra Skanska i armering bunnplate.
-Informasjon om omfar på armering i bunnplate, samt oppdater informasjon om omfar i metadataobjekt.
-Lagt inn informasjon om godkjenningsbrev i metadataobjekt.
-BVBS-koder på armering i bunnplate.
-Justert senteravstander som var angitt feil.",HOLD,H03,Mangler ferdigstillelse av armering i vegger og takplate,2025-06-24
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-5S_farget.ifc,"Justert armering etter ønsket støpeskjøt for brem og terskelvegg.
 Lagt all armering på MMI 400, og lagt BVBS-kode på armering som tidligere var på HOLD.
 Flyttet oppstikkende bøyler i bunnstøp til terskelvegg fra etappe 5N.",400,H05,IR,2026-01-16
@@ -5448,11 +4316,7 @@ GTS_fm_kon_K437_Gjønnestunnelen-støttemur-II.ifc,"Justert skjærlås, oppdater
 GTS_fm_kon_K437_Gjønnestunnelen-støttemur-II.ifc,Til orientering,200,-,-,-
 GTS_fm_kon_K437_Gjønnestunnelen-støttemur-II_C02.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet,2025-12-19
 GTS_fm_merking.ifc,Heving til MMI350,350,H02,I/A,2026-04-24
-GTS_fm_skilt_Nordgående (1).ifc,For utførelse på anlegg,350,H01,-,2025-05-16
-GTS_fm_skilt_Nordgående (2).ifc,For utførelse på anlegg,350,H01,-,2025-05-16
 GTS_fm_skilt_Nordgående.ifc,For utførelse på anlegg,350,C01,-,ÅÅÅÅ-MM-DD
-GTS_fm_skilt_Sørgående (1).ifc,For utførelse på anlegg,350,H01,-,2025-05-16
-GTS_fm_skilt_Sørgående (3).ifc,For utførelse på anlegg,350,H01,-,2025-05-16
 GTS_fm_skilt_Sørgående.ifc,For utførelse på anlegg,350,C01,-,ÅÅÅÅ-MM-DD
 GTS_fm_tunnel_Bankett-Nordgående.ifc,Produksjonsunderlag. Første utsendelse.,375,H01,Avventer 6 ukers innsyn. Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-05-28
 GTS_fm_tunnel_Bankett-Sørgående.ifc,Produksjonsunderlag. Første utsendelse.,375,H01,Avventer 6 ukers innsyn. Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-05-28
@@ -5475,14 +4339,12 @@ GTS_fm_tunnel_Sprengning-Sørgående.ifc,Arbeidsgrunnlag,400,H01,-,2024-01-22
 GTS_fm_tunnel_Sprengning-Tverforbindelse-1605.ifc,Arbeidsgrunnlag,400,H01,-,2024-01-22
 GTS_fm_tunnel_Sprengning-Tverrforbindelse-1605.ifc,Oppdatert sprengningsprofil med grøfter,400,H02,Ikke godkjent for sikkerhetsgodkjennelse trinn 2.,2025-05-28
 GTS_fm_tunnel_Sprengning-Tverrforbindelse-1605.ifc,Arbeidsgrunnlag,400,H01,-,2024-01-22
-GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående (1).ifc,Produksjonsunderlag. Første utsendelse,375,H01,Avventer 6 ukers innsyn. Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-05-28
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,Oppdatert til MMI400,400,H02,Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-08-20
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,Oppdatert til MMI400. Lagt til henvisning til tegninger for trekkekummer,400,H02,Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-08-20
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,-,375,H01,Avventer 6 ukers innsyn,2025-05-28
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,Produksjonsunderlag. Første utsendelse,375,H01,Avventer 6 ukers innsyn. Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-05-28
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,-,300,H01,-,2024-12-19
 GTS_fm_tunnel_Tekniske-Installasjoner-Nordgående.ifc,-,300,-,-,-
-GTS_fm_tunnel_Tekniske-Installasjoner-Sørgående (1).ifc,Produksjonsunderlag. Første utsendelse,375,H01,Avventer 6 ukers innsyn. Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-05-28
 GTS_fm_tunnel_Tekniske-Installasjoner-Sørgående.ifc,Oppdatert til MMI400,400,H02,Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-08-20
 GTS_fm_tunnel_Tekniske-Installasjoner-Sørgående.ifc,Oppdatert til MMI400. Lagt til henvisning til tegninger for trekkekummer,400,H02,Ikke godkjent for sikkerhetsgodkjennelse trinn 2,2025-08-20
 GTS_fm_tunnel_Tekniske-Installasjoner-Sørgående.ifc,-,375,H01,Avventer 6 ukers innsyn,2025-05-28
@@ -5510,42 +4372,6 @@ H03_Form.ifc,Arbeidsgrunnlag,400,H03,-,2024-02-07
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Ledelysstriper tilpasset dører og utsparinger,400,H04,-,2025-12-05
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Arbeidsgrunnlag,400,H03,-,2025-01-27
 HTØ_fm_belysning_tunnel_Ledelys.ifc,Tverrfaglig kontrollert løsning til innsyn hos BH,375,H02,-,2024-11-15
-HTØ_fm_dren (1).ifc,-,HOLD,C06,-,2024-11-15
-HTØ_fm_dren (1).ifc,-,350,C06,-,2024-11-15
-HTØ_fm_dren (1).ifc,-,300,C06,-,2024-11-15
-HTØ_fm_dren (1).ifc,Justert plassering for slokkevann etter oppdatert konstruksjonsmodell,400,H05,-,2024-11-04
-HTØ_fm_dren (1).ifc,Flyttet kummer i bergtunnel 10 meter bort fra påhugg,400,H04,-,2024-09-17
-HTØ_fm_dren (1).ifc,-,350,A03,Endringer på K423 kan påvirke VA anlegg,2024-09-17
-HTØ_fm_dren (1).ifc,-,100,A03,Endringer på K423 kan påvirke VA anlegg,2024-09-17
-HTØ_fm_dren (2).ifc,Utgått vanntett støp i vestgående løp. Anvisning om minimumsoverdekning i anleggsfase ved HPS01. Senket grøft ved grensesnitt E102/E103 i vestgående løp.,400,H09,-,2025-04-30
-HTØ_fm_dren (2).ifc,Hevet VL63 med fall mot kum,400,H08,-,2025-02-12
-HTØ_fm_dren (2).ifc,Oppjustert MMI,400,H08,-,2025-02-12
-HTØ_fm_dren (2).ifc,Oppjustert MMI,400,H07,-,2024-12-19
-HTØ_fm_dren (2).ifc,Justert plassering for slokkevann etter oppdatert konstruksjonsmodell,400,H05,-,2024-11-04
-HTØ_fm_dren (2).ifc,Flyttet kummer i bergtunnel 10 meter bort fra påhugg,400,H04,-,2024-09-17
-HTØ_fm_dren (3).ifc,Utgått vanntett støp i østgående løp.,400,H10,-,2025-05-28
-HTØ_fm_dren (3).ifc,Utgått vanntett støp i vestgående løp. Anvisning om minimumsoverdekning i anleggsfase ved HPS01. Senket grøft ved grensesnitt E102/E103 i vestgående løp.,400,H09,-,2025-04-30
-HTØ_fm_dren (3).ifc,Oppjustert MMI,400,H08,-,2025-02-12
-HTØ_fm_dren (3).ifc,Hevet VL63 med fall mot kum,400,H08,-,2025-02-12
-HTØ_fm_dren (3).ifc,Oppjustert MMI,400,H07,-,2024-12-19
-HTØ_fm_dren (3).ifc,Justert plassering for slokkevann etter oppdatert konstruksjonsmodell,400,H05,-,2024-11-04
-HTØ_fm_dren (3).ifc,Flyttet kummer i bergtunnel 10 meter bort fra påhugg,400,H04,-,2024-09-17
-HTØ_fm_dren (4).ifc,Utgått vanntett støp i østgående løp.,400,H10,-,2025-06-11
-HTØ_fm_dren (4).ifc,Utgått vanntett støp i vestgående løp. Anvisning om minimumsoverdekning i anleggsfase ved HPS01. Senket grøft ved grensesnitt E102/E103 i vestgående løp.,400,H09,-,2025-04-30
-HTØ_fm_dren (4).ifc,Oppjustert MMI,400,H08,-,2025-02-12
-HTØ_fm_dren (4).ifc,Hevet VL63 med fall mot kum,400,H08,-,2025-02-12
-HTØ_fm_dren (4).ifc,Oppjustert MMI,400,H07,-,2024-12-19
-HTØ_fm_dren (4).ifc,Justert plassering for slokkevann etter oppdatert konstruksjonsmodell,400,H05,-,2024-11-04
-HTØ_fm_dren (4).ifc,Flyttet kummer i bergtunnel 10 meter bort fra påhugg,400,H04,-,2024-09-17
-HTØ_fm_dren-kummer (1).ifc,Utgått vanntett støp i østgående løp. Justert brannvann tilkobling HTØ-GTS. Justert brannvann i TF7704 etter endret skapplassering.,400,H09,,2025-06-11
-HTØ_fm_dren-kummer (1).ifc,Utgått vanntett støp i østgående løp. Justert brannvann tilkobling HTØ-GTS. Justert brannvann i TF7704 etter endret skapplassering.,300,H09,"Under vurdering, faglige avklaringer gjenstår",2025-06-11
-HTØ_fm_dren-kummer (1).ifc,,300,C09,"Under vurdering, faglige avklaringer gjenstår",2025-06-11
-HTØ_fm_dren-kummer (1).ifc,Utgått vanntett støp i vestgående løp,400,H08,,2025-04-30
-HTØ_fm_dren-kummer (1).ifc,Detaljmodellert kummer,400,H07,,2025-02-12
-HTØ_fm_dren-kummer (1).ifc,Oppjustert MMI. Tilpasset VA-grøfter i hovedløp. Plassert brannskap i K423. Ny stake/spyle-kum i K420.,400,H06,,2024-12-19
-HTØ_fm_dren-kummer (1).ifc,Justert plassering for slokkevann etter oppdatert konstruksjonsmodell,400,H04,,2024-11-04
-HTØ_fm_dren-kummer (1).ifc,,400,H02,,2024-08-14
-HTØ_fm_dren-kummer (1).ifc,,,,,
 HTØ_fm_dren-kummer.ifc,Oppdatert armering fortopp støpehøyde av grøftesperrer ved entreprisegrensen,400,H14,-,2026-02-18
 HTØ_fm_dren-kummer.ifc,Oppdatert geometri for topp støpehøyde av grøftesperrer ved entreprisegrense.,400,H14,,2026-02-18
 HTØ_fm_dren-kummer.ifc,Oppdatert geometri for topp støpehøyde av grøftesperrer ved entreprisegrense.,400,H13,-,2026-01-13
@@ -6136,12 +4962,6 @@ HTØ_fm_kon_K423_Høviktunnelen-ventilasjonssjakt-øst_før_FK.ifc,Ny inndeling 
 HTØ_fm_kon_K423_Høviktunnelen-ventilasjonssjakt-øst_v1.ifc,Til teknisk godkjenning.,350,C01,-,2024-08-30
 HTØ_fm_kon_K460_Armering - kopisegment.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
 HTØ_fm_kon_K460_Armering - utkopiert.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,2025-05-23
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,Endret materiale på fundamenter for brannelementer. Lagt inn sikringsstøp for Gjønnestunnel.,HOLD,H08,Branndimensjonering ikke endelig godkjent,2025-12-09
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,Endret materiale på fundamenter for brannelementer. Lagt inn sikringsstøp for Gjønnestunnel.,350,H08,Beregninger til kontroll hos 3.part.,2025-12-09
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,Lagt til fundamenter for brannelementer. Tilpasset isolasjon rundt fundamenter for brannelementer. Drensrør og knotteplast lagt til over sålen.,HOLD,H07,Branndimensjonering ikke endelig godkjent,2025-11-07
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,Endret støpeskjøter for hvelv til normalt på lengdefall,400,H06,IR,2025-09-19
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,MMI400 på hvelv etappe 1-5. Modellert innfesting for brannelementer. Gruppert bergbolter. Rettet opp mengde hvelv etappe H51.,400,H05,IR,2025-08-22
-HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående (2).ifc,"Arbeidsgrunnlag. Lagt inn ny anvisning for innstøpte drensrør. Oppdatert betonganvisning for metadata. Revidert anvisning for understøp, drensrør, membran og tilbakefylling. Lagt til lenke for armering av understøp. Fjernet beskyttelsesduk over takplate og fiberduk bak innstøpte rør i fundament. Modellert stikningsdata for forskalingsvogn og informasjonsobjekter for jordingsbolter. Modellert bergbolter. Endret visningsfarge for tette rør. Fundament modellert 40mm høyere i fremkant. Senket VA-kum. Delt U71 opp i flere byggeetapper.",400,H03,IR,2025-06-23
 HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående-Armering.ifc,Lagt til anvisning på skjærarmering i hvelv.,400,H08,IR,2025-10-02
 HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående-Armering.ifc,Lagt til anvisning på lengdearmering i hvelv. Endret tverrarmering ø16 formkode 99-214 til formkode 99-102. Justert dordiameter for posnr 4061.,400,H07,IR,2025-08-05
 HTØ_fm_kon_K460_Høviktunnelen-betongtunnel-vestgående-Armering.ifc,Endret tverrarmering i hvelv.,400,H06,IR,2025-07-04
@@ -6243,13 +5063,9 @@ HTØ_fm_kon_K464_Høviktunnelen-vanntett-støp.ifc,Til uavhengig kontroll,350,C0
 HTØ_fm_kon_K464_Høviktunnelen-vanntett-støp.ifc,Til uavhengig kontroll,350,C01,Mangler godkjenning hos Vegdirektoratet.,2024-12-17
 HTØ_fm_kon_K464_Høviktunnelen-vanntett-støp.ifc,Til teknisk godkjenning,350,C01,Mangler godkjenning hos Vegdirektoratet.,åååå-mm-dd
 HTØ_fm_merking.ifc,I/A,350,H02,I/A,2026-04-24
-HTØ_fm_skilt_Vestgående (1).ifc,For utførelse på anlegg,350,H01,-,2025-02-14
-HTØ_fm_skilt_Vestgående (3).ifc,For utførelse på anlegg,350,H01,-,ÅÅÅÅ-MM-DD
 HTØ_fm_skilt_Vestgående.ifc,For utførelse på anlegg,350,H01,-,2026-01-26
 HTØ_fm_skilt_Vestgående.ifc,For utførelse på anlegg,350,H01,-,2025-02-14
 HTØ_fm_skilt_Vestgående.ifc,For utførelse på anlegg,350,H01,-,ÅÅÅÅ-MM-DD
-HTØ_fm_skilt_Østgående (1).ifc,For utførelse på anlegg,350,H01,-,2025-02-14
-HTØ_fm_skilt_Østgående (4).ifc,For utførelse på anlegg,350,H01,-,ÅÅÅÅ-MM-DD
 HTØ_fm_skilt_Østgående.ifc,For utførelse på anlegg,350,H01,-,2026-01-26
 HTØ_fm_skilt_Østgående.ifc,For utførelse på anlegg,350,H01,-,2025-02-14
 HTØ_fm_skilt_Østgående.ifc,For utførelse på anlegg,350,H01,-,ÅÅÅÅ-MM-DD
@@ -6594,14 +5410,6 @@ HTØ_fm_tunnel_Sprengning-Østgående.ifc,Arbeidsgrunnlag,300,H01,-,-
 HTØ_fm_tunnel_Sprengning-Østgående.ifc,Arbeidsgrunnlag,-,-,-,-
 HTØ_fm_tunnel_Sprengning-Østgående.ifc,Arbeidsgrunnlagf,300,H01,-,-
 HTØ_fm_tunnel_Sprengning-Østgående_H03.ifc,Justert VA grøfter gjennom tunnel,400,H03,-,2024-04-16
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Endret dimensjon på ramme (TK1),400,H07,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Flyttet kabelstige etter modell fra Ølen betong,400,H07,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Ny kabelstige,400,H07,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Flyttet tilbake til tidligere plassering,400,H07,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Link til tegning J110 er lagt til,400,H06,-,2025-11-07
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Flyttet trekkekum på grunn av kollisjon med VA-kum,400,H06,-,2025-11-07
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Flyttet trekkekum,400,H05,-,2025-10-13
-HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående (2).ifc,Produksjonsunderlag,400,H02,-,2025-01-28
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,Ny trekkekum,400,H08,-,2026-04-16
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,Endret dimensjon på ramme (TK1),400,H07,-,2025-12-19
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,Flyttet kabelstige etter modell fra Ølen betong,400,H07,-,2025-12-19
@@ -6620,15 +5428,6 @@ HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,Ny trekkekum for kryssend
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,-,400,H02,-,2025-01-28
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,Produksjonsunderlag,400,H02,-,2025-01-28
 HTØ_fm_tunnel_Tekniske-installasjoner-Vestgående.ifc,-,375,H01,Avventer 6 ukers innsyn,2024-11-15
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (2).ifc,-,400,H02,-,2025-01-28
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (2).ifc,-,HOLD,H02,-,2025-01-28
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Endret dimensjon på ramme (TK1),400,H06,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Flyttet kabelstige etter modell fra Ølen betong,400,H06,-,2025-12-19
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Link til tegning J110 er lagt til,400,H05,-,2025-11-07
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Flyttet på grunn av kollisjon med veggfundament. Link til tegning J110 er lagt til,400,H05,-,2025-11-07
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Flyttet på grunn av kollisjon med veggfundament,400,H05,-,2025-11-07
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Ny kabelstige,400,H03,-,2025-06-11
-HTØ_fm_tunnel_Tekniske-installasjoner-Østgående (4).ifc,Produksjonsunderlag,400,H02,-,2025-01-28
 HTØ_fm_tunnel_Tekniske-installasjoner-Østgående.ifc,Endret dimensjon på ramme (TK1),400,H06,-,2025-12-19
 HTØ_fm_tunnel_Tekniske-installasjoner-Østgående.ifc,Flyttet kabelstige etter modell fra Ølen betong,400,H06,-,2025-12-19
 HTØ_fm_tunnel_Tekniske-installasjoner-Østgående.ifc,Link til tegning J110 er lagt til,400,H05,-,2025-11-07
@@ -6806,7 +5605,6 @@ K422_Armering nødstasjon.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
 K422_Armering terskel.ifc,Til teknisk godkjenning.,350,C01,-,2024-01-12
 K422_Armering terskel.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
 K422_Armering terskel_old.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-21
-K422_Armering_VA-understøp (2).ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
 K422_Armering_VA-understøp.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
 K422_Armering_vegger_e1-e3.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
 K422_Armering_vegger_e1-e3_20231207.ifc,Til teknisk godkjenning.,350,C01,-,2023-12-08
@@ -6902,10 +5700,6 @@ VLG_fm_geoteknikk_V9291_ks-VA-flomvei.ifc,Som bygget,500,Z03,-,2024-05-24
 VLG_fm_geoteknikk_V9291_ks-VA-flomvei.ifc,Tilpasset KS-pel etter ny plassering VA. Endret innblandningsmengde.  Oppdatert terreng- og bergmodell. ,400,H02,-,2024-02-21
 VLG_fm_geoteknikk_V9291_ks-rensebasseng.ifc,Som bygget,500,Z04,-,2024-05-24
 VLG_fm_geoteknikk_V9291_ks-va.ifc,Som bygget,500,Z04,-,2024-05-24
-VLG_fm_kabler (3).ifc,Arbeidsgrunnlag ,100,C01,-,ÅÅÅÅ-MM-DD
-VLG_fm_kabler (3).ifc,Arbeidsgrunnlag,100,C01,-,ÅÅÅÅ-MM-DD
-VLG_fm_kabler (3).ifc,-,-,-,-,-
-VLG_fm_kabler (3).ifc,Arbeidsgrunnlag ,100,None,-,ÅÅÅÅ-MM-DD
 VLG_fm_kabler_John-strandruds-vei.ifc,Arbeidsgrunnlag ,100,A01,-,ÅÅÅÅ-MM-DD
 VLG_fm_kabler_john-strandruds-vei.ifc,Oppdatering av MMI til 400,400,H02,-,2024-10-25
 VLG_fm_kabler_john-strandruds-vei.ifc,"Høgdejustering, oppdatering av MMI til 400",400,H02,-,2024-10-20
