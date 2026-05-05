@@ -3007,6 +3007,22 @@ Alle objekter oppjustert til MMI lik 400.
 Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
 Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-01
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
+GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_Farget.ifc,"Fjernet prefiks K432 på byggeetapper.
+Implementert endringer i armeringsføring etter ønsker fra SK.
+Lagt informasjon om omfar på all armering og i metadataobjekt.
+Metadataobjekt oppdatert med informasjon om godkjenningsbrev fra VD.
+Lagt inn BVBS-koder på all armering.
+Alle objekter oppjustert til MMI lik 400.
+Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
+Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-01
+GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_H02.ifc,"Fjernet prefiks K432 på byggeetapper.
+Implementert endringer i armeringsføring etter ønsker fra SK.
+Lagt informasjon om omfar på all armering og i metadataobjekt.
+Metadataobjekt oppdatert med informasjon om godkjenningsbrev fra VD.
+Lagt inn BVBS-koder på all armering.
+Alle objekter oppjustert til MMI lik 400.
+Jern i mulig konflikt med injeksjonsrør i vannterskel har fått anvisning.
+Lagt inn anvisning på armering som må legges innenfor skjærarmering i vegg.",400,H02,IR,2025-10-01
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_c01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3N_farget.ifc,"Fjernet prefiks K432 på byggeetapper.
 Implementert endringer i armeringsføring etter ønsker fra SK.
@@ -3090,6 +3106,18 @@ GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,Til teknisk godkj
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,UNDER ARBEID,400,H02,IR,2025-
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S.ifc,UNDER ARBEID,HOLD,H02,IR,2025-
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_C01.ifc,Til teknisk godkjenning.,350,C01,Mangler godkjenning hos Vegdirektoratet,2024-10-25
+GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_Farget.ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
+MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
+Satt MMI HOLD på armering i vegger/tak.
+Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
+Fjernet prefix K432 på byggeetappe.
+Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
+GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_H06.ifc,"Implentert endringer i bunnplate etter ønske fra Skanska.
+MMI 400 på armering i bunnplate og lagt informasjon om omfar på denne.
+Satt MMI HOLD på armering i vegger/tak.
+Metadataobjekt oppdatert informasjon om omfar og lagt inn informasjon om godkjenningsnotat.
+Fjernet prefix K432 på byggeetappe.
+Justert senteravstander som var angitt feil.",400,H02,IR,2025-05-12
 GTS_fm_kon_K432_Gjønnestunnelen-portal-sør-Arm-Etappe-3S_farget.ifc,"Lagt inn oppstikkende skjøtarmering mellom vannterskelvegg og -bunnstøp på nordside etter samme prinsipp som sørside (nytt posnr 6036).
 Posnr 6009: oppdatert anvisning (lagt til vegg nordgående).
 Implementert endringer armeringsføring vannterskel etter ønsker fra SK.
